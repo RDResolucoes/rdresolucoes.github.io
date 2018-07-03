@@ -8,7 +8,7 @@ layout: default
 Acompanhe passo a passo como se tornar um membro da RDResoluções!
 
 ## ***Cadastro***
-Escolha o cargo que deseja disputar na RD. Você irá informar a gente qual será o cargo durante o Teste Online;
+Escolha o cargo que deseja disputar na RD. Você irá nos informar qual será o cargo durante o Teste Online;
 
 Realize seu cadastro em nossa [Landing Page de Recrutamento][recruta], caso já não tenha feito;
 
