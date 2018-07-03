@@ -18,4 +18,4 @@ A nossa administração é composta de universitários das áreas da engenharia 
 Nossa sede fica na cidade de São Carlos, estado de São Paulo. A cidade tem o Campus da USP, com cursos de Engenharia, Ciências Exatas e Arquitetura, e o campus da UFsCar, tanto com cursos de exatas quanto de biológicas e humanas.
 
 
-[back](./)                                                          // [O Trabalho](./otrabalho.html)
+[back](./)                                                      

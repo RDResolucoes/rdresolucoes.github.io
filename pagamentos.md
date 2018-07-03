@@ -5,7 +5,7 @@ layout: default
 ---
 
 <html>
-<body class="stackedit">
+<body>
   <div class="stackedit__html"><h1 id="pagamentos">Pagamentos</h1>
 <p>Nesta seção, vamos abordar o regime de pagamentos de questionários base, porém com excessão  da fórmula de valor para o QB, todo o restante é válido para todos os materiais.</p>
 <h2 id="valores-brutos"><strong>Valores Brutos</strong></h2>
