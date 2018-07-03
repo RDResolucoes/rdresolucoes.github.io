@@ -1123,7 +1123,7 @@ screen and (min-resolution: 192dpi) {
 .stackedit__left {
   position: fixed;
   display: none;
-  width: 300px;
+  width: 350px;
   height: 100%;
   top: 0;
   left: 0;
@@ -1138,7 +1138,7 @@ screen and (min-resolution: 192dpi) {
   margin-right: auto;
   padding-left: 5px;
   padding-right: 5px;
-  max-width: 960px;
+  max-width: 900px;
 }
 
 
@@ -1155,9 +1155,9 @@ screen and (min-resolution: 192dpi) {
   left: 0;
 }
 
-@media (min-width:960px) {
+@media (min-width:900px) {
   .stackedit__right {
-    left: 300px;
+    left: 350px;
   }
 }
 
@@ -1987,7 +1987,7 @@ header {
 	border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;
 	padding: 15px;
-	margin: 25px;
+	margin: 10px;
 	-webkit-font-smoothing: antialiased;
 }
 
