@@ -1,7 +1,7 @@
 ---
-title: O Trabalho
 permalink: otrabalho.html
 layout: default
+Title: O Trabalho
 ---
 
 # O Trabalho
