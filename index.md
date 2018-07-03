@@ -10,6 +10,10 @@ description: será que vai funcionar agora?
 <p>Em todo caso, não faz mal nos apresentarmos novamente. Somos a <em>RDResoluções</em>, uma empresa brasileira que trabalha com confecção de material didático para plataformas educacionais!</p>
 <p>Estamos nos tornando referência em trabalhos <em>freelance</em> para universitários ao redor do Brasil! Venha conhecer a gente melhor, o que fazemos e como você também pode se tornar um <strong>membro RD</strong>!</p>
 
+[A Empresa](./Empresa)
+
+[O Trabalho](./otrabalho)
+
 [Cargos de Trabalho na RD](./cargosrd.html)
 
 [Processo Seletivo Membros RD](./psrd.html)
