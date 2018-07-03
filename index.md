@@ -40,4 +40,6 @@ description: será que vai funcionar agora?
 
 [Valores e Formas de Pagamento](./pagamentos.html)
 
+[Recrutamento](./RDResoluções - Sua solução está aqui.html)
+
 [Fale Conosco](./contatos.html)
