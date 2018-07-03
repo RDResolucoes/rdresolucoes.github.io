@@ -1142,7 +1142,7 @@ screen and (min-resolution: 192dpi) {
 }
 
 
-@media (min-width:1060px) {
+@media (min-width:960px) {
   .stackedit__left {
     display: block;
   }
@@ -1155,7 +1155,7 @@ screen and (min-resolution: 192dpi) {
   left: 0;
 }
 
-@media (min-width:1060px) {
+@media (min-width:960px) {
   .stackedit__right {
     left: 250px;
   }
@@ -1977,7 +1977,7 @@ header {
 	background-color: #171717;
 	color: #FDFDFB;
   width:100%;
-  float:center;
+  float:inherit;
   position:left;
 	border: 1px solid #000;
 	-webkit-border-top-right-radius: 4px;
