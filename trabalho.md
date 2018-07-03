@@ -1,6 +1,6 @@
 ---
 title: O Trabalho
-permalink: trabalho.html
+permalink: otrabalho.html
 layout: default
 ---
 
