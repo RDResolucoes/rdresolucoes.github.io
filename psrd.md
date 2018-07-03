@@ -33,7 +33,7 @@ Realize o auto-treinamento abaixo, para cada cargo que estamos recrutando no mom
 
 Todos os membros da Produção de Conteúdo precisam conhecer o básico:
 
-* App [Lightshot](./appsqb/#LightShot);
+* App [Lightshot](./appsqb#LightShot);
 
 * Edição de Imagens Via Paint;
 
