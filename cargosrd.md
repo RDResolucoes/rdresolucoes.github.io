@@ -77,7 +77,7 @@ Todo cargo dentro da RD fornece **um certificado de número de horas em que tal 
 *Emissão de Certificado?* **SIM!**
 
 **Vídeo em tempo real do trabalho de um ME:**
-<iframe width="720" height="450" src="https://www.youtube.com/embed/zy9mSGp1qzg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/zy9mSGp1qzg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## **Produtor de Conteúdo RD**
 

@@ -63,7 +63,7 @@ layout: default
 <p>Infelizmente, o lado do código costuma ficar facilmente “bagunçado” se o produtor não tiver um direcionamento no preenchimento da tabela.</p>
 <p>Logo, geramos esse micro-tutorial sobre como preencher a tabela sem “desespero.”</p>
 <p>Acompanhe pelo vídeo abaixo:</p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/w7Qc2HU0NGM" allowfullscreen=""></iframe>
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/w7Qc2HU0NGM" allowfullscreen=""></iframe>
 <p>Assim, podemos resumir o vídeo acima na seguinte sequência:<br>
 <strong>1.</strong> Copie a tabela da template que você deseja gerar o flashcard;</p>
 <p><strong>2.</strong> Cole no stack;<br>
