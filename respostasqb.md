@@ -92,7 +92,7 @@ layout: default
 <p><img src="https://image.ibb.co/jYiQ9o/template_propor_o1.png" alt="enter image description here"></p>
 <h3 id="escolhendo-imagens-para-o-template">Escolhendo Imagens para o Template</h3>
 <p>Após a escolha da template, precisamos fazer um pequeno teste para <strong>garantir que a proporção da imagem é adequada para a template escolhida</strong>. Há várias <em><strong>(óbvias)</strong></em> formas de se verificar isso, como só colocar a imagem dentro da caixa de imagem da template, porém o vídeo abaixo é só mais uma forma de se ver isso.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G17USjF9Jwg" allowfullscreen=""></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/G17USjF9Jwg" allowfullscreen=""></iframe>
 <h2 id="flashcard-interativo">Flashcard Interativo</h2>
 <ul>
 <li><mark>Resposta(Flashcard Interativo)</mark>{conteúdo}</li>
@@ -296,7 +296,7 @@ B–&gt;|Produto|D["<span class="katex--display"><span class="katex-display"><sp
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><iframe width="650" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<li id="fn1" class="footnote-item"><iframe width="100%" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  <a href="#fnref1" class="footnote-backref">↩︎</a></li>
 </ol>
 </section>

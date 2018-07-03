@@ -622,7 +622,7 @@ conteúdo
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><iframe width="650" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<li id="fn1" class="footnote-item"><iframe width="100%" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  <a href="#fnref1" class="footnote-backref">↩︎</a></li>
 <li id="fn2" class="footnote-item"><pre><code>---
 </code></pre>

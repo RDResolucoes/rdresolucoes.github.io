@@ -84,13 +84,13 @@ Navegue até sua pasta e realize o que se pede na imagem:
 Há **vídeos mudos** demonstrando o que está explicado nas imagens:
 
 *Apresentando a Plataforma*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u-hYkq--DJE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u-hYkq--DJE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *Conectando à sua Pasta de Trabalho*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QAGTiaXd7FI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>,
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QAGTiaXd7FI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>,
 
 *Recuperar sua Pasta de Trabalho do Stack com o ID da pasta do Drive*
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UKF2ThWhd3E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UKF2ThWhd3E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Comandos Essenciais
 * **ctrl+s:** Sincronizar na nuvem

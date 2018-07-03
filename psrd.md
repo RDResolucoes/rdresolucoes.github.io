@@ -146,7 +146,7 @@ Alguns pontos:
 
 [^23]: durante as revisões internas;
 
-[^24]: <iframe width="650" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+[^24]: <iframe width="100%" height="450" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMbxgD-YAQG5fvpTzFv7TqJuXhaKaKd0iGTlT-QUiL2sRXIDb7768WZYqE6YIEygqphnKOmg-qGhPN/pubhtml?gid=1019807899&amp;range=A1:E35&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 [geogebra]: https://www.geogebra.org/classic
 [xmind]: https://www.xmind.net/zen/
