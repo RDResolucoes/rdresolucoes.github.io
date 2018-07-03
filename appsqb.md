@@ -183,23 +183,23 @@ Selecione a opção "Atalho Geral" e coloque o atalho que desejar:
 
 ## **Instalando o Lightshot**
 
-<center><iframe width="100%" height="350" src="https://www.youtube.com/embed/rIJB2E6y-hU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="405" src="https://www.youtube.com/embed/rIJB2E6y-hU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## **Opções de Captura**
 
-<center><iframe width="100%" height="350" src="https://www.youtube.com/embed/dfu_AVqLDQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="405" src="https://www.youtube.com/embed/dfu_AVqLDQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## **Copiando Instantaneamente**
 
-<center><iframe width="100%" height="350" src="https://www.youtube.com/embed/Lrh4ARDDbKw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="405" src="https://www.youtube.com/embed/Lrh4ARDDbKw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## **Salvando Instantaneamente**
 
-<center><iframe width="100%" height="350" src="https://www.youtube.com/embed/lRxFjSmsXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="405" src="https://www.youtube.com/embed/lRxFjSmsXIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## **Ajuste Fino da Borda de Captura**
 
-<center><iframe width="100%" height="350" src="https://www.youtube.com/embed/izqoahXroTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="405" src="https://www.youtube.com/embed/izqoahXroTI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 
 [back](./)
