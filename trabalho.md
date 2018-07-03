@@ -2,12 +2,12 @@
 permalink: otrabalho.html
 layout: default
 title: O Trabalho
-description: lero lero lero
+description: A RDResoluções produz material didático para cursos EAD e plataformas educacionais online
 ---
 
 # O Trabalho
 
-A RDResoluções produz material didático para cursos EAD e plataformas educacionais online.  Atualmente produzimos conteúdo como listas teóricas, vídeo aulas, soluções de questões de livros universitários, além de prestarmos serviço de monitoria online para usuários Premium de plataformas clientes. 
+Atualmente produzimos conteúdo como listas teóricas, vídeo aulas, soluções de questões de livros universitários, além de prestarmos serviço de monitoria online para usuários Premium de plataformas clientes.
 
 # Clientes
 
@@ -49,7 +49,7 @@ Se o membro RD aceitar o prazo no momento do repasse e **NÃO CUMPRI-LO**, isso 
 	* Membros Expulsos não tem direito ao recebimento de nenhum material que  ainda faltaria ser pago;
 	* Eles podem ser executados judicialmente, caso o material produzido ou entregue fora do prazo cause dano ou prejuízo para a RDResoluções;
 	* Eles podem ser intimados judicialmente a ressarcir a empresa pelo pagamento dos materiais ou pelos prejuízos da quebra do prazo de entrega;
-		* O valor pago pelo material será registrado em cartório como "via de protesto"; 
+		* O valor pago pelo material será registrado em cartório como "via de protesto";
 		* Uma via de protesto mantém a dívida de uma pessoa ativa por **um período não menor que 20 anos,** caso esta dívida possa ser comprovada via documentação e/ou contrato de prestação de serviços ou venda;
-        
+
 [back](./)

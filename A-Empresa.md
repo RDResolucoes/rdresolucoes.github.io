@@ -2,12 +2,14 @@
 title: A Empresa
 permalink: Empresa.html
 layout: default
-description: Olá
+description: Se você está lendo isso, tem interesse em se tornar um membro RD!
 ---
 
 # Boas Vindas!
 
-Se você está lendo isso, é um produtor de conteúdo da RDResoluções! Esse documento é um manual com informações essenciais sobre seu trabalho conosco. Vamos nos apresentar!
+Esse SITE é um manual com informações essenciais sobre seu futuro trabalho conosco.
+
+Vamos nos apresentar!
 
 # Quem Somos
 

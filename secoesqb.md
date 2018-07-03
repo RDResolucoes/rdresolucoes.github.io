@@ -2,12 +2,10 @@
 title: Questionário Base - Seções
 permalink: secoesqb.html
 layout: default
+description: Assim como há tipos de resposta, temos tipos de seções específicas no Questionário, que visam facilitar o processo de resolução
 ---
 
-# Seções do QB
-Assim como há tipos de resposta, temos tipos de seções específicas no Questionário, que visam facilitar o processo de resolução.
-
-## Contextualização
+# Contextualização
 Nessa seção serão cobertos os pontos básicos, primitivos, curiosos ou históricos da aula. A seção se divide em:
 
 * Referências;
@@ -26,14 +24,14 @@ Nessa seção serão cobertos os pontos básicos, primitivos, curiosos ou histó
 
 * Conceitos Primitivos;
 
-## Desenvolvimento
+# Desenvolvimento
 Nessa seção é onde a "aula de verdade" se encontra. Ela está dividida somente em duas partes, funcionando como um *"faça para n=1... agora faça para todos os n´s restantes"*:
 
 * Tópico 1;
 
 * Demais Tópicos;
 
-## Fechamento, Resumos e Exercícios
+# Fechamento, Resumos e Exercícios
 Nessa seção se encontram os resumos, exercícios, resolução e estudos futuros que o aluno poderá realizar sobre a aula que acabou de ocorrer. Ela está dividida em:
 * A Chave dos Tópicos;
 

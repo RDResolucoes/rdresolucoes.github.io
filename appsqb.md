@@ -30,7 +30,7 @@ O Xmind Zen é a principal ferramenta utilizada na montagem dos tópicos de Aula
 
 # StackEdit
 
-Algumas definições que serão muito úteis ao trabalharmos no StackEdit: 
+Algumas definições que serão muito úteis ao trabalharmos no StackEdit:
 * **Workspace** - Ambiente de trabalho do stackedit, onde seus arquivos e até pastas são gerados e mantidos. Costuma-se sincronizar o workspace com a pasta de trabalho do produtor, via google drive, para garantir redundância no backup de arquivos.
 
 * **Cheat Sheet** - "Colinha" com alguns comandos de Markdown. Costumamos "forçar" os produtores a decorarem os atalhos de teclado, pois isso acelera(e muito!) a eficiência da produção. Ainda assim, exigimos que os produtores tenham bom conhecimento de markdown, visto que nossos materiais serão produzidos utilizando essa linguagem desse momento em diante.
@@ -119,7 +119,7 @@ Há **vídeos mudos** demonstrando o que está explicado nas imagens:
 ![](https://image.ibb.co/cjaGFT/tipoderesposta2.png)
 
 * Onde colocar o conteúdo e onde ficam os Parâmetros da Resposta:
- 
+
 ![](https://image.ibb.co/fat3vT/tipoderesposta3.png)
 
 Toda resposta deve conter SEMPRE:
@@ -162,6 +162,24 @@ conteúdo da resposta
 * Lembre-se que no modo stackedit, é preciso deletar parte do que foi copiado;
 
 # LightShot
+
+## Principais atalhos
+* **ctrl+c :** Copiar screenshot para a área de transferência;
+* **ctrl+s :** Salvar screenshot automaticamente em uma pasta pré-determinada, do PC;
+* **Atalho Geral :** Esse atalho é programado dentro do aplicativo. Serve para que você acione *rapidamente* uma screenshot de *parte da tela*;
+
+### Como programar o atalho geral (atalho rápido):
+Clique com o botão direito em cima do ícone de uma pena roxa:
+
+![](https://image.ibb.co/j3M3nJ/image.png)
+
+Selecione a opção "Teclas de Atalho":
+
+![](https://image.ibb.co/gqgfZy/image.png)
+
+Selecione a opção "Atalho Geral" e coloque o atalho que desejar:
+
+![](https://image.ibb.co/hPppSJ/image.png)
 
 ## **Instalando o Lightshot**
 
