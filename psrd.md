@@ -2,50 +2,48 @@
 title: Processo Seletivo Membros RD
 permalink: psrd.html
 layout: default
+description: Acompanhe passo a passo como se tornar um membro da RDResoluções!
 ---
 
-# Processo Seletivo
-Acompanhe passo a passo como se tornar um membro da RDResoluções!
-
-## ***Cadastro***
+# ***Cadastro***
 Escolha o cargo que deseja disputar na RD. Você irá nos informar qual será o cargo durante o Teste Online;
 
 Realize seu cadastro em nossa [Landing Page de Recrutamento][recruta], caso já não tenha feito;
 
-## ***Auto-Treino***
+# ***Auto-Treino***
 Realize o auto-treinamento abaixo, para cada cargo que estamos recrutando no momento.
 
 ## Administração <mark>Fechado</mark>
 
 #### ~~Coordenador de Equipe~~
-    
+
 #### ~~Programador~~
-    
+
 #### ~~Auxiliar Administrativo~~
 
 ## ***Marketing e Publicidade*** <mark>Fechado</mark>
 
-#### ~~Agente Comercial~~ 
-    
+#### ~~Agente Comercial~~
+
 #### ~~Divulgador Digital~~
-    
+
 #### ~~Web Designer~~
 
 ## ***Produção de Conteúdo***
- 
+
 Todos os membros da Produção de Conteúdo precisam conhecer o básico:
 
-* App Lightshot[^cursoL];
+* App [Lightshot](./appsqb#LightShot);
 
 * Edição de Imagens Via Paint;
-    
+
 * App [Mathtype][mathtype] ou Linguagem LaTeX, suas interações e as configurações *cut and copy* recomendadas ao enviarmos respostas para o StackEdit;
 
 * Histórico da RD;
-    
+
 * Plotagem básica de Gráficos no [Geogebra][geogebra];
 
-### **Mestre Educacional** 
+### **Mestre Educacional**
 
 Um Mestre Educacional deve especificamente saber:
 
@@ -55,7 +53,7 @@ Um Mestre Educacional deve especificamente saber:
 *Abra o arquivo usando o [xmind zen][xmind]!*
 
 * Os comandos básicos do [Xmind Zen][xmind];
-		
+
 ### **Produtor de Conteúdo RDResoluções**
 
 Um Produtor RD deve saber:
@@ -69,9 +67,9 @@ Um Produtor RD deve saber:
     * [Documentação de Linguagem Markdown](https://www.markdownguide.org/getting-started)
 
 * Montar Questionários Base a partir do Tópico de Aula: *Assista aos vídeos de montagem do QB*
-	
+
 ### **Desenvolvedor de Resoluções**
-    
+
 * Conhecimento da Formatação de uma Resolução Online;
 
 * Configuração de LaTeX para uma plataforma Online;
@@ -109,17 +107,17 @@ Alguns pontos:
 * O corte **não é mudado de caso a caso**, visto que o processo em si é **somente** para verificar:
 
     * Conhecimentos sobre as plataformas;
-    
+
     * Conceitos matemáticos de ensino médio;
-    
+
     * Teorema do "Bom Senso";
-    
+
 * É o mínimo que podemos exigir, visto que:
 
     * O resultado final se destina à alunos universitários de qualquer universidade, quer seja aqui ou em outros países;
-    
+
     * Ainda iremos realizar o treinamento intensivo do candidato aprovado, pessoalmente;
-    
+
 * Popularidade tem seu preço 😎! ➡ Não temos pessoal suficiente para realizar o treinamento intensivo com todos que desejam entrar na RD. Se tivéssemos, não iríamos realizar tal teste!
 
 ### Quando se sentir pronto, [clique aqui](./psto.html) para realizar o **Teste Online**

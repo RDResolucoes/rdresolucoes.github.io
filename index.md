@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Bem Vindo!
-description: será que vai funcionar agora?
+description: Home Page com todos os links
 ---
 
-<h1 id="bem-vindo-ao-nosso-github">Bem Vindo ao nosso Github!</h1>
+<h1 id="bem-vindo!">Bem Vindo!</h1>
 
 <p>Olá, forasteiro! Se você está nessa página, deve ter ouvido falar de nós, não?</p>
 <p>Em todo caso, não faz mal nos apresentarmos novamente. Somos a <em>RDResoluções</em>, uma empresa brasileira que trabalha com confecção de material didático para plataformas educacionais!</p>
