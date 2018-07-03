@@ -8,8 +8,8 @@ layout: default
 
 <html>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="as-perguntas-do-qb">As Perguntas do QB</h1>
+<body>
+<h1 id="as-perguntas-do-qb">As Perguntas do QB</h1>
 <p>Aqui temos as Perguntas do QB explicadas em detalhes.</p>
 <h2 id="referências">Referências</h2>
 <p><em><strong>O QUE É:</strong></em> As referências do Tópico de Aula colocadas no Questionário</p>
@@ -616,6 +616,9 @@ conteúdo
 ---
 </code></pre>
 <p><em><strong>Exemplo</strong></em><sup class="footnote-ref"><a href="#fn20" id="fnref20">20</a></sup></p>
+
+[back](./)
+
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -1947,7 +1950,6 @@ Para saber mais, consulte Terminologia Médica Para Leigos, de [Beverley Henders
  <a href="#fnref21" class="footnote-backref">↩︎</a></li>
 </ol>
 </section>
-</div>
 </body>
 
 </html>
