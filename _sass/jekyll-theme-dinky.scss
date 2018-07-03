@@ -1894,7 +1894,7 @@ hr {
   border:0;
   background:#ccc;
   height:1px;
-  margin: 24px;
+  margin: 12px;
 padding-left: 0;
 padding-right: 0;
 }
@@ -2094,7 +2094,7 @@ footer {
   padding: 10px;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 100%) {
 
   div.wrapper {
     width:auto;
@@ -2133,14 +2133,14 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 100%) {
   body {
     word-wrap:break-word;
   }
 
   header {
     padding:10px 20px 0;
-		margin-right: 0;
+		margin-right: 5px;
   }
 
 	section {
