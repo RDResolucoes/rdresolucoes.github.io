@@ -60,7 +60,7 @@ A barra lateral esquerda não será muito usada, então não a explicaremos em d
 
 ![enter image description here](https://image.ibb.co/hp4yUo/stackpt6.png)
 
-### Markdown Chet Sheets
+### Markdown Cheat Sheets
 
 ![enter image description here](https://image.ibb.co/bLNk9o/stackpt7.png)
 
