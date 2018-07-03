@@ -8,14 +8,14 @@ layout: default
 # Avisos e Regras
 
 ### Verifique o DIA em que irá fazer o teste online
-Após aprovação, iremos iniciar **seu treinamento intensivo** logo em seguida. Junto com ele, também iniciamos a contagem do tempo para a entrega dos materiais do treinamento intensivo. 
+Após aprovação, iremos iniciar **seu treinamento intensivo** logo em seguida. Junto com ele, também iniciamos a contagem do tempo para a entrega dos materiais do treinamento intensivo.
 
-Logo, realize o Teste **se e somente se** você tiver *certeza* que terá tempo para ser treinado. 
+Logo, realize o Teste **se e somente se** você tiver *certeza* que terá tempo para ser treinado.
 
 *O tempo de entrega dos materiais do Treinamento Intensivo gira em torno de 24 a 48 horas corridas, contadas a partir do momento da finalização do teste online de um candidato*.
 
 ### É possível fazer o teste APENAS UMA VEZ
-O teste **pode ser feito somente UMA VEZ por pessoa e por e-mail**. 
+O teste **pode ser feito somente UMA VEZ por pessoa e por e-mail**.
 Fazemos isso para evitar:
 * Pessoas refazendo o teste *diversas vezes* e chutando alternativas;
 * **Ex-membros** serem contabilizados novamente como novos membros. Ex-membros **não precisam** realizar o teste novamente, apenas passar pelo **Treinamento Intensivo**;
@@ -46,7 +46,7 @@ Liberamos resultados apenas para os aprovados, porém sem informar a resposta co
 Se no cadastro estiver ➡ João paulo da silva
 
 O nome do teste deve ser ➡ João paulo da silva
-# Teste Online 
+# Teste Online
 
 <html>
 <head>
@@ -87,7 +87,7 @@ O treinamento intensivo dividido de acordo com o cargo pretendido, e visa verifi
 
 ### Sobre Os Materiais Produzidos durante o Treinamento
 
-**O material produzido no treinamento intensivo será utilizado como cobertura de custos**, ou seja, **não será pago** ao membro da produção de conteúdo. Esse ponto *independe dele ser aprovado no treinamento ou não*. 
+**O material produzido no treinamento intensivo será utilizado como cobertura de custos**, ou seja, **não será pago** ao membro da produção de conteúdo. Esse ponto *independe dele ser aprovado no treinamento ou não*.
 
 Essa foi a forma que encontramos para não perdermos tempo treinando alguém e ele desistir.
 
@@ -96,20 +96,20 @@ O valor dos materiais será usado para cobrir:
 * Pagamento pelo feedback do Material, fornecido por coordenadores de equipe e pessoal autorizado pela RDResoluções;
 * Anulações de materiais, confeccionados durante o treinamento, que estejam em péssima qualidade;
 
-Sabendo disso, *corra atrás de seu coordenador*, peça ajuda para eles e tire TODAS as dúvidas que você possa ter (exceto de cunho financeiro!)
+Sabendo disso, *corra atrás de seu coordenador*, peça ajuda para eles e tire TODAS as dúvidas que você possa ter (exceto de cunho financeiro, hehehe... para isso fale com nosso [financeiro](./contatos#financeiro-rdresolucoes)!)
 
 # Pós-Treinamento Intensivo
 Após aprovado no treinamento, você será direcionado para nosso **forms de coleta de dados de pagamento**, onde pediremos seus dados bancários e CPF.
 
-#### ***Por que precisam do meu CPF??*** 
+#### ***Por que precisam do meu CPF??***
 
-É a partir dele que nosso algoritmo gera a "*Assorted Identification*"(AID) de uma pessoa. Basicamente, o AID é como um segundo CPF, e assim como ele, não há dois AID´s idênticos no Brasil. Com seu AID, podemos identificá-lo mesmo que você se retire da empresa e queira retornar em outro momento. 
+É a partir dele que nosso algoritmo gera a "*Assorted Identification*"(AID) de uma pessoa. Basicamente, o AID é como um segundo CPF, e assim como ele, não há dois AID´s idênticos no Brasil. Com seu AID, podemos identificá-lo mesmo que você se retire da empresa e queira retornar em outro momento.
 
 Nosso algoritmo é criptografado, logo ninguém poderá identificar você apenas de posse de seu AID. Além de que seu CPF não será visível para ninguém da nossa *staff*, *apenas seu AID.*
 
 Precisamos gerar seu AID para que possamos montar sua pasta de membro RD no google drive!
 
-#### ***Por que precisam dos meus dados bancários??*** 
+#### ***Por que precisam dos meus dados bancários??***
 ....para te pagar pelos materiais produzidos? Estamos querendo expandir nossas formas de pagamento, montar plataformas e sistemas internos... mas enquanto isso não acontece, ainda utilizamos o bom e velho DOC/TED/transferência bancária padrão. Os únicos dados pedidos são o básico para se realizar um depósito, nada mais:
 
 * Nome/Código do Banco;
@@ -118,10 +118,10 @@ Precisamos gerar seu AID para que possamos montar sua pasta de membro RD no goog
 * Nome completo do Titular da Conta;
 * Tipo de Conta (Salário, corrente, poupança);
 
-Se não possuir conta bancária em seu nome, veja como proceder 
-<a href="./pagamentos#conta de terceiros">aqui</a> 
+Se não possuir conta bancária em seu nome, veja como proceder
+<a href="./pagamentos#conta de terceiros">aqui</a>
 
-Galera, caso ainda após o exposto acima vocês tenham qualquer dúvida sobre como iremos utilizar esses dados ou como a forma de pagamento irá funcionar, *não hesitem em entrar em contato com nosso [financeiro](mailto:financeiro@rdresolucoes.com)*. 
+Galera, caso ainda após o exposto acima vocês tenham qualquer dúvida sobre como iremos utilizar esses dados ou como a forma de pagamento irá funcionar, *não hesitem em entrar em contato com nosso [financeiro](mailto:financeiro@rdresolucoes.com)*.
 
 Nosso tempo de resposta costuma ser **de 1 a 2 dias úteis**, dependendo do número de requisições. Apenas para avisar, qualquer dúvida realizada via e-mail que esteja presente nesta página **não será respondida novamente**. Se identifiquem sempre no campo assunto como: *Cargo(ME/PRD/DRD)AIDaqui - Dúvida sobre X*.
 

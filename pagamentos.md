@@ -2,12 +2,12 @@
 title: Valores e Formas de Pagamento
 permalink: pagamentos.html
 layout: default
+description: Nesta seção, vamos abordar o regime de pagamentos de qualquer material produzido por um membro RD. Excetuando-se a fórmula do valor final pago pelo QB, teremos que o exposto por todo o restante da página, e eventualmente por quaisquer páginas deste domínio, é válido para o restante dos materiais produzidos.
 ---
 
 <html>
 <body>
   <div class="stackedit__html"><h1 id="pagamentos">Pagamentos</h1>
-<p>Nesta seção, vamos abordar o regime de pagamentos de questionários base, porém com excessão  da fórmula de valor para o QB, todo o restante é válido para todos os materiais.</p>
 <h2 id="valores-brutos"><strong>Valores Brutos</strong></h2>
 <ul>
 <li><strong>Resolução Online</strong> R$ 2,35</li>
@@ -20,11 +20,11 @@ layout: default
 <ul>
 <li>Escrever uma carta de próprio punho confirmando a autorização do uso da conta para depósitos referentes ao trabalho;</li>
 </ul>
-<p>“Eu, _____________<strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>, portador do RG de nº: <strong><strong>, CPF de nº</strong></strong></strong></strong></strong>, autorizo (nome do produtor), portador do RG de nº: <strong><strong>, CPF de nº</strong></strong></strong></strong></strong>, a usar a conta bancária de nº</strong></strong></strong></strong>, Agência ______<em>, localizada no (nome do banco), para depósitos referentes ao pagamento por serviços prestados sem vínculo empregatício à RDResoluções, portadora do CNPJ de nº</em> _27.201.462/0001-23”</p>
+<p>“Eu, _____________<strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>, portador do RG de nº: <strong><strong>, CPF de nº</strong></strong></strong></strong></strong>, autorizo (nome do produtor), portador do RG de nº: <strong><strong>, CPF de nº</strong></strong></strong></strong></strong>, a usar a conta bancária de nº</strong></strong></strong></strong>, Agência ______<em>, localizada no (nome do banco), para depósitos referentes ao pagamento por serviços prestados sem vínculo empregatício à RDResoluções, portadora do CNPJ de nº</em> 27.201.462/0001-23”</p>
 <ul>
 <li>Forneça Cópia simples do RG e do CPF</li>
 </ul>
-<p>Basta que você envie uma fotografia em alta resolução da carta de próprio punho, além das fotos do documento do titular da conta e dos seus próprios documentos pessoais, para <a href="mailto:financeiro@rdresolucoes.com">financeiro@rdresolucoes.com</a>, com o assunto como <em>“Produtor/ME/Desenvolvedor RD nº(SeuAIDAQUI), documentos para recebimento em conta de terceiros”</em></p>
+<p>Basta que você envie uma fotografia em alta resolução da carta de próprio punho, além das fotos do documento do titular da conta e dos seus próprios documentos pessoais, para o nosso <a href="./contatos#modelo-de-e-mail-para-troca-de-dados-bancários">financeiro</a>, seguindo o modelo de e-mail adequado;</p>
 <h2 id="impostos"><strong>Impostos</strong></h2>
 <p>Os valores citados acima não levam em conta abatimentos de imposto, que pode chegar a 15% do valor, além da incidência de impostos adicionais, caso o cliente seja de outros estados do Brasil ou internacional. Consulte seu Coordenador ou nosso <a href="mailto:financeiro@rdresolucoes.com">Financeiro</a> para confirmar se existe abatimento e o quanto que será abatido. No campo “assunto” escreva “<em>Produtor/ME/Desenvolvedor RD nº(SeuAIDAQUI), dúvidas sobre tributação</em>”</p>
 <h2 id="cota-mínima-uma-história">Cota Mínima: Uma História</h2>

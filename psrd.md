@@ -37,44 +37,64 @@ Todos os membros da Produção de Conteúdo precisam conhecer o básico:
 
 * Edição de Imagens Via Paint;
 
-* App [Mathtype][mathtype] ou Linguagem LaTeX, suas interações e as configurações *cut and copy* recomendadas ao enviarmos respostas para o StackEdit;
+* App [Mathtype][mathtype] ou Linguagem LaTeX, suas interações e as configurações *cut and copy* recomendadas, ao enviarmos respostas para o [StackEdit](./appsqb#stackedit);
 
-* Histórico da RD;
+* [Histórico da RD](./Empresa);
 
-* Plotagem básica de Gráficos no [Geogebra][geogebra];
+* [Plotagem básica](./regrasgeraisqb#gráficos) de Gráficos no [Geogebra][geogebra];
 
 ### **Mestre Educacional**
 
+[*Detalhes do Cargo*](./cargosrd#mestre-educacional)
+
+[*Material que confecciona*](./materiais#tópico-de-aula)
+[*Valor Pago por Material*](./pagamentos)
+
 Um Mestre Educacional deve especificamente saber:
 
-* Reconhecer o Código do Material;
+* Reconhecer o Código do [Material](./consultaqb#o-código-dos-materiais) e das [Aulas](./consultaqb#códigos-de-aula);
 
-* Montar Tópicos de Aula: [*Tópicos de Aula: Um Guia*](https://drive.google.com/open?id=1eNxbKsSJAl4VaQzbva34C-ZyH-61F4Ah) ➡
+* [Montar](./materiais#tópico-de-aula) Tópicos de Aula: [*Tópicos de Aula: Um Guia*](https://drive.google.com/open?id=1eNxbKsSJAl4VaQzbva34C-ZyH-61F4Ah) ➡
 *Abra o arquivo usando o [xmind zen][xmind]!*
 
-* Os comandos básicos do [Xmind Zen][xmind];
+* Os [comandos básicos](./appsqb#xmind-zen) do [Xmind Zen][xmind];
 
 ### **Produtor de Conteúdo RDResoluções**
 
+[*Detalhes do Cargo*](./cargosrd#produtor-de-conteúdo-rd)
+
+[*Material que confecciona*](./materiais#questionário-base)
+[*Valor Pago por Material*](./pagamentos)
+
 Um Produtor RD deve saber:
 
-* Reconhecer o Código do Material;
+* Reconhecer o Código do [Material](./consultaqb#o-código-dos-materiais), das [Aulas](./consultaqb#códigos-de-aula) e das [Respostas do QB](./codigosqb);
 
-* Saber interpretar um Tópico de Aula;
+* Conhecer profundamente as [Perguntas](./perguntasqb) e estruturas de [Resposta do QB](./respostasqb);
 
-* Linguagem Markdown:
+* Ter conhecimento profundo das [Regras Gerais](./regrasgeraisqb) do [Questionário Base](./materiais#questionário-base);
+
+* Saber interpretar um [Tópico de Aula](./materiais#tópico-de-aula);
+
+* Ter nível iniciante na Linguagem Markdown:
     * [Markdown em 15 minutos](https://www.markdowntutorial.com)
     * [Documentação de Linguagem Markdown](https://www.markdownguide.org/getting-started)
 
-* Montar Questionários Base a partir do Tópico de Aula: *Assista aos vídeos de montagem do QB*
+* Montar Questionários Base a partir do Tópico de Aula: [*Assista aos vídeos de montagem do QB aqui*](./passoapassoqb)
 
 ### **Desenvolvedor de Resoluções**
 
-* Conhecimento da Formatação de uma Resolução Online;
+[*Detalhes do Cargo*](./cargosrd#desenvolvedor-de-resoluções)
 
-* Configuração de LaTeX para uma plataforma Online;
+[*Material que confecciona*](./materiais#solucao-sbs)
+[*Valor Pago por Material*](./pagamentos)
+
+* Conhecimento da Formatação de uma [Resolução Online](./materiais#resolucao-online);
+
+* Configuração de LaTeX para uma [Plataforma Online](./materiais#a-plataforma);
 
 [recruta]: https://www.rdresolucoes.com/
+
 ## O Teste Online
 ### Estilo
 O Teste é **de múltipla escolha** e envolve *somente o padrão do material* e as ferramentas que serão mais utilizadas;

@@ -8,7 +8,7 @@ layout: default
 Todo cargo dentro da RD fornece **um certificado de número de horas em que tal competência foi desenvolvida dentro da empresa**. Na prática, trabalhar na RDResoluções é um grande *curso comissionado* que capacita o universitário para o universo corporativo, ensinando-o a trabalhar com prazos, desenvolver estratégias para solucionar problemas e também a lidar com pessoas de todos os tipos.
 
 # Administração
-## **Coordenador de Equipe** 
+## **Coordenador de Equipe**
 
 *Atribuições*
 * Responsável por gerenciar um grupo de desenvolvedores ou produtores;
@@ -37,18 +37,18 @@ Todo cargo dentro da RD fornece **um certificado de número de horas em que tal 
 ==*Em Construção*==
 
 
-## ==**Auxiliar Administrativo**== 
+## ==**Auxiliar Administrativo**==
 ==*Em Construção*==
 
 
 # ==Marketing e Publicidade==
-## **==Agente Comercial==** 
+## **==Agente Comercial==**
 ==*Em Construção*==
 
 ## **==Divulgador Digital==**
 ==*Em Construção*==
 
-## **==Web Designer==** 
+## **==Web Designer==**
 ==*Em Construção*==
 
 # Produção de Conteúdo
@@ -75,9 +75,6 @@ Todo cargo dentro da RD fornece **um certificado de número de horas em que tal 
 * *Workflow Management;*
 
 *Emissão de Certificado?* **SIM!**
-
-**Vídeo em tempo real do trabalho de um ME:**
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/zy9mSGp1qzg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## **Produtor de Conteúdo RD**
 
@@ -110,7 +107,7 @@ Todo cargo dentro da RD fornece **um certificado de número de horas em que tal 
 
 *Emissão de Certificado?* **SIM!**
 
-## Desenvolvedor de Resoluções
+## **Desenvolvedor de Resoluções**
 
 *Atribuições*
 * Responsável por responder perguntas de universitários, clientes de Plataformas Educacionais;
