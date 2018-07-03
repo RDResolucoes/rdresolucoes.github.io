@@ -1123,7 +1123,7 @@ screen and (min-resolution: 192dpi) {
 .stackedit__left {
   position: fixed;
   display: none;
-  width: 250px;
+  width: 300px;
   height: 100%;
   top: 0;
   left: 0;
@@ -1157,7 +1157,7 @@ screen and (min-resolution: 192dpi) {
 
 @media (min-width:960px) {
   .stackedit__right {
-    left: 250px;
+    left: 300px;
   }
 }
 
@@ -2091,7 +2091,7 @@ footer {
   float:static;
   position:left;
   bottom:10px;
-  padding: 50px;
+  padding: 10px;
 }
 
 @media print, screen and (max-width: 960px) {
