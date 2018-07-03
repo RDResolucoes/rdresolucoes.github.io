@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Bem Vindo!
+title: Bem Vindo!
 ---
 
 <h1 id="bem-vindo-ao-nosso-github">Bem Vindo ao nosso Github!</h1>
