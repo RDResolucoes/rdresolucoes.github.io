@@ -2,6 +2,7 @@
 permalink: otrabalho.html
 layout: default
 title: O Trabalho
+description: lero lero lero
 ---
 
 # O Trabalho

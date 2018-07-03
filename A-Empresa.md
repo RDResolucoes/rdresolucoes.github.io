@@ -2,6 +2,7 @@
 title: A Empresa
 permalink: Empresa.html
 layout: default
+description: Olá
 ---
 
 # Boas Vindas!
