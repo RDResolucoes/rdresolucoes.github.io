@@ -234,13 +234,13 @@ Conteúdo
 <p>Todo tipo de imagem que seja mais detalhada <strong>precisa estar sinalizada</strong> com destaque complementar ZOOM, se aparecer em um flashcard;</p>
 </li>
 <li>
-<p>A <strong>ordem de aparecimento</strong> dos elementos no flashcard é <em>determinada</em> pela sequência de linhas na tabela e não pela sequência de letras ou números na <a href="https://drive.google.com/open?id=19Z9W4tAianhxzI9UmyxAk46PIvbCuJ7r">template</a>;</p>
+<p>A <strong>ordem de aparecimento</strong> dos elementos no flashcard é <em>determinada</em> pela sequência de linhas na tabela e não pela sequência de letras ou números na <a href="./tabela-de-templates-v3.0.pdf">template</a>;</p>
 </li>
 <li>
 <p>Caso hajam outros cartões como parte de uma mesma resposta, continue mudando o número correspondente ao novo cartão. O próximo cartão do tópico 1 depois do cartao_1, se existir, seria o cartao_2, depois cartao_3,…;</p>
 </li>
 <li>
-<p>Copie e Cole a tabela em código depois de <a href="https://drive.google.com/open?id=19Z9W4tAianhxzI9UmyxAk46PIvbCuJ7r">escolher a template</a>;</p>
+<p>Copie e Cole a tabela em código depois de <a href="./tabela-de-templates-v3.0.pdf">escolher a template</a>;</p>
 </li>
 </ul>
 <h3 id="tipos-de-destaque-complementar">Tipos de Destaque Complementar</h3>

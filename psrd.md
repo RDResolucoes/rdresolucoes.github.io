@@ -157,7 +157,7 @@ Alguns pontos:
 [sound]: https://soundcloud.com/
 [chem]: https://drive.google.com/file/d/1H1k7io_tZjKncFEr0ch34s2s8144zygb/view?usp=sharing
 [ket]: http://lifescience.opensource.epam.com/ketcher/demo.html
-[template]: https://drive.google.com/open?id=19Z9W4tAianhxzI9UmyxAk46PIvbCuJ7r
+[template]: ./tabela-de-templates-v3.0.pdf
 [vox]: https://www.google.com/intl/en/chrome/demos/speech.html
 
 [^21]: A RD se reserva ao direito de segurar o pagamento integral de um membro por tempo indeterminado, caso esteja sob suspeita de plágio de material ou possua material a ser corrigido;
