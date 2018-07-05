@@ -13,7 +13,7 @@ layout: default
 <h2 id="códigos-de-aula">Códigos de Aula</h2>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1I3UpPXKEl_KlM0GvIHTm9eHfrNHrcXRv/view?usp=sharing">Códigos D10</a></p>
+<p><a href="./disciplinas-disponiveis-10">Códigos D10</a></p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/17rx4TWqJ2exf9sHZnCGId33DxPm1z3p8/view?usp=sharing">Códigos D11</a></p>
