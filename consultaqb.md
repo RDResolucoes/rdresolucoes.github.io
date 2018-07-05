@@ -13,19 +13,19 @@ layout: default
 <h2 id="códigos-de-aula">Códigos de Aula</h2>
 <ul>
 <li>
-<p><a href="./disciplinas-disponiveis-10">Códigos D10</a></p>
+<p><a href="./disciplinas-disponiveis-10.pdf">Códigos D10</a></p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/17rx4TWqJ2exf9sHZnCGId33DxPm1z3p8/view?usp=sharing">Códigos D11</a></p>
+<p><a href="./disciplinas-disponiveis-11.pdf">Códigos D11</a></p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1q0c-8RPIn79UCB3ECg9RsAjiUTK1riO8/view?usp=sharing">Códigos D12</a></p>
+<p><a href="./disciplinas-disponiveis-12.pdf">Códigos D12</a></p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1MHFFY3uhjEz6wjz45mFMgpRv3SAxHgdM/view?usp=sharing">Códigos D13</a></p>
+<p><a href="./disciplinas-disponiveis-13.pdf">Códigos D13</a></p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1pcLsmBb6WdRkVy_9vT3C51LDtUfd5srg/view?usp=sharing">Códigos D14</a></p>
+<p><a href="./disciplinas-disponiveis-14.pdf">Códigos D14</a></p>
 </li>
 </ul>
 <h2 id="disciplinas-disponíveis">Disciplinas Disponíveis</h2>
