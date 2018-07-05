@@ -26,26 +26,27 @@ Não há o que ser feito, pois sem base não há como confeccionar produto. Os c
 ### Como proceder
 #### Coordenador do Material Produtor
 Casos do tipo não são previstos pelo workflow, então será necessário realizar o processo *manualmente*.
-    1. Vá até a [Planilha Online](https://docs.google.com/spreadsheets/d/1ucFGjQj6uvWE1UR6vD73AosWbq7pd1OV8iUf2Yyncz4/edit?usp=sharing) correspondente à disciplina/material do seu candidato. A forma de Leitura é ``número_da_disciplina-tipo_de_material``:
 
-    ![](https://image.ibb.co/ee9XKy/image.png)
+1. Vá até a [Planilha Online](https://docs.google.com/spreadsheets/d/1ucFGjQj6uvWE1UR6vD73AosWbq7pd1OV8iUf2Yyncz4/edit?usp=sharing) correspondente à disciplina/material do seu candidato. A forma de Leitura é ``número_da_disciplina-tipo_de_material``:
 
-    2. Verifique o material com o menor número e se ele está disponível (***FALSE***):
+![](https://image.ibb.co/ee9XKy/image.png)
 
-    ![](https://image.ibb.co/eBtJbd/image.png)
+2. Verifique o material com o menor número e se ele está disponível (***FALSE***):
 
-    3. Copie o nome do material e cole na planilha adjacente, de mesmo número de disciplina e tipo de material:
+![](https://image.ibb.co/eBtJbd/image.png)
 
-    ![](https://image.ibb.co/dumzhJ/image.png)
+3. Copie o nome do material e cole na planilha adjacente, de mesmo número de disciplina e tipo de material:
 
-    4.
-    ![](https://image.ibb.co/kzvEGd/image.png)
+![](https://image.ibb.co/dumzhJ/image.png)
 
-    5.
-    ![](https://image.ibb.co/bswobd/image.png)
+4. 
+![](https://image.ibb.co/kzvEGd/image.png)
 
-    6.
-    ![](https://image.ibb.co/hRDC2J/image.png)
+5.
+![](https://image.ibb.co/bswobd/image.png)
+
+6.
+![](https://image.ibb.co/hRDC2J/image.png)
 
 
 
