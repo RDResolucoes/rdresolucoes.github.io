@@ -39,13 +39,13 @@ Casos do tipo não são previstos pelo workflow, então será necessário realiz
 
 ![](https://image.ibb.co/dumzhJ/image.png)
 
-4. 
+4.
 ![](https://image.ibb.co/kzvEGd/image.png)
 
 5.
 ![](https://image.ibb.co/bswobd/image.png)
 
-6.
+6. 
 ![](https://image.ibb.co/hRDC2J/image.png)
 
 
