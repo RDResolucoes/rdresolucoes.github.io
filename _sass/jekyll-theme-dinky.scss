@@ -1941,7 +1941,7 @@ pre {
 /* Tables */
 
 table {
-  width:90%;
+  width:100%;
 }
 
 table {
@@ -2138,6 +2138,9 @@ footer {
     word-wrap:break-word;
   }
 
+	code {
+    word-wrap:break-word;
+  }
   header {
     padding:10px 20px 0;
 		margin-right: 0;

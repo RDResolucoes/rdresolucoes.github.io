@@ -103,7 +103,7 @@ Confirme que o arquivo está são e salvo lá!
 
 **NOME DO CARTÃO = NOME CANDIDATO/DISCIPLINA**
 
-![](https://image.ibb.co/ecL1wd/image.png)
+![](https://image.ibb.co/ecL1wd/image.png=60%)
 
 **15.** Agora, programe-se para as entregas do candidato! Para isso, visite sua planilha Controle RD:
 
@@ -112,6 +112,8 @@ Confirme que o arquivo está são e salvo lá!
 **16.** Vá até a aba "Treinamento Intensivo", preencha o nome, prazo e o código do material atribuído para o candidato, além dos dados pedidos nas outras abas:
 
 ![](https://image.ibb.co/hzVehJ/image.png)
+
+**17.** Aguarde a Entrega do Candidato Agora!
 
 # Prazos do Candidato e como combinar Entregas
 
