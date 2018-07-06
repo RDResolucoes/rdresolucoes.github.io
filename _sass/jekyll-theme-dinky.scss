@@ -1903,10 +1903,11 @@ padding-right: 0;
 
 img {
   position: center;
+	vertical-align: center;
   margin: auto;
-  max-width: 100%;
+  max-width: 90%;
   padding: 5px;
-  margin: 10px 0 32px 0;
+  margin: 0;
   border: 1px solid #ccc;
 }
 
