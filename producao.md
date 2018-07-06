@@ -69,6 +69,7 @@ Indo para o **Fluxo** e em **1-PA**:
 ![](https://image.ibb.co/iigSmd/image.png)
 
 Achamos o arquivo xmind **10-1.2**!
+
 ![](https://image.ibb.co/nMEPXJ/image.png)
 
 **10.** Transfira o arquivo para **Planos de Base Utilizados:**
@@ -80,11 +81,15 @@ Confirme que o arquivo está são e salvo lá!
 
 **10.** Envie o conteúdo, via Whatsapp, para o candidato e instrua-o a montar o material base. Caso ele tenha dúvidas, ele deve checar o site e o manual de montagem do material base. Se a dúvida persistir, avise-o para falar com você.
 
+![](https://image.ibb.co/iTEi9y/image.png)
+
 **11.** Feche um prazo com o candidato, para a entrega do pacote completo;
 
 **12.** Abra esse [*Board*](https://trello.com/b/avwddwJf), na plataforma **Trello**;
 
 **13.** Clique nos 3 pontos e selecione a opção de adicionar cartão, na lista *Candidatos em Treinamento*:
+
+![](https://image.ibb.co/iU01wd/image.png)
 
 **14.** Preencha os seguintes dados dentro do Cartão:
   1. Label;
@@ -97,9 +102,9 @@ Confirme que o arquivo está são e salvo lá!
 
 **16.** Vá até a aba "Treinamento Intensivo", preencha o nome, prazo e o código do material atribuído para o candidato, além dos dados pedidos nas outras abas:
 
-![](https://image.ibb.co/iTEi9y/image.png)
 
-![](https://image.ibb.co/iU01wd/image.png)
+
+
 
 ![](https://image.ibb.co/gZ2s2J/image.png)
 
