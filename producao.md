@@ -73,6 +73,7 @@ Achamos o arquivo xmind **10-1.2**!
 ![](https://image.ibb.co/nMEPXJ/image.png)
 
 **10.** Transfira o arquivo para **Planos de Base Utilizados:**
+
 ![](https://image.ibb.co/cJrhKy/image.png)
 
 Confirme que o arquivo está são e salvo lá!
