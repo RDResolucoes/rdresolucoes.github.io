@@ -8,7 +8,12 @@ layout: default
 # Xmind Zen
 O Xmind Zen é a principal ferramenta utilizada na montagem dos tópicos de Aula.
 
-[Baixe o app aqui](https://www.xmind.net/zen/)
+[Baixe o app win 64 bits aqui](https://www.xmind.net/zen/thank-you-for-downloading/)
+
+[Baixe o app win 32 bits aqui](https://www.xmind.net/xmind/downloads/XMind-ZEN-Update2-for-Windows-32bit.exe)
+
+[Baixe o app MAC-OS aqui](https://www.xmind.net/xmind/downloads/XMind-ZEN-Update2-for-macOS.zip)
+
 ## Comandos Essenciais
 
 * **ctrl+n :** Novo mapa Mental;

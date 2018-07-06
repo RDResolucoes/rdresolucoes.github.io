@@ -82,19 +82,19 @@ Confirme que o arquivo está são e salvo lá!
 
 ![](https://image.ibb.co/mhhBCJ/image.png)
 
-**10.** Envie o conteúdo, **via Whatsapp**, para o candidato e instrua-o a montar o material base. Caso ele tenha dúvidas, ele *deve checar o site e o manual de montagem do material base*. Se a dúvida *persistir*, avise-o para falar com *você*.
+**11.** Envie o conteúdo, **via Whatsapp**, para o candidato e instrua-o a montar o material base. Caso ele tenha dúvidas, ele *deve checar o site e o manual de montagem do material base*. Se a dúvida *persistir*, avise-o para falar com *você*.
 
 ![](https://image.ibb.co/iTEi9y/image.png)
 
-**11.** Feche um ***prazo*** com o candidato, para a entrega do pacote **completo**;
+**12.** Feche um ***prazo*** com o candidato, para a entrega do pacote **completo**;
 
-**12.** Abra esse [*Board*](https://trello.com/b/avwddwJf), na plataforma **Trello**;
+**13.** Abra esse [*Board*](https://trello.com/b/avwddwJf), na plataforma **Trello**;
 
-**13.** Clique nos 3 pontos e selecione a opção de adicionar cartão, na lista *Candidatos em Treinamento*:
+**14.** Clique nos 3 pontos e selecione a opção de adicionar cartão, na lista *Candidatos em Treinamento*:
 
 ![](https://image.ibb.co/iU01wd/image.png)
 
-**14.** Preencha os seguintes dados dentro do Cartão:
+**15.** Preencha os seguintes dados dentro do Cartão:
   1. Label;
   2. Data de Entrega;
   3. Monte uma Checklist com essas opções da imagem;
@@ -107,15 +107,15 @@ Confirme que o arquivo está são e salvo lá!
 
 ![](https://image.ibb.co/ecL1wd/image.png)
 
-**15.** Agora, programe-se para as entregas do candidato! Para isso, visite sua planilha Controle RD:
+**16.** Agora, programe-se para as entregas do candidato! Para isso, visite sua planilha Controle RD:
 
 ![](https://image.ibb.co/caeuGd/image.png)
 
-**16.** Vá até a aba "Treinamento Intensivo", preencha o nome, prazo e o código do material atribuído para o candidato, além dos dados pedidos nas outras abas:
+**17.** Vá até a aba "Treinamento Intensivo", preencha o nome, prazo e o código do material atribuído para o candidato, além dos dados pedidos nas outras abas:
 
 ![](https://image.ibb.co/hzVehJ/image.png)
 
-**17.** Aguarde a Entrega do Candidato Agora!
+**18.** Aguarde a Entrega do Candidato Agora!
 
 # Prazos do Candidato e como combinar Entregas
 
