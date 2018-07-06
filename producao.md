@@ -66,13 +66,15 @@ Encontramos dois arquivos xmind e com o nome template e guia, devem ser esses!
 
 Indo para o **Fluxo** e em **1-PA**:
 
-![](https://image.ibb.co/iigSmd/image.png)
+![](https://image.ibb.co/bVCybd/image.png)
 
 Achamos o arquivo xmind **10-1.2**!
 
 ![](https://image.ibb.co/nMEPXJ/image.png)
 
 **10.** Transfira o arquivo para **Planos de Base Utilizados:**
+
+![](https://image.ibb.co/iigSmd/image.png)
 
 ![](https://image.ibb.co/cJrhKy/image.png)
 
