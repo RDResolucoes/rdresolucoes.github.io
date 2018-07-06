@@ -38,7 +38,7 @@ Casos do tipo não são previstos pelo workflow, então será necessário realiz
 
 ![](https://image.ibb.co/dumzhJ/image.png)
 
-**4.** Cole o código do material *exatamente na mesma linha*:
+**4.** Cole o código do material *exatamente na mesma linha que o código copiado, da planilha anterior*:
 
 ![](https://image.ibb.co/kzvEGd/image.png)
 
@@ -62,7 +62,7 @@ Encontramos dois arquivos xmind e com o nome template e guia, devem ser esses!
 
 ![](https://image.ibb.co/fMdJsJ/image.png)
 
-**9.** De posse das templates, entre na pasta [Fluxo], em seguida na pasta 1-PA. Busque o arquivo base do arquivo base. É o **mesmo início de código** e deve ter **o mesmo tipo de arquivo que o arquivo da template**:
+**9.** De posse das templates, entre na pasta [Fluxo](https://drive.google.com/open?id=1ZUfXR8L6695BEbfgrQZ1ic1QjFrxdLrm), em seguida na pasta 1-PA. Busque o arquivo base para confecção do material base. É o **mesmo início de código** e deve ter **o mesmo tipo de arquivo que o arquivo da template**:
 
 Indo para o **Fluxo** e em **1-PA**:
 
