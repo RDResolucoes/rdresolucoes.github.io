@@ -98,12 +98,12 @@ Confirme que o arquivo está são e salvo lá!
   4. Para facilitar, copie um dos cartões arquivados do Board, e apenas edite os termos colocados lá;
   5. ***Lembre-se de nomear o cartão no Trello com o NOME COMPLETO DO CANDIDATO/DISCIPLINA***, isso nos ajuda a montar estatísticas de recrutamento e deixar bem organizado!
 
-![](https://image.ibb.co/gZ2s2J/image.png)
+![](https://image.ibb.co/gZ2s2J/image.png =720x720)
 
 
 **NOME DO CARTÃO = NOME CANDIDATO/DISCIPLINA**
 
-![](https://image.ibb.co/ecL1wd/image.png=60%)
+![](https://image.ibb.co/ecL1wd/image.png)
 
 **15.** Agora, programe-se para as entregas do candidato! Para isso, visite sua planilha Controle RD:
 
