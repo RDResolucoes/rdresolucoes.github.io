@@ -98,8 +98,7 @@ Confirme que o arquivo está são e salvo lá!
   4. Para facilitar, copie um dos cartões arquivados do Board, e apenas edite os termos colocados lá;
   5. ***Lembre-se de nomear o cartão no Trello com o NOME COMPLETO DO CANDIDATO/DISCIPLINA***, isso nos ajuda a montar estatísticas de recrutamento e deixar bem organizado!
 
-![](https://image.ibb.co/gZ2s2J/image.png =720x720)
-
+![](https://image.ibb.co/gZ2s2J/image.png)
 
 **NOME DO CARTÃO = NOME CANDIDATO/DISCIPLINA**
 
