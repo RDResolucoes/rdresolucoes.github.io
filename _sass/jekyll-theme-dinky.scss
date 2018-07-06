@@ -1902,12 +1902,11 @@ padding-right: 0;
 /* Images */
 
 img {
-  position: center;
-	vertical-align: center;
+  position: inherit;
   margin: auto;
   max-width: 90%;
   padding: 5px;
-  margin: 0;
+  margin: 10px;
   border: 1px solid #ccc;
 }
 
