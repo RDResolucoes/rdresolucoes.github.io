@@ -206,6 +206,7 @@ Conteúdo da Mensagem: Este candidato foi aprovado no Teste Intensivo e necessit
 ```
 
 ***Como Preencher***
+
 |Trechos de Preenchimento|Como Preencher|
 |:-----|:------:|
 |<Nome_do_cartão>| ***Exatamente como estiver no Cartão*** |
@@ -228,5 +229,5 @@ Conteúdo da Mensagem: Este candidato foi aprovado no Teste Intensivo e necessit
 Com isso, o novo integrante da RD pode iniciar seus trabalhos e você, a coordená-lo!
 
 * como fazer um TI genérico, passo a passo;
-* como distribuir questões para membros RD;
-* Trabalhando na Planilha de Controle;
+* como distribuir materiais, a fazer, para membros RD;
+* Trabalhando na Planilha de Controle do Coordenador;
