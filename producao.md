@@ -96,8 +96,6 @@ Confirme que o arquivo está são e salvo lá!
 
 **11.** Envie o conteúdo, **via Whatsapp**, para o candidato e instrua-o a montar o material base. Caso ele tenha dúvidas, ele *deve checar o site e o manual de montagem do material base*. Se a dúvida *persistir*, avise-o para falar com *você*.
 
-**11.** Envie o conteúdo, **via Whatsapp**, para o candidato e instrua-o a montar o material base. Caso ele tenha dúvidas, ele *deve checar o site e o manual de montagem do material base*. Se a dúvida *persistir*, avise-o para falar com *você*.
-
 ![](https://image.ibb.co/iTEi9y/image.png)
 
 **12.** Feche um ***prazo*** com o candidato, para a entrega do pacote **completo**;
