@@ -209,10 +209,10 @@ Conteúdo da Mensagem: Este candidato foi aprovado no Teste Intensivo e necessit
 
 |Trechos de Preenchimento|Como Preencher|
 |:-----|:------:|
-|<Nome_do_cartão>| ***Exatamente como estiver no Cartão*** |
-|<Nome do cargo na RD>|Mestre Educacional<br>Produtor RD<br>Desenvolvedor de Resoluções|
-|<email pedido>|**Deve ser idêntico ao email utilizado no preenchimento do forms dos dados bancários**|
-|<Seu nome aqui>|Angélica Dumas<br>André Smaira<br>Francisco Bernardo<br>Aline Ferreira<br>Marcos Vinicius Reballo<br>Gustavo Martins|
+|Nome_do_cartão| ***Exatamente como estiver no Cartão*** |
+|Nome do cargo na RD|Mestre Educacional<br>Produtor RD<br>Desenvolvedor de Resoluções|
+|email pedido|**Deve ser idêntico ao email utilizado no preenchimento do forms dos dados bancários**|
+|Seu nome aqui|Angélica Dumas<br>André Smaira<br>Francisco Bernardo<br>Aline Ferreira<br>Marcos Vinicius Reballo<br>Gustavo Martins|
 
 **4.** Se estiver tudo certo, você deve receber uma mensagem pessoal em seu Slack nesse formato:
 
