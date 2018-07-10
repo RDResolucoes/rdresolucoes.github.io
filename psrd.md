@@ -114,7 +114,7 @@ Para a parte Específica, temos a seguinte divisão, por cargo:
 |Desenvolvedor de Resoluções Online RD|![enter image description here](https://image.ibb.co/gc6sAT/quest_es_DRD.png)|***15***|
 
 ### Nota de Corte
-O mínimo para ser chamado é de pelo menos **80% de acertos**:
+O mínimo para ser chamado é de pelo menos **70% de acertos**:
 
 |Cargo|Total de Questões|Mínimo de Acertos para Aprovação|
 |:---:|:---:|:---:|
