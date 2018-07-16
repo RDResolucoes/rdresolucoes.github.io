@@ -1,3 +1,10 @@
+---
+title: Processo Seletivo Membros RD
+permalink: valores-questoes-qb.html
+layout: default
+description: Acompanhe passo a passo como se tornar um membro da RDResoluções!
+---
+
 referencias
 Conceitos
 introdução
@@ -5,6 +12,7 @@ introdução
 Objetivos de Aprendizado
 **bullets + flashcard interativo - sem audio**
 2,50
+
 ---
 Um Pouco de História
 **texto**
