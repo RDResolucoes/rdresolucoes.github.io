@@ -270,21 +270,20 @@ conteúdo
 <p><em><strong>A Pergunta:</strong></em> Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.</p>
 <p><em><strong>Tipo de Resposta:</strong></em> <mark>Diagrama</mark></p>
 <p><em><strong>Código de Resposta:</strong></em></p>
-
-```
+<pre><code>
 ---
 ==Resposta(Diagrama)==
 {
 
-/```mermaid
+```mermaid
 graph TD
 A[lala]-->|de la para sol|B[solsol]
 B-.->|"solsol para avião"|C["Avião"]
 }
-```/
----
 ```
+---
 
+</code></pre>
 <p><em><strong>Exemplo</strong></em><sup class="footnote-ref"><a href="#fn10" id="fnref10">10</a></sup></p>
 <h2 id="tópico-1">Tópico 1</h2>
 <p><em><strong>O QUE É:</strong></em> A explicação detalhada do primeiro tópico do Tópico de Aula</p>
