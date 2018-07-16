@@ -1,49 +1,199 @@
 ---
-title: Processo Seletivo Membros RD
+title: Valores Individuais por Questão
 permalink: valores-questoes-qb.html
 layout: default
-description: Acompanhe passo a passo como se tornar um membro da RDResoluções!
+description: Acompanhe o valor de referência das Perguntas do Questionário Base!
+---
+# Contextualização
+## Perguntas + Respostas
+* Referências
+
+```
+==Resposta(Referências)==
+{
+conteúdo
+}
+```
+* Conceitos
+
+```
+==Resposta(Texto)==
+{
+conteúdo
+}
+```
+* Introdução
+
+```
+==Resposta(Texto)==
+{
+conteúdo
+}
+```
+* Objetivos de Aprendizado
+
+_Pergunta 1_
+
+```
+==Resposta(Bullet)==
+{
+* lalalla
+* lalalal
+}
+```
+_Pergunta 2_
+```
+---
+==Resposta(Flashcard Interativo){cartao_1}{tipounico2}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+---
+```
+## Valor Bruto: R$ 3,00
+---
+# Um Pouco de História
+
+```
+---
+==Resposta(Título)==
+{
+conteúdo
+}
+
 ---
 
-referencias
-Conceitos
-introdução
-**texto**
-Objetivos de Aprendizado
-**bullets + flashcard interativo - sem audio**
-2,50
+==Resposta(Texto)==
+{
+conteúdo
+}
 
 ---
-Um Pouco de História
-**texto**
-R$ 2,50
+==Resposta(Fonte)==
+{
+conteúdo
+}
+
 ---
-Fato Curioso - 1 Flashcard
-Solução Detalhada - 2 ou mais Flashcards
-**flashcard interativo - sem audio**
-3,00
+```
+
+## Valor Bruto: R$ 2,50
 ---
-Conceitos Primitivos
-A Chave dos Tópicos
-**Diagrama**
-4,00
+# Fato Curioso
+* Fato Curioso
+
+```
 ---
-Desenvolvimento
-todos os tópicos do TA
+==Resposta(Template){cartao_n}{tipounico1}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+```
+* Solução Detalhada
+
+```
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_3}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+```
+
+## Valor Bruto: R$ 3,00
+---
+# Chave dos Tópicos
+* Conceitos Primitivos
+
+```
+
+---
+==Resposta(Diagrama)==
+{
+
+/```mermaid
+graph TD
+A[lala]-->|de la para sol|B[solsol]
+B-.->|"solsol para avião"|C["Avião"]
+}
+```/
+---
+```
+
+* A Chave dos Tópicos
+
+```
+
+---
+==Resposta(Diagrama)==
+{
+/```mermaid
+graph TD
+A[topico2]-->|de la para sol|B[solsol]
+B-.->|"solsol para avião"|C["Avião"]
+```/
+/```mermaid
+graph TD
+A[topico3]-->|de la para sol|B[solsol]
+B-.->|"solsol para avião"|C["Avião"]
+```/
+/```mermaid
+graph TD
+A[topico4]-->|de la para sol|B[solsol]
+B-.->|"solsol para avião"|C["Avião"]
+}
+```/
+---
+```
+## Valor Bruto: R$ 4,00
+---
+# Desenvolvimento
+
 **Explicação Detalhada**
 **Flashcard Interativo**
 12,00
 ---
-Resumo
-**texto** - pode ser dado pro povo de português, é baseado somente no desenvolvimento mesmo
-**Flashcard Interativo** - Esse aqui também acho que dê, é só uma listagem do que foi falado antes, ueh
-2,50
+# Resumo
+**texto**
+**Flashcard Interativo**
+2,00
 ---
-Exercícios + Resolução
+# Exercícios + Resolução
 **Exercício**
 **Resolução**
 6,00
 ---
+# Extras
 Fique Ligado
 **Livre**
 Saiba Mais!

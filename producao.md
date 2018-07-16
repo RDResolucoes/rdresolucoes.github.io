@@ -4,6 +4,7 @@ permalink: producao.html
 layout: default
 description: Olá, coordenador! Nesta página está explicado passo a passo como proceder em diversas situações possíveis ao longo da sua jornada como membro da RDResoluções!
 ---
+[Valores Questões do Questionário Base](./valores-questoes-qb)
 
 # Tutoriais
 Nesta seção explicamos as principais situações que um coordenador pode enfrentar, e qual seria a melhor forma para resolvê-las.

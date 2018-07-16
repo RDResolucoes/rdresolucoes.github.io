@@ -270,18 +270,21 @@ conteúdo
 <p><em><strong>A Pergunta:</strong></em> Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.</p>
 <p><em><strong>Tipo de Resposta:</strong></em> <mark>Diagrama</mark></p>
 <p><em><strong>Código de Resposta:</strong></em></p>
-<pre><code>---
+
+```
+---
 ==Resposta(Diagrama)==
 {
-```mermaid
-graph TD
-A[lala]--&gt;|de la para sol|B[solsol]
-B-.-&gt;C
-```apagueessafrase
-}
 
+/```mermaid
+graph TD
+A[lala]-->|de la para sol|B[solsol]
+B-.->|"solsol para avião"|C["Avião"]
+}
+```/
 ---
-</code></pre>
+```
+
 <p><em><strong>Exemplo</strong></em><sup class="footnote-ref"><a href="#fn10" id="fnref10">10</a></sup></p>
 <h2 id="tópico-1">Tópico 1</h2>
 <p><em><strong>O QUE É:</strong></em> A explicação detalhada do primeiro tópico do Tópico de Aula</p>
@@ -317,14 +320,14 @@ conteúdo
 </ul>
 <p><em><strong>Tipo de Resposta2:</strong></em> <mark>Flashcard Interativo</mark>/<mark>Template</mark></p>
 <p><em><strong>Código de Resposta2:</strong></em></p>
-<pre><code>--- 
-==Resposta(Template){cartao_1}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
+<pre><code>---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
 </code></pre>
@@ -339,32 +342,32 @@ conteúdo
 conteúdo
 }
 
---- 
-==Resposta(Template){cartao_1}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
-
---- 
-==Resposta(Template){cartao_2}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
-==Resposta(Template){cartao_n}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
 ==Resposta(Explicação Detalhada){topico_3}==
@@ -372,32 +375,32 @@ conteúdo
 conteúdo
 }
 
---- 
-==Resposta(Template){cartao_1}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
-
---- 
-==Resposta(Template){cartao_2}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
-==Resposta(Template){cartao_n}{numero_da_template}== 
-{ 
-==Resposta(Flashcard Interativo)== 
-{ 
-conteúdo 
-} 
-} 
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
 .
@@ -658,7 +661,7 @@ Vamos ver nessa aula o que é anatomia funcional, as subdisciplinas da anatomia,
 </code></pre>
  <a href="#fnref4" class="footnote-backref">↩︎</a></li>
 <li id="fn5" class="footnote-item"><p><strong>Tópico de Aula:</strong>  Como elaborar uma tese de TCC de qualidade</p>
-<pre><code>--- 
+<pre><code>---
 </code></pre>
 <p><mark>Resposta(Título)</mark><br>
 {<br>
@@ -674,7 +677,7 @@ Ao mesmo tempo, o desenvolvimento da Ciência não deveria ser entendido como um
 A imensa tarefa se transformou, assim, num desafio que significou, na realidade, interpretar a evolução do pensamento científico e dos ramos da Ciência, considerar a Filosofia e a Sociologia da Ciência e comentar, por indispensável, o ambiente social, político, econômico, cultural, artístico e religioso que servia de pano de fundo para a História da Ciência.<br>
 Descobri ser impossível que um tema pudesse ser interpretado somente por uma ótica e, somente após aceitar este fato, pude realizar minha pesquisa de forma satisfatória e completa.<br>
 }</p>
-<pre><code>--- 
+<pre><code>---
 </code></pre>
 <p><mark>Resposta(Fonte)</mark><br>
 {<br>
@@ -1629,7 +1632,7 @@ Os átomos são unidades minúsculas que se unem e formam moléculas e macromol�
 <div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-VeGsI8Scj9k4QZrP" height="100%" viewBox="0 0 1091.390625 682" style="max-width:1091.390625px;"><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M139.26066080729166,308L252.65625,139L286.2578125,139" marker-end="url(#arrowhead859)" style="fill:none"></path><defs><marker id="arrowhead859" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M410.9549153645833,116L508.0625,43L597.6015625,43" marker-end="url(#arrowhead860)" style="fill:none"></path><defs><marker id="arrowhead860" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M474.4609375,139L508.0625,139L593.3046875,139" marker-end="url(#arrowhead861)" style="fill:none"></path><defs><marker id="arrowhead861" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M410.9549153645833,162L508.0625,235L580.6875,235" marker-end="url(#arrowhead862)" style="fill:none"></path><defs><marker id="arrowhead862" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M227.65625,331L252.65625,331L288.25,331" marker-end="url(#arrowhead863)" style="fill:none"></path><defs><marker id="arrowhead863" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M472.46875,331L508.0625,331L533.0625,331" marker-end="url(#arrowhead864)" style="fill:none"></path><defs><marker id="arrowhead864" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M710.3954264322916,308L834.515625,235L920.2890625,235" marker-end="url(#arrowhead865)" style="fill:none"></path><defs><marker id="arrowhead865" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M809.515625,331L834.515625,331L919.2578125,331" marker-end="url(#arrowhead866)" style="fill:none"></path><defs><marker id="arrowhead866" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M710.3954264322916,354L834.515625,427L869.7578125,427" marker-end="url(#arrowhead867)" style="fill:none"></path><defs><marker id="arrowhead867" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M139.26066080729166,354L252.65625,523L277.65625,523" marker-end="url(#arrowhead868)" style="fill:none"></path><defs><marker id="arrowhead868" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M410.9549153645833,500L508.0625,427L619.890625,427" marker-end="url(#arrowhead869)" style="fill:none"></path><defs><marker id="arrowhead869" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M483.0625,523L508.0625,523L589.3984375,523" marker-end="url(#arrowhead870)" style="fill:none"></path><defs><marker id="arrowhead870" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M753.1796875,523L834.515625,523L859.515625,523" marker-end="url(#arrowhead871)" style="fill:none"></path><defs><marker id="arrowhead871" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M410.9549153645833,546L508.0625,619L584.421875,619" marker-end="url(#arrowhead872)" style="fill:none"></path><defs><marker id="arrowhead872" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node" id="A" transform="translate(123.828125,331)" style="opacity: 1;"><rect rx="0" ry="0" x="-103.828125" y="-23" width="207.65625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-93.828125,-13)"><foreignObject width="187.65625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Subdisciplinas da anatomia</div></foreignObject></g></g></g><g class="node" id="B" transform="translate(380.359375,139)" style="opacity: 1;"><rect rx="0" ry="0" x="-94.1015625" y="-23" width="188.203125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-84.1015625,-13)"><foreignObject width="168.203125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia Macroscópica</div></foreignObject></g></g></g><g class="node" id="B1" transform="translate(671.2890625,43)" style="opacity: 1;"><rect rx="0" ry="0" x="-73.6875" y="-23" width="147.375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-63.6875,-13)"><foreignObject width="127.375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia regional</div></foreignObject></g></g></g><g class="node" id="B2" transform="translate(671.2890625,139)" style="opacity: 1;"><rect rx="0" ry="0" x="-77.984375" y="-23" width="155.96875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-67.984375,-13)"><foreignObject width="135.96875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia sistêmica</div></foreignObject></g></g></g><g class="node" id="B3" transform="translate(671.2890625,235)" style="opacity: 1;"><rect rx="0" ry="0" x="-90.6015625" y="-23" width="181.203125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-80.6015625,-13)"><foreignObject width="161.203125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia de superfície</div></foreignObject></g></g></g><g class="node" id="C" transform="translate(380.359375,331)" style="opacity: 1;"><rect rx="0" ry="0" x="-92.109375" y="-23" width="184.21875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-82.109375,-13)"><foreignObject width="164.21875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia Microscópica</div></foreignObject></g></g></g><g class="node" id="C1" transform="translate(671.2890625,331)" style="opacity: 1;"><rect rx="0" ry="0" x="-138.2265625" y="-23" width="276.453125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-128.2265625,-13)"><foreignObject width="256.453125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Análises de estruturas microscópicas</div></foreignObject></g></g></g><g class="node" id="estruturas1" transform="translate(955.453125,235)" style="opacity: 1;"><rect rx="0" ry="0" x="-35.1640625" y="-23" width="70.328125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-25.1640625,-13)"><foreignObject width="50.328125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Células</div></foreignObject></g></g></g><g class="node" id="estruturas2" transform="translate(955.453125,331)" style="opacity: 1;"><rect rx="0" ry="0" x="-36.1953125" y="-23" width="72.390625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-26.1953125,-13)"><foreignObject width="52.390625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Tecidos</div></foreignObject></g></g></g><g class="node" id="estruturas3" transform="translate(955.453125,427)" style="opacity: 1;"><rect rx="0" ry="0" x="-85.6953125" y="-23" width="171.390625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-75.6953125,-13)"><foreignObject width="151.390625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Processos fisiológicos</div></foreignObject></g></g></g><g class="node" id="D" transform="translate(380.359375,523)" style="opacity: 1;"><rect rx="0" ry="0" x="-102.703125" y="-23" width="205.40625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-92.703125,-13)"><foreignObject width="185.40625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Outros ramos da anatomia</div></foreignObject></g></g></g><g class="node" id="D1" transform="translate(671.2890625,427)" style="opacity: 1;"><rect rx="0" ry="0" x="-51.3984375" y="-23" width="102.796875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-41.3984375,-13)"><foreignObject width="82.796875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Embriologia</div></foreignObject></g></g></g><g class="node" id="D2" transform="translate(671.2890625,523)" style="opacity: 1;"><rect rx="0" ry="0" x="-81.890625" y="-23" width="163.78125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-71.890625,-13)"><foreignObject width="143.78125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia patológica</div></foreignObject></g></g></g><g class="node" id="patológica" transform="translate(955.453125,523)" style="opacity: 1;"><rect rx="0" ry="0" x="-95.9375" y="-23" width="191.875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-85.9375,-13)"><foreignObject width="171.875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Exemplo:Neoplasia renal</div></foreignObject></g></g></g><g class="node" id="D3" transform="translate(671.2890625,619)" style="opacity: 1;"><rect rx="0" ry="0" x="-86.8671875" y="-23" width="173.734375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-76.8671875,-13)"><foreignObject width="153.734375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Anatomia radiográfica</div></foreignObject></g></g></g></g></g></g></svg></div>
 <div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-QOMMALQY19xSX2ae" height="100%" viewBox="0 0 512.6875 298" style="max-width:512.6875px;"><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M183.314453125,66L88.1484375,91L88.1484375,116" marker-end="url(#arrowhead888)" style="fill:none"></path><defs><marker id="arrowhead888" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M270.8671875,66L270.8671875,91L270.8671875,116" marker-end="url(#arrowhead889)" style="fill:none"></path><defs><marker id="arrowhead889" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M270.8671875,162L270.8671875,187L270.8671875,212" marker-end="url(#arrowhead890)" style="fill:none"></path><defs><marker id="arrowhead890" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M346.6691080729167,66L429.0625,91L429.0625,116" marker-end="url(#arrowhead891)" style="fill:none"></path><defs><marker id="arrowhead891" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M429.0625,162L429.0625,187L429.0625,212" marker-end="url(#arrowhead892)" style="fill:none"></path><defs><marker id="arrowhead892" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M88.1484375,162L88.1484375,187L88.1484375,212" marker-end="url(#arrowhead893)" style="fill:none"></path><defs><marker id="arrowhead893" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node" id="A" transform="translate(270.8671875,43)" style="opacity: 1;"><rect rx="0" ry="0" x="-110.390625" y="-23" width="220.78125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-100.390625,-13)"><foreignObject width="200.78125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Sistema de medição(métrico)</div></foreignObject></g></g></g><g class="node" id="B" transform="translate(88.1484375,139)" style="opacity: 1;"><rect rx="0" ry="0" x="-35.1640625" y="-23" width="70.328125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-25.1640625,-13)"><foreignObject width="50.328125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Células</div></foreignObject></g></g></g><g class="node" id="D" transform="translate(270.8671875,139)" style="opacity: 1;"><rect rx="0" ry="0" x="-36.1953125" y="-23" width="72.390625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-26.1953125,-13)"><foreignObject width="52.390625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Tecidos</div></foreignObject></g></g></g><g class="node" id="D1" transform="translate(270.8671875,235)" style="opacity: 1;"><rect rx="0" ry="0" x="-64.5703125" y="-23" width="129.140625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-54.5703125,-13)"><foreignObject width="109.140625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">(cm) centímetro</div></foreignObject></g></g></g><g class="node" id="E" transform="translate(429.0625,139)" style="opacity: 1;"><rect rx="0" ry="0" x="-35.28125" y="-23" width="70.5625" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-25.28125,-13)"><foreignObject width="50.5625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Órgãos</div></foreignObject></g></g></g><g class="node" id="E1" transform="translate(429.0625,235)" style="opacity: 1;"><rect rx="0" ry="0" x="-43.625" y="-23" width="87.25" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-33.625,-13)"><foreignObject width="67.25" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">(m) metro</div></foreignObject></g></g></g><g class="node" id="C" transform="translate(88.1484375,235)" style="opacity: 1;"><rect rx="0" ry="0" x="-68.1484375" y="-23" width="136.296875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-58.1484375,-13)"><foreignObject width="116.296875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">(μm) micrômetro</div></foreignObject></g></g></g></g></g></g></svg></div>
 <p>}</p>
-<pre><code>--- 
+<pre><code>---
 </code></pre>
  <a href="#fnref14" class="footnote-backref">↩︎</a></li>
 <li id="fn15" class="footnote-item"><pre><code>---
