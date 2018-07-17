@@ -328,14 +328,77 @@ conteúdo
 #### Valor Bruto: R$ 2,00
 
 # Exercícios + Resolução
-**Exercício**
-**Resolução**
-6,00
+* Exercícios
+
+```
 ---
+ ==Resposta(Exercício){Nome do Autor1}==
+{
+Enunciado1
+}
+
+---
+==Resposta(Exercício){Nome do Autor2}==
+{
+Enunciado2
+}
+
+---
+==Resposta(Exercício){Nome do Autor3}==
+{
+Enunciado3
+}
+
+---
+```
+* Resolução
+
+```
+---
+==Resposta(Resolução)==
+{
+Resolução1
+}
+
+---
+==Resposta(Resolução)==
+{
+Resolução2
+}
+
+---
+==Resposta(Resolução)==
+{
+Resolução3
+}
+
+---
+```
+#### Valor Bruto: R$ 6,00
+
 # Extras
-Fique Ligado
-**Livre**
-Saiba Mais!
-**Livre**
-2,50
+* Fique Ligado
+
+```
 ---
+==Resposta(Livre){Tipo de Resposta}==
+{
+conteúdo
+}
+
+---
+```
+
+* Saiba Mais!
+
+```
+---
+==Resposta(Livre){Tipo de Resposta}==
+{
+conteúdo
+}
+
+---
+```
+
+#### Valor Bruto: R$ 2,50
