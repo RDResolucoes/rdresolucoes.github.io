@@ -6,6 +6,7 @@ description: Acompanhe o valor de referência das Perguntas do Questionário Bas
 ---
 
 # Contextualização
+#### Valor Bruto: R$ 3,00
 * Referências
 
 ```
@@ -53,9 +54,10 @@ conteúdo
 }
 ---
 ```
-#### Valor Bruto: R$ 3,00
+
 
 # Um Pouco de História
+#### Valor Bruto: R$ 2,50
 
 ```
 ---
@@ -80,9 +82,10 @@ conteúdo
 ---
 ```
 
-#### Valor Bruto: R$ 2,50
+
 
 # Fato Curioso
+#### Valor Bruto: R$ 3,00
 * Fato Curioso
 
 ```
@@ -130,9 +133,10 @@ conteúdo
 ---
 ```
 
-#### Valor Bruto: R$ 3,00
+
 
 # Chave dos Tópicos
+#### Valor Bruto: R$ 4,00
 * Conceitos Primitivos
 
 ```
@@ -175,9 +179,10 @@ B-.->|"solsol para avião"|C["Avião"]
 ```/
 ---
 ```
-#### Valor Bruto: R$ 4,00
+
 
 # Desenvolvimento
+#### Valor Bruto: R$ 12,00
 * Tópico 1
 
 _Pergunta 1_
@@ -279,9 +284,10 @@ conteúdo
 .
 ```
 
-#### Valor Bruto: R$ 12,00
+
 
 # Resumo
+#### Valor Bruto: R$ 2,00
 _Pergunta 1_
 
 ```
@@ -325,9 +331,10 @@ conteúdo
 ---
 ```
 
-#### Valor Bruto: R$ 2,00
+
 
 # Exercícios + Resolução
+#### Valor Bruto: R$ 6,00
 * Exercícios
 
 ```
@@ -374,9 +381,10 @@ Resolução3
 
 ---
 ```
-#### Valor Bruto: R$ 6,00
+
 
 # Extras
+#### Valor Bruto: R$ 2,50
 * Fique Ligado
 
 ```
@@ -400,5 +408,3 @@ conteúdo
 
 ---
 ```
-
-#### Valor Bruto: R$ 2,50
