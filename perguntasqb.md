@@ -227,7 +227,8 @@ conteúdo
 </ul>
 <p><em><strong>Tipo de Resposta2:</strong></em> <mark>Template</mark>/<mark>Flashcard Interativo</mark></p>
 <p><em><strong>Código de Resposta2:</strong></em></p>
-<pre><code>---
+<pre><code>
+---
 ==Resposta(Flashcard Interativo){cartao_1}{tipounico2}==
 {
 ==Resposta(Flashcard Interativo)==
@@ -429,26 +430,29 @@ conteúdo
 <p><em><strong>A Pergunta:</strong></em>  Construa explicações rápidas para cada tópico dos tópicos essenciais e liste-as abaixo. Desconsidere o conceito primitivo como um tópico essencial, para responder essa pergunta. Use e abuse de exemplos rápidos que possam definir um tópico essencial.</p>
 <p><em><strong>Tipo de Resposta:</strong></em> <mark>Diagrama</mark></p>
 <p><em><strong>Código de Resposta:</strong></em></p>
-<pre><code>---
+<pre><code>
+---
 ==Resposta(Diagrama)==
 {
 ```mermaid
 graph TD
-A[topico2]--&gt;|de la para sol|B[solsol]
-B-.-&gt;C
-```apagueessafrase
+A[topico2]-->;|de la para sol|B[solsol]
+B-.->;C
+```
 </code></pre>
-<pre><code>```mermaid
+<pre><code>
+```mermaid
 graph TD
-A[topico3]--&gt;|de la para sol|B[solsol]
-B-.-&gt;C
-```apagueessafrase
+A[topico3]-->;|de la para sol|B[solsol]
+B-.->;C
+```
 </code></pre>
-<pre><code>```mermaid
+<pre><code>
+```mermaid
 graph TD
-A[topico4]--&gt;|de la para sol|B[solsol]
-B-.-&gt;C
-```apagueessafrase
+A[topico4]-->;|de la para sol|B[solsol]
+B-.->;C
+```
 }
 
 ---

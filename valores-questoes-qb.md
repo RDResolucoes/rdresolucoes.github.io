@@ -4,8 +4,8 @@ permalink: valores-questoes-qb.html
 layout: default
 description: Acompanhe o valor de referência das Perguntas do Questionário Base!
 ---
+
 # Contextualização
-## Perguntas + Respostas
 * Referências
 
 ```
@@ -53,8 +53,8 @@ conteúdo
 }
 ---
 ```
-## Valor Bruto: R$ 3,00
----
+#### Valor Bruto: R$ 3,00
+
 # Um Pouco de História
 
 ```
@@ -80,8 +80,8 @@ conteúdo
 ---
 ```
 
-## Valor Bruto: R$ 2,50
----
+#### Valor Bruto: R$ 2,50
+
 # Fato Curioso
 * Fato Curioso
 
@@ -130,8 +130,8 @@ conteúdo
 ---
 ```
 
-## Valor Bruto: R$ 3,00
----
+#### Valor Bruto: R$ 3,00
+
 # Chave dos Tópicos
 * Conceitos Primitivos
 
@@ -175,19 +175,158 @@ B-.->|"solsol para avião"|C["Avião"]
 ```/
 ---
 ```
-## Valor Bruto: R$ 4,00
----
-# Desenvolvimento
+#### Valor Bruto: R$ 4,00
 
-**Explicação Detalhada**
-**Flashcard Interativo**
-12,00
+# Desenvolvimento
+* Tópico 1
+
+_Pergunta 1_
+```
 ---
+==Resposta(Explicação Detalhada){topico_1}==
+{
+conteúdo
+}
+
+---
+```
+_Pergunta 2_
+```
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+```
+* Demais Tópicos
+
+```
+---
+==Resposta(Explicação Detalhada){topico_2}==
+{
+conteúdo
+}
+
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Explicação Detalhada){topico_3}==
+{
+conteúdo
+}
+
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+.
+.
+.
+.
+```
+
+#### Valor Bruto: R$ 12,00
+
 # Resumo
-**texto**
-**Flashcard Interativo**
-2,00
+_Pergunta 1_
+
+```
 ---
+==Resposta(Texto)==
+{
+conteúdo
+}
+
+---
+```
+_Pergunta 2_
+```
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Template){cartao_3}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+```
+
+#### Valor Bruto: R$ 2,00
+
 # Exercícios + Resolução
 **Exercício**
 **Resolução**
