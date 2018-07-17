@@ -10,37 +10,49 @@ description: Acompanhe o valor de referência das Perguntas do Questionário Bas
 * Referências
 
 ```
+---
 ==Resposta(Referências)==
 {
 conteúdo
 }
+
+---
 ```
 * Conceitos
 
 ```
+---
 ==Resposta(Texto)==
 {
 conteúdo
 }
+
+---
 ```
 * Introdução
 
 ```
+---
 ==Resposta(Texto)==
 {
 conteúdo
 }
+
+---
 ```
 * Objetivos de Aprendizado
 
 _Pergunta 1_
 
 ```
+---
 ==Resposta(Bullet)==
 {
 * lalalla
 * lalalal
 }
+
+---
 ```
 _Pergunta 2_
 ```
@@ -52,10 +64,9 @@ _Pergunta 2_
 conteúdo
 }
 }
+
 ---
 ```
-
-
 # Um Pouco de História
 #### Valor Bruto: R$ 2,50
 
