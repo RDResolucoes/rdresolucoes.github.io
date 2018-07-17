@@ -4,12 +4,11 @@
 
 ## Conceitos Primitivos
 ### Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.
-> **O que é:** Geralmente, é o primeiro tópico essencial. Há casos em que ocorrem outras definições primitivas ao longo da aula TAMBÉM.
-
-> [**Resposta Tipo Diagrama**](./regrasgeraisqb#diagramas)
-
->A **definição** de um conceito primitivo é:
-> * Todo conceito que precisa ser definido antes que possamos definir outros conceitos, normalmente baseados nesse primeiro
+> * **O que é:** Geralmente, é o primeiro tópico essencial. Há casos em que ocorrem outras definições primitivas ao longo da aula TAMBÉM.
+> * [**Resposta Tipo Diagrama Descrição AQUI**](https://home.rdresolucoes.com/respostasqb#diagrama)
+> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#conceitos-primitivos)
+>* A **definição** de um conceito primitivo é:
+>   * Todo conceito que precisa ser definido antes que possamos definir outros conceitos, normalmente baseados nesse primeiro
 	>	 * **Ex:**
 	> 		* "O que é proposição" seria um conceito primitivo
 	> 		* Proposição composta não
@@ -20,6 +19,8 @@
 > * Condense as definições de cada conceito primitivo;
 > * Utilize Palavras Chaves na explicação;
 > * As explicações devem ser diretas e abundantes;
+> * [**Mais Regras**](https://home.rdresolucoes.com/regrasgeraisqb#diagramas);
+
 ---
 ==Resposta(Diagrama)==
 {
@@ -36,6 +37,8 @@ B-.->|"solsol para avião"|C["Avião"]
 ### Construa explicações rápidas para cada tópico dos tópicos essenciais e liste-as abaixo. Desconsidere o conceito primitivo como um tópico essencial, para responder essa pergunta. Use e abuse de exemplos rápidos que possam definir um tópico essencial. Esboce um diagrama.
 > **O que é**
 > Essa resposta seria um resumo que um aluno que visse sua aula faria, porém sem copiar os exemplos que você deu e usando a estrutura de um diagrama. A ideia aqui é que o aluno consiga perceber que *não é decorando os exemplos dados na aula que o fará compreender a matéria*, e sim *construindo seus próprios raciocínios* de forma organizada.
+>
+>[**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#a-chave-dos-tópicos)
 >
 > **Regras**
 > * Inclua fórmulas importantes aqui, além de qualquer caso específico ou exemplo útil.
@@ -88,7 +91,7 @@ B-.->|"solsol para avião"|C["Avião"]
 }
 
 ---
----
+
 # CheckList
  - [ ] Respondi todas as perguntas do questionário base utilizando apenas os materiais bibliográficos fornecidos
  - [ ] Se há imagens em meu material, elas são de alta qualidade

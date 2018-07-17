@@ -5,6 +5,9 @@
 # Contextualização
 ## Referências
 ### Copie aqui a referência presente no Tópico de Aula.
+> [**Tipo de Resposta**](https://home.rdresolucoes.com/respostasqb#referência);
+> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#referências)
+
 ---
 ==Resposta(Referências)==
 {
@@ -16,6 +19,9 @@
 ### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
 > ***O que é***: Nessa parte, deve-se citar os conceitos que a pessoa precisa saber para conseguir bom aproveitamento no estudo do material
 >***Como Fazer***: Aqui, basicamente, está se respondendo a pergunta: O que a pessoa tem que revisar antes de ver essa aula?
+> [**Resposta Tipo Texto**](https://home.rdresolucoes.com/respostasqb#texto);
+> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#conceitos);
+
 ---
 ==Resposta(Texto)==
 {
@@ -27,6 +33,8 @@ conteúdo
 ### Descreva quais assuntos serão abordados nesta aula.
 >***O que é:*** Um parágrafo curto que explana rapidamente quais tópicos iremos ver nessa aula
 >***Como Fazer:*** Use a descrição da aula e modifique suas palavras
+> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#introdução)
+
 ---
 ==Resposta(Texto)==
 {
@@ -37,6 +45,9 @@ conteúdo
 ## Objetivos de Aprendizado
 ### Liste as competências que serão adquiridas após o aluno assistir à aula.
 > **O que é:** Aqui devem ser citadas as capacidades que o aluno irá conseguir desenvolver ao terminar de estudar esse material
+> [**Resposta Tipo Bullet**](https://home.rdresolucoes.com/respostasqb#bullet);
+> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
+
 ---
 ==Resposta(Bullet)==
 {
@@ -49,6 +60,7 @@ conteúdo
 ---
 ### Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo um flashcard interativo.
 > **O que é:** São as mesmas capacidades anteriores, porém resumidas a poucas palavras
+
 ---
 ==Resposta(Flashcard Interativo){cartao_1}{tipounico2}==
 {
