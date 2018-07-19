@@ -275,3 +275,26 @@ Nesta seção, explicamos como realizar *manualmente* a atribuição de materiai
 * como fazer um TI genérico, passo a passo;
 * como distribuir materiais, a fazer, para membros RD;
 * Trabalhando na Planilha de Controle do Coordenador;
+
+<html><head>    
+    <script type="text/javascript">
+      function aidSubmit() {
+        var str = document.formulario.cpf.value;
+        str = str.replace(/\D/g,'');
+        document.getElementById("aid").value = "1";
+        for (var i = 8; i >= 0; i-=2)
+          document.getElementById("aid").value += str.charAt(i);
+        for (var i = 7; i > 0; i-=2)
+          document.getElementById("aid").value += str.charAt(i);
+      }
+    </script>
+  </head>
+  <body>
+    <form id="formulario" name="formulario">
+      CPF:<br>
+      <input type="text" name="cpf" id="cpf"><br>
+      AID:<br>
+      <input type="text" name="aid" id="aid">
+      <input type="button" value="Gerar" onclick="aidSubmit();"><br><br>
+    </form>
+</body></html>
