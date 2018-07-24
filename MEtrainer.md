@@ -5,7 +5,7 @@ layout: default
 description: Siga esta checklist com atenção e seja um Mestre Educacional da RDResoluções!
 ---
 
-1. Descompactar arquivo teste;
+1. Descompacte o arquivo "teste";
 2. Instalar o programa Xmind Zen;
 3. Abrir o plano de aula e ver a aula destacada em amarelo;
 4. Abrir o arquivo Links Úteis.txt e acessar o link da BIBLIOGRAFIA OFICIAL DA RD;
