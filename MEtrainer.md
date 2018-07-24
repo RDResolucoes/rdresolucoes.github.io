@@ -5,16 +5,22 @@ layout: default
 description: Siga esta checklist com atenção e seja um Mestre Educacional da RDResoluções!
 ---
 
+
 1. Descompacte o arquivo "teste";
-2. Instalar o programa Xmind Zen;
-3. Abrir o plano de aula e ver a aula destacada em amarelo;
-4. Abrir o arquivo Links Úteis.txt e acessar o link da BIBLIOGRAFIA OFICIAL DA RD;
+
+2. Instale o programa Xmind Zen;
+
+3. Abra o **PLANO DE AULA** e veja a aula destacada, ***EM AMARELO***;
+
+4. Abra o arquivo Links Úteis.txt e acessar o link da BIBLIOGRAFIA OFICIAL DA RD;
+
 5. Procurar os livros da disciplina;
+
 6. Escolher de 3 a 4 livros para usar como base;
 7. Abrir o arquivo Template.xmind e escrever o nome da aula IGUAL está no plano de aula;
 8. Começar escrevendo a descrição/introdução (o que será visto na aula);
 9. Escolher um livro dentre os escolhidos no item 6 para ser o principal (o livro mais usado como base);
-10. Escreva o nome do livro principal onde está escrito em rosa Autor.LIVRO PRINCIPAL;
+10. Escreva o nome do livro principal onde está escrito em rosa Autor-LIVRO PRINCIPAL;
 11. Escreva o nome do primeiro tópico, depois o subtópico e assim por diante. Escreva quantos tópicos achar necessário. (Esses tópicos vão ser utilizados para confecção de vários materiais, portanto faça completo.
 12. Certifique-se que TODOS os tópicos, subtópicos,[...] estejam dentro do retângulo rosa. (Esse retângulo chama-se Boundary);
 13. Use callout nos tópicos e escreva o nome do livro, autor, capítulo e página que foi consultado naquele tópico. Fica assim: Nome do livro, Nome do Autor, Capítulo X, Página y (x e y são números).
