@@ -6,6 +6,10 @@ description: Olá, coordenador! Nesta página está explicado passo a passo como
 ---
 [Valores Questões do Questionário Base](./valores-questoes-qb)
 
+[*Forms de Preenchimento de Dados Bancários*](https://goo.gl/forms/1htaFiIdI0lXK9Fk2)
+
+[*Forms de Cadastro de Membros*](https://goo.gl/forms/6qz8SDPxvC4NT2Sb2)
+
 # Tutoriais
 Nesta seção explicamos as principais situações que um coordenador pode enfrentar, e qual seria a melhor forma para resolvê-las.
 

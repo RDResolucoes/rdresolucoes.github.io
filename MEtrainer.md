@@ -30,13 +30,23 @@ description: Siga esta checklist com atenção e seja um Mestre Educacional da R
 
 10. Escreva o nome do livro principal onde está escrito em rosa: **Autor-LIVRO PRINCIPAL**;
 
-11. Escreva o nome do primeiro tópico, depois o subtópico e assim por diante. Escreva quantos tópicos achar necessário. (Esses tópicos vão ser utilizados para confecção de vários materiais, portanto faça completo.
-  
-12. Certifique-se que TODOS os tópicos, subtópicos,[...] estejam dentro do retângulo rosa. (Esse retângulo chama-se Boundary);
+11. Escreva o nome do primeiro tópico, depois o subtópico e assim por diante;
+> Mostre como fazer um novo tópico e subtópico!
+> Escreva quantos tópicos achar necessário, porém **O NÚMERO MÍNIMO DE TÓPICOS ESSENCIAIS É DE 4 TÓPICOS ESSENCIAIS DISTINTOS**.
+> O que faz um Tópico Essencial ser *DIFERENTE* de outro é sua abordagem sobre o assunto da aula. Se o assunto da sua aula forem maçâs, por exemplo. 2 tópicos chamados maça verde e maçã vermelha estão errados, porque ambos são apenas ***tipos de maça***.
+> O correto aqui seria apenas 1 tópico chamado "Tipos de Maçã" e dois subtópicos, chamados respectivamente de maçã vermelha e maçã verde.
 
-13. Use callout nos tópicos e escreva o nome do livro, autor, capítulo e página que foi consultado naquele tópico. Fica assim: Nome do livro, Nome do Autor, Capítulo X, Página y (x e y são números).
+12. Certifique-se que TODOS os tópicos, subtópicos,[...] estejam dentro do retângulo rosa;
+> (Esse retângulo chama-se Boundary);
+> Mostre como fazer o retângulo e como nomeá-lo;
+> Use callout nos tópicos e escreva o nome do livro, autor, capítulo e página que foi consultado naquele tópico;
+> Mostre como fazer o callout;
+Fica assim: Nome do livro, Nome do Autor, Capítulo X, Página y (x e y são números).
 
 14. Escolha três exercícios dos livros que você escolheu (um fácil, um médio e um difícil) e insira os exercícios onde está escrito "Questões", pode ser em imagem;
+> Assim como os tópicos, cada exercício precisa pedir **coisas diferentes** uns dos outros. Se você escolher ou montar algo como "Resolva essas 3 equações e ache suas raízes", você está fazendo essa parte *ERRADO*.
+> Se formos pensar em termos de "maçãs", teríamos que ter algo como assim:
+> 1. 
 
 15. Escreva os nomes do livro e autor que foram utilizados para os exercícios;
 
