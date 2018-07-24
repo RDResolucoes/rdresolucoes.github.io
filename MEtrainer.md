@@ -16,9 +16,9 @@ description: Siga esta checklist com atenção e seja um Mestre Educacional da R
 
 4. Abra o arquivo **Links Úteis.txt** e acesse o link da ***BIBLIOGRAFIA OFICIAL DA RD***;
 
-5. Procure os livros da sua disciplina na pasta;
+5. Procure os livros da sua disciplina na respectiva pasta;
 
-6. Escolha no _mínimo_ 3 a 4 livros para usar como base *bibliográfica do seu Tópico de Aula (TA)*;
+6. Escolha, no _mínimo_, 3 a 4 livros para usar como base *bibliográfica do seu Tópico de Aula (TA)*;
 
 7. Renomeie o arquivo ***Template.xmind*** para *nome-do-plano-de-aula*-X-Z-TA;
 
@@ -28,9 +28,10 @@ description: Siga esta checklist com atenção e seja um Mestre Educacional da R
 
 9. Escolha _UM LIVRO_ dentre os escolhidos anteriormente para ser ***O LIVRO PRINCIPAL***. Esse livro será aquele que conter o maior número de tópicos essenciais dentro do Seu TA. Se seu tópico de aula tiver 10 tópicos essenciais, **o livro principal deve representar pelo menos 50% de todos os tópicos**, ou seja, representa pelo menos 5 dos 10 tópicos essenciais totais do seu TA;
 
-10. Escreva o nome do livro principal onde está escrito **em rosa: Autor-LIVRO PRINCIPAL**;
+10. Escreva o nome do livro principal onde está escrito em rosa: **Autor-LIVRO PRINCIPAL**;
 
 11. Escreva o nome do primeiro tópico, depois o subtópico e assim por diante. Escreva quantos tópicos achar necessário. (Esses tópicos vão ser utilizados para confecção de vários materiais, portanto faça completo.
+  
 12. Certifique-se que TODOS os tópicos, subtópicos,[...] estejam dentro do retângulo rosa. (Esse retângulo chama-se Boundary);
 
 13. Use callout nos tópicos e escreva o nome do livro, autor, capítulo e página que foi consultado naquele tópico. Fica assim: Nome do livro, Nome do Autor, Capítulo X, Página y (x e y são números).
