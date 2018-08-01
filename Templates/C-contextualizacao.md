@@ -1,7 +1,7 @@
 |AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-C|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 > [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
 > [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
@@ -9,8 +9,9 @@
 # Contextualização
 ## Referências
 ### Copie aqui a referência presente no Tópico de Aula.
+> [**O que Responder?**](https://home.rdresolucoes.com/perguntasqb#referências)
 > [**Como Responder**](https://home.rdresolucoes.com/respostasqb#referência)
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#referências)
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb.html#fn2)
 
 ---
 ==Resposta(Referências)==
