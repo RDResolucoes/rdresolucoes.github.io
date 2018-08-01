@@ -1,7 +1,8 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-D|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 
 # Desenvolvimento
 ## Tópico 1

@@ -1,6 +1,8 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |???|11-1.1-M-Z-CT|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 
 ## Conceitos Primitivos
 ### Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.
