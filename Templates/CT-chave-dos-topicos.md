@@ -1,6 +1,6 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|37109924866|14-1.1-MD-Z-Q|05/06/2018|07/06/2018|NA|NA|
+|???|???|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
 
 ## Conceitos Primitivos
 ### Quais são os conceitos primitivos dessa aula? Liste-os e explique cada um deles sucintamente. Use imagens representativas para sua explicação. Esboce um diagrama.
