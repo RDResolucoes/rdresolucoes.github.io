@@ -1,6 +1,6 @@
-﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
+|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|37109924866|14-1.1-MD-Z-Q|05/06/2018|07/06/2018|NA|NA|
+|???|???|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
 
 # Contextualização
 ## Referências
@@ -11,7 +11,7 @@
 ---
 ==Resposta(Referências)==
 {
-***CONTEÚDO AQUI***
+Escreva o conteúdo aqui
 }
 
 ---
@@ -25,7 +25,7 @@
 ---
 ==Resposta(Texto)==
 {
-conteúdo
+Escreva o conteúdo aqui
 }
 
 ---
@@ -38,7 +38,7 @@ conteúdo
 ---
 ==Resposta(Texto)==
 {
-conteúdo
+Escreva o conteúdo aqui
 }
 
 ---
@@ -51,10 +51,10 @@ conteúdo
 ---
 ==Resposta(Bullet)==
 {
-* BULLET 1;
-* BULLET 2;
-* BULLET 3;
-* BULLET 4;
+* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
+* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
+* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
+* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
 }
 
 ---
@@ -66,7 +66,15 @@ conteúdo
 {
 ==Resposta(Flashcard Interativo)==
 {
-conteúdo
+
+| ==Elemento== | ==Flashcard== | ==Fala(Áudio Transcrito)== |
+| :----------- | :------------ | :------------------------- |
+| **Bullet 1** | **Elemento**  | **Fala**                   |
+| **Bullet 2** | **Elemento**  | **Fala**                   |
+| **Bullet 3** | **Elemento**  | **Fala**                   |
+| **Bullet 4** | **Elemento**  | **Fala**                   |
+
+
 }
 }
 
