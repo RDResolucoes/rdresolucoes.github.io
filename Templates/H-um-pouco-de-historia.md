@@ -1,7 +1,7 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-H|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 > [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
 > [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
@@ -11,6 +11,26 @@
 >***O que é:*** Uma redação contando um ponto curioso ou explanativo, sobre a história do tema da aula
 >***Como Fazer:*** Aqui é preciso utilizar uma história da coleção ["História da Ciência",](https://drive.google.com/open?id=1xgkeJ5f3BzDFNsehQxzxo-8wxYj8Y56n) ou histórias que estejam nos livros da [base bibliográfica oficial](https://drive.google.com/open?id=1aOcKJe0X3hSxrmmIlXGZa3BNkWQ72e1o)
 
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-um-pouco-de-história);
+
+---
+==Resposta(Título)==
+{
+Coloque o Título Aqui
+}
+
+---
+==Resposta(Texto)==
+{
+Coloque o Texto Aqui
+}
+
+---
+==Resposta(Fonte)==
+{
+Coloque a Fonte Aqui
+}
+---
 ---
 # CheckList
  - [ ] Respondi todas as perguntas do questionário base utilizando apenas os materiais bibliográficos fornecidos
@@ -26,6 +46,9 @@
  - [ ] As ordens de aparecimento dos elementos do flashcards foram fornecidos
  - [ ] Todo o conteúdo das falas(transcrições) do meu material foi confeccionado contendo detalhes das contas vocalizadas, além de estarem expressas de forma clara e informal
  - [ ] Caso eu falte com a verdade em qualquer das afirmações acima, compreendo que terei abatimento no valor final pago, com chances do material ser totalmente rejeitado pelo cliente
+
+#### Auto-Avaliação de Respostas: 10,0
+Se achar que sua resposta **não** merece um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
 
 ---
 ## Contatos Úteis

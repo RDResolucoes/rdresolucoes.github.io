@@ -1,7 +1,7 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |???|11-1.1-M-Z-CT|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 > [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
 > [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
@@ -24,6 +24,7 @@
 > * Utilize Palavras Chaves na explicação;
 > * As explicações devem ser diretas e abundantes;
 > * [**Mais Regras**](https://home.rdresolucoes.com/regrasgeraisqb#diagramas);
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-os-conceitos-primitivos);
 
 ---
 ==Resposta(Diagrama)==
@@ -112,7 +113,7 @@ B-.->|"solsol para avião"|C["Avião"]
  - [ ] Caso eu falte com a verdade em qualquer das afirmações acima, compreendo que terei abatimento no valor final pago, com chances do material ser totalmente rejeitado pelo cliente
 
 #### Auto-Avaliação de Respostas: 10,0
-Se achar que sua resposta **não** merecer um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
+Se achar que sua resposta **não** merece um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
 
 ## Contatos Úteis
 * [Programação, Erros de Compilação e Exportação de Material](mailto:HelpDeskTI@rdresolucoes.com)

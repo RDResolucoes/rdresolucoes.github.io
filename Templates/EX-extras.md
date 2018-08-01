@@ -1,7 +1,7 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-EX|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
 > [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
 > [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
@@ -37,6 +37,9 @@
  - [ ] As ordens de aparecimento dos elementos do flashcards foram fornecidos
  - [ ] Todo o conteúdo das falas(transcrições) do meu material foi confeccionado contendo detalhes das contas vocalizadas, além de estarem expressas de forma clara e informal
  - [ ] Caso eu falte com a verdade em qualquer das afirmações acima, compreendo que terei abatimento no valor final pago, com chances do material ser totalmente rejeitado pelo cliente
+
+#### Auto-Avaliação de Respostas: 10,0
+Se achar que sua resposta **não** merece um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
 
 ---
 ## Contatos Úteis

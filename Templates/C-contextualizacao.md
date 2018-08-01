@@ -37,6 +37,7 @@ Escreva o conteúdo aqui
 ### Descreva quais assuntos serão abordados nesta aula.
 > [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
 > [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#introdução)
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-introdução);
 
 ---
 ==Resposta(Texto)==
@@ -101,7 +102,7 @@ Escreva o conteúdo aqui
 
 
 #### Auto Avaliação de Respostas: 10,0
-Se achar que sua resposta **não** merecer um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
+Se achar que sua resposta **não** merece um 10, edite o valor acima. Lembre-se! A nota de Autoavaliação tem de ser _a mais próxima possível das outras notas de avaliação de conteúdo!_
 
 ---
 ## Contatos Úteis
