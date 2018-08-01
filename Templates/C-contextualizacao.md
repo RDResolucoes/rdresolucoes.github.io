@@ -24,6 +24,7 @@ Escreva o conteúdo aqui
 ### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
 > [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
 > [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#conceitos);
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-conceitos);
 
 ---
 ==Resposta(Texto)==
