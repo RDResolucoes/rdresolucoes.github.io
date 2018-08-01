@@ -1,7 +1,10 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-ER|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
+> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
+> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
 
 ## Exercícios
 ### Copie os exercícios dos tópicos de Aula que foram selecionados para esta aula e cole no campo abaixo.

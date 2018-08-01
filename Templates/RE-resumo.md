@@ -1,6 +1,10 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-RE|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
+> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
+> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
 
 ## Resumo
 ### Suponha que um aluno não estudou essa matéria e só faltam algumas horas para a prova dessa aula começar. O que é essencial do tema da aula e seus tópicos que esse aluno precisaria saber? Elabore um resumo

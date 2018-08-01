@@ -3,6 +3,8 @@
 |???|11-1.1-M-Z-D|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
 > [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
+> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
+> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
 
 # Desenvolvimento
 ## Tópico 1

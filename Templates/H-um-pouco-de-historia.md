@@ -1,6 +1,10 @@
 ﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |???|11-1.1-M-Z-H|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
+> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
+> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
+> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
 
 ## Um Pouco de História
 ### Escreva uma redação, com 15 linhas escritas pelo menos, contando quando e quais pessoas influenciaram o avanço/descoberta do tema da aula ou de assuntos relacionados.

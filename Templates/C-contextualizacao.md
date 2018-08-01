@@ -3,12 +3,14 @@
 |???|11-1.1-M-Z-C|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
 > [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 > *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
+> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
+> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
 
 # Contextualização
 ## Referências
 ### Copie aqui a referência presente no Tópico de Aula.
 > [**Como Responder**](https://home.rdresolucoes.com/respostasqb#referência)
-> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#referências)
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#referências)
 
 ---
 ==Resposta(Referências)==
@@ -19,10 +21,8 @@ Escreva o conteúdo aqui
 ---
 ## Conceitos
 ### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
-> ***O que é***: Nessa parte, deve-se citar os conceitos que a pessoa precisa saber para conseguir bom aproveitamento no estudo do material
->***Como Fazer***: Aqui, basicamente, está se respondendo a pergunta: O que a pessoa tem que revisar antes de ver essa aula?
-> [**Resposta Tipo Texto**](https://home.rdresolucoes.com/respostasqb#texto);
-> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#conceitos);
+> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#conceitos);
 
 ---
 ==Resposta(Texto)==
@@ -33,10 +33,8 @@ Escreva o conteúdo aqui
 ---
 ## Introdução
 ### Descreva quais assuntos serão abordados nesta aula.
->***O que é:*** Um parágrafo curto que explana rapidamente quais tópicos iremos ver nessa aula
->***Como Fazer:*** Use a descrição da aula e modifique suas palavras
-> [**Resposta Tipo Texto**](https://home.rdresolucoes.com/respostasqb#texto);
-> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#introdução)
+> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#introdução)
 
 ---
 ==Resposta(Texto)==
@@ -48,8 +46,8 @@ Escreva o conteúdo aqui
 ## Objetivos de Aprendizado
 ### Liste as competências que serão adquiridas após o aluno assistir à aula.
 > **O que é:** Aqui devem ser citadas as capacidades que o aluno irá conseguir desenvolver ao terminar de estudar esse material
-> [**Resposta Tipo Bullet**](https://home.rdresolucoes.com/respostasqb#bullet);
-> [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
+> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#bullet);
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
 
 ---
 ==Resposta(Bullet)==
@@ -61,8 +59,9 @@ Escreva o conteúdo aqui
 }
 
 ---
-### Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo um flashcard interativo.
-> **O que é:** São as mesmas capacidades anteriores, porém resumidas a poucas palavras
+### Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo apenas um flashcard interativo.
+> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#bullet);
+> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
 
 ---
 ==Resposta(Flashcard Interativo){cartao_1}{tipounico2}==
@@ -70,13 +69,12 @@ Escreva o conteúdo aqui
 ==Resposta(Flashcard Interativo)==
 {
 
-| ==Elemento== | ==Flashcard== | ==Fala(Áudio Transcrito)== |
+| Elemento | Flashcard | Fala(Áudio Transcrito) |
 | :----------- | :------------ | :------------------------- |
-| **Bullet 1** | **Elemento**  | **Fala**                   |
-| **Bullet 2** | **Elemento**  | **Fala**                   |
-| **Bullet 3** | **Elemento**  | **Fala**                   |
-| **Bullet 4** | **Elemento**  | **Fala**                   |
-
+| **Bullet 1** | Elemento  | Fala                   |
+| **Bullet 2** | Elemento  | Fala                   |
+| **Bullet 3** | Elemento  | Fala                   |
+| **Bullet 4** | Elemento  | Fala                   |
 
 }
 }
