@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Iniciando o Questionário Base
-Essa seção é uma resolução do questionário base, cobrindo os principais pontos de resolução do material. Foi gravado em tempo real, então é longo. 
+Essa seção é uma resolução do questionário base, cobrindo os principais pontos de resolução do material. Foi gravado em tempo real, então é longo.
 
 Em versões futuras, os vídeos terão áudio! Pelo menos uma "musiquinha"
 
@@ -77,18 +77,18 @@ Aqui iremos responder somente a resposta Resumo e não seu equivalente em flashc
 
 <center><iframe width="100%" height="405" src="https://www.youtube.com/embed/sMNh7hT-MIc?end=160" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-## Respondendo "Exercícios"
+## Respondendo Exercícios
 Nesta parte, iremos responder somente o primeiro exercício, colocando-o seu enunciado no formato correto e incluindo suas alternativas corretamente:
 
 <center><iframe width="100%" height="405" src="https://www.youtube.com/embed/sMNh7hT-MIc?end=630&start=160" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-## Respondendo "Resolução"
+## Respondendo Resolução
 Responderemos o mesmo exercício cujo enunciado colocamos no QB:
 
 <center><iframe width="100%" height="405" src="https://www.youtube.com/embed/sMNh7hT-MIc?end=1252&start=630" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## Respondendo Fique Ligado!
-Vamos cumprir o trecho extra do QB, começando pela parte do Fique Ligado! Lembrando que aqui é possível escolher qualquer tipo de resposta. 
+Vamos cumprir o trecho extra do QB, começando pela parte do Fique Ligado! Lembrando que aqui é possível escolher qualquer tipo de resposta.
 
 No caso do vídeo, foi colocado ***<mark>somente a ideia do flashcard e não a resposta em si!</mark>***
 

@@ -12,6 +12,8 @@
 > **Regras:**
 > * Se há um tópico, seu desenvolvimento deve estar presente aqui;
 > * Caso o Tópico contenha subtítulos e subsubtitulos, coloque-os aqui e os descreva com o ***máximo de detalhes possível***;
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-desenvolvimento);
+
 ---
 RESPOSTA-AQUI
 
@@ -23,12 +25,14 @@ RESPOSTA-AQUI
 >  * **TODAS** as definições essenciais devem estar presentes;
 >  * Exemplos utilizados na resposta anterior NÃO PODEM SER REPETIDOS. Novos exemplos devem ser fornecidos;
 >  * A releitura deve respeitar conteúdos internos do material;
+
 ---
 RESPOSTA-AQUI
 
 ---
 ## Demais Tópicos
 ### Responda as perguntas anteriores para os demais tópicos da aula.
+
 ---
 RESPOSTA-AQUI
 

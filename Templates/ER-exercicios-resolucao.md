@@ -14,7 +14,7 @@
 > **Regras**
 > * Toda questão deve ser referenciada, mesmo que seja de autoria própria;
 > * Questões sem referência não serão aceitas;
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-"exercícios");
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-exercícios);
 
 ## Resolução
 ### Coloque as resoluções dos exercícios aqui, passo a passo.
@@ -24,7 +24,7 @@ Aqui seria uma resolução PASSO A PASSO das questões
 > **Regras**
 	> * Resolução deve ser detalhada
 	> * Resolução dando apenas a alternativa correta **ANULA O MATERIAL**
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-"resolução");
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-resolução);
 
 ---
 # CheckList
