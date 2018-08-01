@@ -1,11 +1,12 @@
 |AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|???|???|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
+|???|11-1.1-M-Z-C|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
+> [**Como Preencher**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
 
 # Contextualização
 ## Referências
 ### Copie aqui a referência presente no Tópico de Aula.
-> [**Tipo de Resposta**](https://home.rdresolucoes.com/respostasqb#referência);
+> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#referência)
 > [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#referências)
 
 ---
@@ -33,6 +34,7 @@ Escreva o conteúdo aqui
 ### Descreva quais assuntos serão abordados nesta aula.
 >***O que é:*** Um parágrafo curto que explana rapidamente quais tópicos iremos ver nessa aula
 >***Como Fazer:*** Use a descrição da aula e modifique suas palavras
+> [**Resposta Tipo Texto**](https://home.rdresolucoes.com/respostasqb#texto);
 > [**Detalhes da Pergunta**](https://home.rdresolucoes.com/perguntasqb#introdução)
 
 ---
