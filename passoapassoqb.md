@@ -87,7 +87,7 @@ Responderemos o mesmo exercício cujo enunciado colocamos no QB:
 
 <center><iframe width="100%" height="405" src="https://www.youtube.com/embed/sMNh7hT-MIc?end=1252&start=630" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-## Respondendo Fique Ligado!
+## Respondendo Fique Ligado
 Vamos cumprir o trecho extra do QB, começando pela parte do Fique Ligado! Lembrando que aqui é possível escolher qualquer tipo de resposta.
 
 No caso do vídeo, foi colocado ***<mark>somente a ideia do flashcard e não a resposta em si!</mark>***

@@ -18,6 +18,8 @@
 	>	 * Também aprendemos que...
 > * O Resumo NÃO pode ser uma simples repetição da explicação dos tópicos;
 > DICA: Use o Resoomer;
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-resumo);
+
 ---
 RESPOSTA-AQUI
 

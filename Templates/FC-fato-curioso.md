@@ -16,6 +16,8 @@
 * Uma solução sucinta e direta para a pergunta;
 * Fala(Áudio Transcrito) de uma conversa onde você apresenta o cenário, a pergunta e a solução;
 * Áudio dividido por animação do flashcard;
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-fato-curioso);
+
 ---
 RESPOSTA-AQUI
 

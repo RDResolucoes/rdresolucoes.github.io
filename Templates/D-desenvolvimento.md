@@ -15,8 +15,27 @@
 > [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-desenvolvimento);
 
 ---
-RESPOSTA-AQUI
+código de resposta com exemplo
+---
+==Resposta(Explicação Detalhada){topico_n}==
+{
+Escreva o conteúdo aqui
 
+==Resposta(Exemplo)==
+{
+Escreva o exemplo aqui
+}
+}
+
+---
+código de resposta sem exemplo
+---
+==Resposta(Explicação Detalhada){topico_n}==
+{
+conteúdo
+}
+
+---
 ---
 ### Partindo da versão completa da explicação do tópico 1, elabore flashcards interativos.
 > **O que é:** Uma releitura concisa da explicação do tópico 1, realizada na resposta anterior, em forma de flashcard interativo.

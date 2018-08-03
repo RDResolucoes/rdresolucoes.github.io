@@ -12,6 +12,7 @@
 	Aqui seria onde o ponto de maior dúvida do aluno nessa aula seria exposto e explicado em detalhes.
 	> * É preciso escolher o tipo de resposta antes de responder;
 	> * **Evite muitas respostas do mesmo estilo** entre questionários respondidos!
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-fique-ligado);
 
 ## Saiba mais
 ### Que material, além dos livros base, o aluno poderia usar para se aprofundar mais neste assunto?
@@ -21,6 +22,7 @@
 >	**Regras**
 	> * As indicações de materiais devem ser somente de livros e afins;
 	> * Site de nenhum tipo é aceito como referência , a não que comprovadamente  conectado à área acadêmica ou cujos materiais tenham referências claras e confiáveis;
+> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-saiba-mais);
 
 ---
 # CheckList
