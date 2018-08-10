@@ -69,7 +69,7 @@ Casos do tipo não são previstos pelo workflow, então será necessário realiz
 
 ![](https://image.ibb.co/cGDUzy/image.png)
 
-**8.** Procure a template do material base [aqui](https://drive.google.com/open?id=1tOM87RDFXVnz2dusZclljOGKmUE5SdTQ), e seu manual de montagem. Eles devem ser do mesmo tipo de arquivo que o código original. Aqui o código é ``10-1.2-X-Z-TA``, X representa arquivo Xmind e TA representa *"Tópico de Aula"*, logo iremos buscar templates com essas características:
+**8.** Procure a template do material base [aqui](https://github.com/RDResolucoes/rdresolucoes.github.io/tree/master/Templates), e seu manual de montagem. Eles devem ser do mesmo tipo de arquivo que o código original. Aqui o código é ``10-1.2-X-Z-TA``, X representa arquivo Xmind e TA representa *"Tópico de Aula"*, logo iremos buscar templates com essas características:
 
 ![](https://image.ibb.co/b5EDRd/image.png)
 
