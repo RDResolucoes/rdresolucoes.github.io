@@ -1,73 +1,94 @@
 |AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|???|11-1.1-M-Z-C|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
-> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
-> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
-> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
+|???|???|Data que recebi|Data que entreguei|Deixar em Branco|Deixar em Branco|
 
-# Contextualização
-## Referências
-### Copie aqui a referência presente no Tópico de Aula.
-> [**O que Responder?**](https://home.rdresolucoes.com/perguntasqb#referências)
-> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#referência)
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb.html#fn2)
+----
+
+| Referências                                                  |
+| ------------------------------------------------------------ |
+| Copie aqui a referência presente no Tópico de Aula.          |
+| [**O que é?**](https://home.rdresolucoes.com/perguntasqb#referências) - [**Como**](https://home.rdresolucoes.com/respostasqb#referência) - [**Exemplo**](https://home.rdresolucoes.com/perguntasqb.html#fn2) |
 
 ---
+
+| **Contextualização**                                         |
+| ------------------------------------------------------------ |
+| [**Como**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho) - [**Regras-LEIA!**](https://home.rdresolucoes.com/regrasgeraisqb.html) |
+
 ==Resposta(Referências)==
 {
-Escreva o conteúdo aqui
+
+```
+SEMPRE - Nome do livro exatamente igual está na lista de referências.
+Exemplo: 
+• Livro.pdf (no final dete ter ".pdf")
+• Livro2.pdf
+Atalho bullet Alt+7 • 
+```
+
 }
 
----
-## Conceitos
-### Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula.
-> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#conceitos);
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-conceitos);
+| Conceitos                                                    |
+| ------------------------------------------------------------ |
+| Descreva os conteúdos que o aluno precisaria revisar antes de estudar essa aula. |
+| [**Como **](https://home.rdresolucoes.com/respostasqb#texto) - [**Exemplo**](https://home.rdresolucoes.com/perguntasqb#conceitos) - [**Vídeo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-conceitos) |
 
----
 ==Resposta(Texto)==
 {
-Escreva o conteúdo aqui
+
+```
+Para que esse material seja aproveitado plenamente, iremos precisar relembrar a definição de...
+
+
+
+
+```
+
 }
 
----
-## Introdução
-### Descreva quais assuntos serão abordados nesta aula.
-> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#texto);
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#introdução)
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-introdução);
+| Introdução                                                   |
+| ------------------------------------------------------------ |
+| Descreva quais assuntos serão abordados nesta aula.          |
+| [**Como**](https://home.rdresolucoes.com/respostasqb#texto)  - [**Exemplo**](https://home.rdresolucoes.com/perguntasqb#introdução) - [**Vídeo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-introdução) |
 
----
 ==Resposta(Texto)==
+
 {
-Escreva o conteúdo aqui
+
+```
+Vamos ver nessa aula o que é...
+
+
+
+```
+
 }
 
----
-## Objetivos de Aprendizado
-### Liste as competências que serão adquiridas após o aluno assistir à aula.
-> **O que é:** Aqui devem ser citadas as capacidades que o aluno irá conseguir desenvolver ao terminar de estudar esse material
-> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#bullet);
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
+| Objetivos de Aprendizado - Parte 1                           |
+| ------------------------------------------------------------ |
+| Liste as competências que serão adquiridas após o aluno assistir à aula. |
+| **O que é:** Aqui devem ser citadas as capacidades que o aluno irá conseguir desenvolver ao terminar de estudar esse material |
+| [**Como**](https://home.rdresolucoes.com/respostasqb#bullet) - [**Exemplo**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado) |
 
----
 ==Resposta(Bullet)==
+
 {
-* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
-* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
-* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
-* ESCREVA O OBJETIVO AQUI (APAGAR A FRASE ANTERIOR E ESSA TAMBÉM);
+
+| - ESCREVA O OBJETIVO AQUI |
+| ------------------------- |
+| - ESCREVA O OBJETIVO AQUI |
+| - ESCREVA O OBJETIVO AQUI |
+| - ESCREVA O OBJETIVO AQUI |
+
 }
 
----
-### Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo apenas um flashcard interativo.
-> [**Como Responder**](https://home.rdresolucoes.com/respostasqb#bullet);
-> [**Exemplo de Resposta**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado)
+| Objetivos de Aprendizado - Parte 2                           |
+| ------------------------------------------------------------ |
+| Liste as competências novamente, porém desta vez resumindo cada uma em poucas palavras e construindo apenas um flashcard interativo. |
+| [**Como**](https://home.rdresolucoes.com/respostasqb#bullet) - [**Exemplo**](https://home.rdresolucoes.com/perguntasqb#objetivos-de-aprendizado) |
 
----
-==Resposta(Flashcard Interativo){cartao_1}{tipounico2}==
+==Resposta(Template){cartao_1}{tipounico2}==
+
 {
 ==Resposta(Flashcard Interativo)==
 {

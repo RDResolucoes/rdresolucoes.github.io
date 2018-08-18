@@ -1,30 +1,51 @@
-﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|???|11-1.1-M-Z-ER|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
-> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
-> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
-> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
+| AID  | Textfile | Atribuído em    | Entregar até       | Revisado RD      | Aprovado RD      |
+| ---- | -------- | --------------- | ------------------ | ---------------- | ---------------- |
+| ???  | ???      | Data que recebi | Data que entreguei | Deixar em Branco | Deixar em Branco |
 
-## Exercícios
-### Copie os exercícios dos tópicos de Aula que foram selecionados para esta aula e cole no campo abaixo.
-> **O que é**
-> O enunciado dos exercícios presentes nos Tópicos de Aula.
->
-> **Regras**
-> * Toda questão deve ser referenciada, mesmo que seja de autoria própria;
-> * Questões sem referência não serão aceitas;
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-exercícios);
+----
 
-## Resolução
-### Coloque as resoluções dos exercícios aqui, passo a passo.
-> **O que é**
-Aqui seria uma resolução PASSO A PASSO das questões
+| Tipo do Material - Exercícios e Resolução                    |
+| ------------------------------------------------------------ |
+| [**Como**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabe%C3%A7alho) - [**Regras-LEIA!**](https://home.rdresolucoes.com/regrasgeraisqb.html) |
 
-> **Regras**
-	> * Resolução deve ser detalhada
-	> * Resolução dando apenas a alternativa correta **ANULA O MATERIAL**
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-resolução);
+---
+
+| Exercícios                                                   |
+| ------------------------------------------------------------ |
+| **O que é: **O enunciado dos exercícios presentes nos Tópicos de Aula. |
+| **Regras**                                                   |
+| • Toda questão deve ser referenciada, mesmo que seja de autoria própria; |
+| • Questões sem referência não serão aceitas;                 |
+| [**Vídeo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-exercícios) |
+
+```
+Copie os exercícios dos tópicos de Aula que foram selecionados para esta aula e cole neste campo.
+
+
+
+
+
+```
+
+----
+
+| Resolução                                                    |
+| ------------------------------------------------------------ |
+| **O que é:** Aqui seria uma resolução PASSO A PASSO das questões. |
+| **Regras**                                                   |
+| • Resolução deve ser detalhada                               |
+| • Resolução dando apenas a alternativa correta **ANULA O MATERIAL** |
+| [**Vídeo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-resolução) |
+
+```
+Escreva as resoluções dos exercícios aqui.
+
+
+
+
+```
+
+
 
 ---
 # CheckList

@@ -1,36 +1,96 @@
-﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|???|11-1.1-M-Z-RE|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
-> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
-> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
-> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
-
-## Resumo
-### Suponha que um aluno não estudou essa matéria e só faltam algumas horas para a prova dessa aula começar. O que é essencial do tema da aula e seus tópicos que esse aluno precisaria saber? Elabore um resumo
-> **O que é**
-> Aqui seria um resumo geral, como se fosse a retomada dos assuntos cobertos na aula ao final dela.
->
-> **Regras**
-> * O tempo verbal aqui deve ser "passado";
-	>	 * Vimos que....
-	>	 * Aprendemos que...
-	>	 * Também aprendemos que...
-> * O Resumo NÃO pode ser uma simples repetição da explicação dos tópicos;
-> DICA: Use o Resoomer;
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-resumo);
+| AID  | Textfile | Atribuído em    | Entregar até       | Revisado RD      | Aprovado RD      |
+| ---- | -------- | --------------- | ------------------ | ---------------- | ---------------- |
+| ???  | ???      | Data que recebi | Data que entreguei | Deixar em Branco | Deixar em Branco |
 
 ---
-RESPOSTA-AQUI
+
+| Tipo do Material - Resumo                                    |
+| ------------------------------------------------------------ |
+| [**Como**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabe%C3%A7alho) - [**Regras-LEIA!**](https://home.rdresolucoes.com/regrasgeraisqb.html) |
 
 ---
-### Baseado na resposta anterior, elabore uma releitura sobre os pontos essenciais que o aluno deve saber antes de sua prova. Elabore flashcards resumo.
-> **O que é**
-> Aqui seria literalmente a elaboração do cartão de revisão para o aluno utilizar antes da prova dele
----
-RESPOSTA-AQUI
+
+| Suponha que um aluno não estudou essa matéria e só faltam algumas horas para a prova dessa aula começar. O que é essencial do tema da aula e seus tópicos que esse aluno precisaria saber? Elabore um resumo. |
+| ------------------------------------------------------------ |
+| **O que é: ** Aqui seria um resumo geral, como se fosse a retomada dos assuntos cobertos na aula ao final dela. |
+| **Regras**                                                   |
+| **O tempo verbal aqui deve ser "passado";**                  |
+| • *Vimos que....*                                            |
+| • *Aprendemos que...*                                        |
+| • *Também aprendemos que...*                                 |
+| **O Resumo NÃO pode ser uma simples repetição da explicação dos tópicos** |
+| **DICA:** Use o Resoomer;                                    |
+| [**Vídeo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-resumo); |
+
+==Resposta(Texto)==
+{
+
+```
+Sugestão:
+Vimos que os tipos de gases presentes no ar podem determinar a cor que o céu terá. Também vimos que...
+
+
+```
+
+}
 
 ---
+| Baseado na resposta anterior, elabore uma releitura sobre os pontos essenciais que o aluno deve saber antes de sua prova. Elabore flashcards resumo. |
+| ------------------------------------------------------------ |
+| **O que é: **Aqui seria literalmente a elaboração do cartão de revisão para o aluno utilizar antes da prova. |
+| **Posso usar mais de um flashcard?** Sim, basta copiar e colar o modelo abaixo. |
+
+==Resposta(Template){cartao_1}{16}==
+{
+==Resposta(Flashcard Interativo)==
+{
+
+| ==Elemento==   | ==Flashcard== | ==Fala(Áudio Transcrito)== | ==Áudio== |
+| -------------- | ------------- | -------------------------- | --------- |
+| **Título**     | **Elemento**  | **Fala**                   | **áudio** |
+| **Subtítulo1** | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet11**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Subtítulo2** | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet21**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet22**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet23**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Subtítulo3** | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet31**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet32**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet33**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Subtítulo4** | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet41**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet42**   | **Elemento**  | **Fala**                   | **áudio** |
+| **Bullet43**   | **Elemento**  | **Fala**                   | **áudio** |
+
+}
+}
+
+---
+==Resposta(Template){cartao_2}{17}==
+{
+==Resposta(Flashcard Interativo)==
+{
+
+| ==Elemento==   | ==Flashcard== | ==Fala(Áudio Transcrito)== |
+| -------------- | ------------- | -------------------------- |
+| **Título**     | **Elemento**  | **Fala**                   |
+| **Subtítulo1** | **Elemento**  | **Fala**                   |
+| **Bullet11**   | **Elemento**  | **Fala**                   |
+| **Bullet12**   | **Elemento**  | **Fala**                   |
+| **Bullet13**   | **Elemento**  | **Fala**                   |
+| **Bullet14**   | **Elemento**  | **Fala**                   |
+| **Bullet15**   | **Elemento**  | **Fala**                   |
+| **Bullet16**   | **Elemento**  | **Fala**                   |
+| **Bullet17**   | **Elemento**  | **Fala**                   |
+| **Subtítulo2** | **Elemento**  | **Fala**                   |
+| **Bullet21**   | **Elemento**  | **Fala**                   |
+| **Bullet22**   | **Elemento**  | **Fala**                   |
+| **Bullet23**   | **Elemento**  | **Fala**                   |
+| **Imagem A**   | **Elemento**  | **Fala**                   |
+
+}
+}
 
 ---
 # CheckList

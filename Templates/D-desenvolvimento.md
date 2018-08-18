@@ -1,61 +1,174 @@
-﻿|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|???|11-1.1-M-Z-D|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
-> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
-> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
-> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
+| AID  | Textfile | Atribuído em    | Entregar até       | Revisado RD      | Aprovado RD      |
+| ---- | -------- | --------------- | ------------------ | ---------------- | ---------------- |
+| ???  | ???      | Data que recebi | Data que entreguei | Deixar em Branco | Deixar em Branco |
 
-# Desenvolvimento
-## Tópico 1
-### Neste campo, explique o primeiro tópico. Utilize quaisquer gráficos, tabelas, ilustrações e cálculos que forem necessários.
-> **Regras:**
-> * Se há um tópico, seu desenvolvimento deve estar presente aqui;
-> * Caso o Tópico contenha subtítulos e subsubtitulos, coloque-os aqui e os descreva com o ***máximo de detalhes possível***;
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-desenvolvimento);
+---
+
+| Tipo do Material - Desenvolvimento                           |
+| ------------------------------------------------------------ |
+| [**Como**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabe%C3%A7alho) - [**Regras-LEIA!**](https://home.rdresolucoes.com/regrasgeraisqb.html) |
+
+---
+
+| Tópico 1                                                     |
+| ------------------------------------------------------------ |
+| Neste campo, explique o primeiro tópico. Utilize quaisquer gráficos, tabelas, ilustrações e cálculos que forem necessários. |
+| **Regras**                                                   |
+| • Todos os tópicos presentes no TA devem estar presentes aqui também; |
+| • Caso o Tópico contenha subtítulos e subsubtítulos, coloque-os aqui e os descreva com o ***máximo de detalhes possível***; |
+| [**Vídeo explicativo**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-o-desenvolvimento) |
 
 ---
 código de resposta com exemplo
 ---
+
 ==Resposta(Explicação Detalhada){topico_n}==
 {
-Escreva o conteúdo aqui
+
+```
+***Siga este modelo***
+# A Cor do Céu (Nome do tópico - use #)
+## Definição (Nome do Subtópico - use ##)
+O céu não é azul, pois a cor que enxergamos é o resultado de diversas interações entre as moléculas do ar e os raios de luz oriundos do sol...
+### Os Fatores Predominantes (nome do subsubtópico - ###)
+...
+
+```
 
 ==Resposta(Exemplo)==
 {
-Escreva o exemplo aqui
+
+```
+***NÃO ESCREVA A PALAVRA EXEMPLO***
+Alguns fatores que influenciam a cor do céu podem ser listados como:
+• Ângulo de entrada: o ângulo que o raio de luz refrata com a atmosfera terrestre e chega em seus olhos...
+• Moléculas do ar: ocorre a absorção de certos comprimentos de onda pelas moléculas dos gazes constituentes da nossa atmosfera, o que diminue as possibilidades do espectro luminoso...
+
+```
+
+}
+
+```
+## A Cor do Céu em Outros Planetas
+Temos que em Marte a cor do céu é vermelha, enquanto em Júpiter...
+...
+...
+...
+***Você pode acrescentar mais blocos de código se precisar, basta copiar este modelo e reescrever o conteúdo***
+```
+
+---
+| Partindo da versão completa da explicação do tópico 1, elabore flashcards interativos. |
+| ------------------------------------------------------------ |
+| **O que é:** Uma releitura concisa da explicação do tópico 1, realizada na resposta anterior, em forma de flashcard interativo. |
+| **REGRAS**                                                   |
+| • **Todas** as definições essenciais devem estar presentes;  |
+| • Exemplos utilizados na resposta anterior NÃO PODEM SER REPETIDOS. Novos exemplos devem ser fornecidos; |
+| • A releitura deve respeitar conteúdos internos do material; |
+| • O número mínimo de flashcards por tópico é três. **T-R-Ê-S **Entendido, senhor produtor? |
+| • O áudio transcrito deve ter tempo aproximado de sete minutos. **Por favor, senhor produtor, não concentre todo o conteúdo de um tópico em apenas um flashcard, divida em mais flashcards.** |
+
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+
+**Cole o código da template nesse espaço**
+
+}
+}
+
+| Demais Tópicos                                               |
+| ------------------------------------------------------------ |
+| Para cada tópico, você deve fazer da mesma forma que foi mostrado no tópico 1, incluindo o flashcard. |
+
+==Resposta(Explicação Detalhada){topico_2}==
+{
+
+```
+Siga o mesmo modelo do tópico 1.
+```
+
+==Resposta(Exemplo)==
+
+{
+
+```
+
+```
+
+}
+
+}
+
+---
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
 }
 }
 
 ---
-código de resposta sem exemplo
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
 ---
-==Resposta(Explicação Detalhada){topico_n}==
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
+
+---
+==Resposta(Explicação Detalhada){topico_3}==
 {
 conteúdo
 }
 
 ---
----
-### Partindo da versão completa da explicação do tópico 1, elabore flashcards interativos.
-> **O que é:** Uma releitura concisa da explicação do tópico 1, realizada na resposta anterior, em forma de flashcard interativo.
->
->  **Regras**
->  * **TODAS** as definições essenciais devem estar presentes;
->  * Exemplos utilizados na resposta anterior NÃO PODEM SER REPETIDOS. Novos exemplos devem ser fornecidos;
->  * A releitura deve respeitar conteúdos internos do material;
+==Resposta(Template){cartao_1}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
-RESPOSTA-AQUI
+==Resposta(Template){cartao_2}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
 ---
-## Demais Tópicos
-### Responda as perguntas anteriores para os demais tópicos da aula.
+==Resposta(Template){cartao_n}{numero_da_template}==
+{
+==Resposta(Flashcard Interativo)==
+{
+conteúdo
+}
+}
 
----
-RESPOSTA-AQUI
 
----
+.
+.
+.
+.
+
+
 
 ---
 # CheckList
