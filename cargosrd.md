@@ -8,7 +8,9 @@ layout: default
 Todo cargo dentro da RD fornece **um certificado de número de horas em que tal competência foi desenvolvida dentro da empresa**. Na prática, trabalhar na RDResoluções é um grande *curso comissionado* que capacita o universitário para o universo corporativo, ensinando-o a trabalhar com prazos, desenvolver estratégias para solucionar problemas e também a lidar com pessoas de todos os tipos.
 
 # Administração
-## **Coordenador de Equipe**
+## **Coordenador de Produção de Conteúdo**
+
+*Sigla de Identificação:* CPC
 
 *Atribuições*
 * Responsável por gerenciar um grupo de desenvolvedores ou produtores;
@@ -33,7 +35,7 @@ Todo cargo dentro da RD fornece **um certificado de número de horas em que tal 
 
 *Emissão de Certificado?* **SIM!**
 
-## ==**Programador**==
+## **Gerente de Infraestrutura e Tecnologia**
 ==*Em Construção*==
 
 

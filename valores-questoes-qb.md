@@ -68,7 +68,7 @@ conteúdo
 ---
 ```
 # Um Pouco de História
-#### Valor Bruto: R$ 2,50
+#### Valor Bruto: R$ 1,50
 
 ```
 ---
@@ -395,7 +395,7 @@ Resolução3
 
 
 # Extras
-#### Valor Bruto: R$ 2,50
+#### Valor Bruto: R$ 1,50
 * Fique Ligado
 
 ```
