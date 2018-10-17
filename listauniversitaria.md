@@ -37,7 +37,7 @@ e o polinômio $${\left( {x - 2} \right)^3}% MathType!MTEF!2!1!+-
 % aaeaqbaaGcbaWaaeWaaeaacaWG4bGaeyOeI0IaaGOmaaGaayjkaiaa
 % wMcaamaaCaaaleqabaGaaG4maaaaaaa!40A0!$$
  , qual será o limite da expressão
- $$ \frac{y}{{{{\left( {x - 2} \right)}^3}}}% MathType!MTEF!2!1!+-
+ $$ \frac{y}{{{{\left({x-2}\right)}^3}}}% MathType!MTEF!2!1!+-
 % feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
 % wzGmvyUnhiqj3BaeXatLxBI9gBaerbd9wDYLwzYbItLDharuavP1wz
 % ZbItLDhis9wBH5garqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbb
