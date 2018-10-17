@@ -54,4 +54,4 @@ Neste tópico, fornecemos o link da pasta que contém os livros base para as LU�
 
 ## Tutorial de Uso do Editor
 
-![](https://image.ibb.co/k6nD1L/Manual-Editor-de-Texto-Estudar-com-Voc.png)
+![](https://image.ibb.co/daVprL/Manual-Editor-de-Texto-Estudar-com-Voc.png)
