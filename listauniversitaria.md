@@ -20,29 +20,7 @@ layout: default
 
 ​	Precisamos *modificar o enunciado, sem modificar o problema em si*. Uma possível “mudança de contexto” seria:
 
-*Dada a equação de reta $ - 4x + 8 = y% MathType!MTEF!2!1!+-
-% feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
-% wzGmvyUnhiqj3BaeXatLxBI9gBaerbd9wDYLwzYbItLDharuavP1wz
-% ZbItLDhis9wBH5garqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbb
-% L8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs0-yqaqpe
-% pae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaaiaabeqaam
-% aaeaqbaaGcbaGaeyOeI0IaaGinaiaadIhacqGHRaWkcaaI4aGaeyyp
-% a0JaamyEaaaa!41D7!$  e o polinômio ${\left( {x - 2} \right)^3}% MathType!MTEF!2!1!+-
-% feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
-% wzGmvyUnhiqj3BaeXatLxBI9gBaerbd9wDYLwzYbItLDharuavP1wz
-% ZbItLDhis9wBH5garqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbb
-% L8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs0-yqaqpe
-% pae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaaiaabeqaam
-% aaeaqbaaGcbaWaaeWaaeaacaWG4bGaeyOeI0IaaGOmaaGaayjkaiaa
-% wMcaamaaCaaaleqabaGaaG4maaaaaaa!40A0!$ , qual será o limite da expressão $\frac{y}{{{{\left({x-2}\right)}^3}}}% MathType!MTEF!2!1!+-
-% feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
-% wzGmvyUnhiqj3BaeXatLxBI9gBaerbd9wDYLwzYbItLDharuavP1wz
-% ZbItLDhis9wBH5garqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbb
-% L8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs0-yqaqpe
-% pae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaaiaabeqaam
-% aaeaqbaaGcbaWaaSaaaeaacaWG5baabaWaaeWaaeaacaWG4bGaeyOe
-% I0IaaGOmaaGaayjkaiaawMcaamaaCaaaleqabaGaaG4maaaaaaaaaa!41AE!
-$ para x tendendo a 2, mais precisamente:*
+![](https://image.ibb.co/jqpkgL/image.png)
 $$
 \mathop {\lim }\limits_{x \to 2} \frac{{ - 4x + 8}}{{{{\left( {x - 2} \right)}^3}}} = ?% MathType!MTEF!2!1!+-
 % feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
