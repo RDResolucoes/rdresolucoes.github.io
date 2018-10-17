@@ -1,44 +1,37 @@
-|AID|Textfile|Atribuído em|Entregar até|Revisado RD|Aprovado RD|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|???|11-1.1-M-Z-H|28/07/2018|31/07/2018|Deixar em Branco|Deixar em Branco|
-> [**Como Preencher o Cabeçalho**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabeçalho)
-> *Na Entrega, TROQUE A LETRA Z PELA LETRA T, NA COLUNA TEXTFILE!!!*
-> [**Regras Gerais a Seguir**](https://home.rdresolucoes.com/regrasgeraisqb.html)
-> [**Códigos de Resposta Prontos, caso precise**](https://home.rdresolucoes.com/codigosqb.html)
-
-## Um Pouco de História
-### Escreva uma redação, com 15 linhas escritas pelo menos, contando quando e quais pessoas influenciaram o avanço/descoberta do tema da aula ou de assuntos relacionados.
->***O que é:*** Uma redação contando um ponto curioso ou explanativo, sobre a história do tema da aula
->***Como Fazer:*** Aqui é preciso utilizar uma história da coleção ["História da Ciência",](https://drive.google.com/open?id=1xgkeJ5f3BzDFNsehQxzxo-8wxYj8Y56n) ou histórias que estejam nos livros da [base bibliográfica oficial](https://drive.google.com/open?id=1aOcKJe0X3hSxrmmIlXGZa3BNkWQ72e1o)
-
-> [**Respondendo Passo a Passo - Sem Áudio**](https://home.rdresolucoes.com/passoapassoqb.html#respondendo-um-pouco-de-história);
+| AID  | Textfile | Atribuído em    | Entregar até       | Revisado RD      | Aprovado RD      |
+| ---- | -------- | --------------- | ------------------ | ---------------- | ---------------- |
+| ???  | ???      | Data que recebi | Data que entreguei | Deixar em Branco | Deixar em Branco |
 
 ---
-==Resposta(Título)==
+
+| Tipo do Material - Resumo                                    |
+| ------------------------------------------------------------ |
+| [**Como**](https://home.rdresolucoes.com/passoapassoqb#preenchendo-o-cabe%C3%A7alho) - [**Regras-LEIA!**](https://home.rdresolucoes.com/regrasgeraisqb.html) |
+
+---
+
+|                          **Regras**                          |
+| :----------------------------------------------------------: |
+|         **O tempo verbal aqui deve ser "passado";**          |
+|                      • *Vimos que....*                       |
+|                    • *Aprendemos que...*                     |
+|                 • *Também aprendemos que...*                 |
+| O Resumo **NÃO** pode ser uma simples repetição da explicação dos tópicos |
+|                  **DICA:** Use o Resoomer;                   |
+
+---
+
+| **O que é: ** *Aqui seria um resumo geral, como se fosse a retomada dos assuntos cobertos na aula ao final dela.* |
+| :----------------------------------------------------------: |
+| Suponha que um aluno não estudou essa matéria e só faltam algumas horas para a prova dessa aula começar. O que é essencial do tema da aula e seus tópicos que esse aluno precisaria saber? <br />Elabore um resumo. |
+
+==Resposta(Solução_detalhada)==
 {
 
 ```
+Sugestão:
+Vimos que os tipos de gases presentes no ar podem determinar a cor que o céu terá. Também vimos que...
 
-```
-
-}
-
----
-==Resposta(Texto)==
-{
-
-```
-
-
-
-```
-
-}
-
----
-==Resposta(Fonte)==
-{
-```
 
 ```
 
