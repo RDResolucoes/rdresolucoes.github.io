@@ -49,3 +49,9 @@ Neste tópico, fornecemos o link da pasta que contém os livros base para as LU�
 - [Bibliografia LU](https://drive.google.com/folderview?id=1mUkUS5u_UzZ-rxn4uJ94SvfAzyS4jVH8);
 - [Editor do Cliente para o Trabalho. SO: Windows, versão 64 bits](https://drive.google.com/a/rdresolucoes.com/file/d/1yOo_yu_aFDAZIyWQ4APntR8WpqyrjpxY/view?usp=drivesdk);
 - [Editor do Cliente para o Trabalho. SO: Macintosh](https://drive.google.com/a/rdresolucoes.com/file/d/1yOekGq94majZ439Oj3ucKd0_-lkWCxQH/view?usp=drivesdk);
+
+
+
+## Tutorial de Uso do Editor
+
+![](https://image.ibb.co/k6nD1L/Manual-Editor-de-Texto-Estudar-com-Voc.png)
