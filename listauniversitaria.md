@@ -1,6 +1,6 @@
 ---
 title: Lista Universitária - LU
-permalink: lista-universitaria.html
+permalink: listauniversitaria.html
 layout: default
 ---
 
