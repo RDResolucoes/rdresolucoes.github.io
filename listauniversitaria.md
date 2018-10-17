@@ -21,18 +21,8 @@ layout: default
 ​	Precisamos *modificar o enunciado, sem modificar o problema em si*. Uma possível “mudança de contexto” seria:
 
 ![](https://image.ibb.co/jqpkgL/image.png)
-$$
-\mathop {\lim }\limits_{x \to 2} \frac{{ - 4x + 8}}{{{{\left( {x - 2} \right)}^3}}} = ?% MathType!MTEF!2!1!+-
-% feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2Caerbt9wDYn
-% wzGmvyUnhiqj3BaeXatLxBI9gBaerbd9wDYLwzYbItLDharuavP1wz
-% ZbItLDhis9wBH5garqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbb
-% L8F4rqqrFfpeea0xe9Lq-Jc9vqaqpepm0xbba9pwe9Q8fs0-yqaqpe
-% pae9pg0FirpepeKkFr0xfr-xfr-xb9adbaqaaeGaciGaaiaabeqaam
-% aaeaqbaaGcbaWaaCbeaeaaciGGSbGaaiyAaiaac2gaaSqaaiaadIha
-% cqGHsgIRcaaIYaaabeaakmaalaaabaGaeyOeI0IaaGinaiaadIhacq
-% GHRaWkcaaI4aaabaWaaeWaaeaacaWG4bGaeyOeI0IaaGOmaaGaayjk
-% aiaawMcaamaaCaaaleqabaGaaG4maaaaaaGccqGH9aqpcaGG-aaaaa!4D88!
-$$
+
+![](https://image.ibb.co/hBrHT0/image.png)
 
 ### Características do Arquivo
 
