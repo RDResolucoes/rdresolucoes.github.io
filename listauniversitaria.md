@@ -29,6 +29,7 @@ layout: default
 Uma questão LU difere de uma resolução online (RO) e resolução *step-by-step* (RSBS). As características da LU são, principalmente:
 
 - **A resolução de um item deve ser extremamente detalhada, com pelo menos 8 passos de desenvolvimento, um passo de conclusão e um passo com o enunciado modificado, totalizando 10 passos, por arquivo;**
+- **Cada arquivo deve conter somente UMA Alternativa;**
 - **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
 - **A linguagem utilizada na resolução da LU tem que obedecer a linguagem utilizada pelo livro-base da LU,** ou seja, a resolução deve conter todos os termos do livro que o suposto professor utilizou para montar a LU, além de utilizar o mesmo tipo de raciocínio, técnica ou exemplo fornecido pelo livro-base ou por material auxiliar fornecido pela RD.
   - A RDResoluções tem autorização legal ***para a confecção da resolução***;
