@@ -36,7 +36,7 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 * *Resposta Escrita:*
 **Resposta: Temos que para que a bola alcance o alvo, será necessário que ela seja feita de cobre.**
 * *Resposta Numérica:*
-**Resposta: Assim, teremos que a altura da bola é de ![](https://image.ibb.co/c13fdV/w.gif)**
+**Resposta: Assim, teremos que a altura da bola é de ![](https://image.ibb.co/c13fdV/w.gif =250x)**
 
 - **Cada arquivo deve conter somente UMA Alternativa;**
 - **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
