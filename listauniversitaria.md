@@ -35,12 +35,12 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 3. Um passo de conclusão, onde o seguinte formato é ***OBRIGATÓRIO***:
 * *Resposta Escrita:*
 
-                                      ![](https://image.ibb.co/dXgBkA/image.png)
+![](https://image.ibb.co/dXgBkA/image.png)
 
 * *Resposta Numérica:*
-**Resposta: Assim, teremos que a altura da bola é de
+**Resposta: Assim, teremos que a altura da bola é de**
 
-                                      ![](https://image.ibb.co/jehyyV/w.gif)**
+![](https://image.ibb.co/jehyyV/w.gif)
 
 - **Cada arquivo deve conter somente UMA Alternativa;**
 - **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
