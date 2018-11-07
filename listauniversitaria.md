@@ -34,9 +34,11 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 2. Um passo com o enunciado completo modificado, seguido do enunciado da alternativa correspondente a ser respondida;
 3. Um passo de conclusão, onde o seguinte formato é ***OBRIGATÓRIO***:
 * *Resposta Escrita:*
-**Resposta: Temos que para que a bola alcance o alvo, será necessário que ela seja feita de cobre.**
+![](https://image.ibb.co/dXgBkA/image.png)
 * *Resposta Numérica:*
-**Resposta: Assim, teremos que a altura da bola é de ![](https://image.ibb.co/jehyyV/w.gif)**
+**Resposta: Assim, teremos que a altura da bola é de
+
+                                      ![](https://image.ibb.co/jehyyV/w.gif)**
 
 - **Cada arquivo deve conter somente UMA Alternativa;**
 - **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
