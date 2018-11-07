@@ -40,7 +40,7 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 * *Resposta Numérica:*
 **Resposta: Assim, teremos que a altura da bola é de**
 
-\boxed{35{\text{ m}}}
+![](https://image.ibb.co/evnOyV/image.png)
 
 - **Cada arquivo deve conter somente UMA Alternativa;**
 - **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
