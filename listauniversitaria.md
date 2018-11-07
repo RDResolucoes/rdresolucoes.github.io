@@ -34,7 +34,9 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 2. Um passo com o enunciado completo modificado, seguido do enunciado da alternativa correspondente a ser respondida;
 3. Um passo de conclusão, onde o seguinte formato é ***OBRIGATÓRIO***:
 * *Resposta Escrita:*
-![](https://image.ibb.co/dXgBkA/image.png)
+
+                                      ![](https://image.ibb.co/dXgBkA/image.png)
+
 * *Resposta Numérica:*
 **Resposta: Assim, teremos que a altura da bola é de
 
