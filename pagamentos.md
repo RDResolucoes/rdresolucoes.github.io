@@ -32,12 +32,12 @@ description: Nesta seção, vamos abordar o regime de pagamentos de qualquer mat
 <p>Diversas vezes o material produzido retornava para correção após ter sido aprovado pelo cliente (mais comum do que se imagina), o que nos forçava a pagar outro produtor para realizar a correção.</p>
 <p>Para evitarmos esse tipo de situação, criamos a “Cota Mínima”.</p>
 <h3 id="como-funciona-a-cota">Como Funciona a Cota</h3>
-<p>O Pagamento funciona em Regime de Cota Mínima, ou Saque Mínimo. O menor valor mensal pago pela RDResoluções é de R$ 200,00 (Sem nenhum tipo de desconto ou imposto) para questionário e Tópicos, e R$ 100,00 para Resoluções Online.</p>
+<p>O Pagamento funciona em Regime de Cota Mínima, ou Saque Mínimo. O menor valor mensal pago pela RDResoluções é de R$ 200,00.</p>
 <h3 id="cota-mínima-mensal">Cota Mínima Mensal</h3>
 <ul>
 <li><strong>(Seis)</strong> 6<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup> questionários produzidos e aprovados pela RD;</li>
 <li><strong>(Quarenta e cinco)</strong> 45<sup class="footnote-ref"><a href="#fn1" id="fnref1:1">1</a></sup> Tópicos de Aula;</li>
-<li><strong>(Cinquenta e cinco)</strong> 55 Resoluções Online;</li>
+<li><strong>(Cento e treze)</strong> 113 Resoluções Online;</li>
 </ul>
 <h3 id="cota-atingida">Cota atingida</h3>
 <p>Valor pela cota mínima mais o que for produzido no mês é pago integralmente, <em>após o material ser aprovado pelo cliente</em>.</p>
