@@ -37,7 +37,7 @@ description: Nesta seção, vamos abordar o regime de pagamentos de qualquer mat
 <ul>
 <li><strong>(Seis)</strong> 6<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup> questionários produzidos e aprovados pela RD;</li>
 <li><strong>(Quarenta e cinco)</strong> 45<sup class="footnote-ref"><a href="#fn1" id="fnref1:1">1</a></sup> Tópicos de Aula;</li>
-<li><strong>(Cento e treze)</strong> 113 Resoluções Online;</li>
+<li><strong>(Cento e treze)</strong> 113<sup class="footnote-ref"><a href="#fn1" id="fnref1:1">1</a></sup> Resoluções Online;</li>
 </ul>
 <h3 id="cota-atingida">Cota atingida</h3>
 <p>Valor pela cota mínima mais o que for produzido no mês é pago integralmente, <em>após o material ser aprovado pelo cliente</em>.</p>
