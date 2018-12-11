@@ -286,7 +286,7 @@ Nesta seção, explicamos como realizar *manualmente* a atribuição de materiai
         var str = document.formulario.cpf.value;
         str = str.replace(/\D/g,'');
         if(str.length!=11)
-            document.getElementById("aid").value = "TAMANHO";
+            document.getElementById("aid").value = "ERRO";
         else if(!validarCPF(str))
             document.getElementById("aid").value = "ERRO";
         else {
