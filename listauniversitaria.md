@@ -29,9 +29,9 @@ layout: default
 Uma questão LU difere de uma resolução online (RO) e resolução *step-by-step* (RSBS). As características exclusivas da LU são, principalmente:
 
 #### **A resolução de um item deve ser extremamente detalhada**
-Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve conter:
+Ao contrário da RO e da RSBS, um item oriunda de uma questão LU deve conter:
 1. Pelo menos 8 passos de desenvolvimento;
-2. Um passo com o enunciado completo modificado, seguido do enunciado da alternativa correspondente a ser respondida;
+2. Um passo com o enunciado completo modificado, seguido do enunciado do item correspondente a ser respondida;
 3. Um passo de conclusão, onde o seguinte formato é ***OBRIGATÓRIO***:
 
 * *Resposta Escrita:*
@@ -50,9 +50,9 @@ Ao contrário da RO e da RSBS, uma alternativa oriunda de uma questão LU deve c
 
 ### Valores
 
-- O Valor BRUTO por uma questão LU é de cerca R$ 7,50, até 5 alternativas;
-- Para cada alternativa a mais, acrescenta-se RS 1,00 ao valor bruto anterior, até o limite de 9,50 pelo exercício;
-- O pagamento de um exercício é contabilizado *se e somente se todas as alternativas forem corretamente resolvidas;*
+- O Valor BRUTO por uma questão LU é de cerca R$ 7,50, até 5 itens;
+- Para cada item a mais, acrescenta-se RS 1,00 ao valor bruto anterior, até o limite de 9,50 pelo exercício;
+- O pagamento de um exercício é contabilizado *se e somente se todos os itens forem corretamente resolvidos;*
 - Em caso de erro, a RD devolverá ao DRD o arquivo a ser corrigido;
 - O valor máximo descontado, devido à impostos, é de 20% do valor bruto;
 
