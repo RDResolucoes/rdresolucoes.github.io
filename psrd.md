@@ -43,7 +43,7 @@ Todos os membros da Produção de Conteúdo precisam conhecer o básico:
 
 * [Plotagem básica](./regrasgeraisqb#gráficos) de Gráficos no [Geogebra][geogebra];
 
-### **Mestre Educacional**
+### **Mestre Educacional** <mark>Fechado</mark>
 
 [*Detalhes do Cargo*](./cargosrd#mestre-educacional)
 
@@ -59,7 +59,7 @@ Um Mestre Educacional deve especificamente saber:
 
 * Os [comandos básicos](./appsqb#xmind-zen) do [Xmind Zen][xmind];
 
-### **Produtor de Conteúdo RDResoluções**
+### **Produtor de Conteúdo RDResoluções** <mark>Fechado</mark>
 
 [*Detalhes do Cargo*](./cargosrd#produtor-de-conteúdo-rd)
 
