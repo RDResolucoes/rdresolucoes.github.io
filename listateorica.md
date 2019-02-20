@@ -1,16 +1,27 @@
 ---
-title: Lista Universitária - LU
-permalink: listauniversitaria.html
+title: Lista Teórica - LT
+permalink: listateorica.html
 layout: default
 ---
 
-# Lista Universitária (LU)
+# Lista Teórica (LT)
 
 ### O que É
 
-​	Lista composta por questões semelhantes às que são cobradas em provas de Universidades.
+​	Lista composta por um breve resumo sobre determinado assunto e alguns exercícios de treinamento. A profundidade e abrangência de seu conteúdo é delimitada por:
 
-### Mudança de Contexto
+* um Tópico de Aula;
+* uma Vídeo Aula;
+* uma Matriz Cognitiva;
+
+ou outro material de consulta fornecido por pessoal autorizado pela RD.
+
+### Partes de uma Lista Teórica
+
+* Cabeçalho;
+* Resposta Resumo;
+* Resposta Enunciado;
+
 
 ​	Um questão originada de uma LU **não pode ser resolvida *per se***, ou seja, como está. O desenvolvedor precisa realizar uma **mudança de contexto** para que a resolução possa ser generalizada para qualquer cenário. Vamos ver um exemplo abaixo.
 
@@ -69,3 +80,6 @@ Neste tópico, fornecemos o link da pasta que contém os livros base para as LU�
 ## Tutorial de Uso do Editor
 
 ![](https://image.ibb.co/daVprL/Manual-Editor-de-Texto-Estudar-com-Voc.png)
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTU3gyUZLJjXn4BV9KE5epFh2M4RE9Imhd0zIq8lGbTJgtwMdhTO2ckSK72mP6rB0YvV9b-ocB0K957/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
