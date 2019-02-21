@@ -8,78 +8,43 @@ layout: default
 
 ### O que É
 
-​	Lista composta por um breve resumo sobre determinado assunto e alguns exercícios de treinamento. A profundidade e abrangência de seu conteúdo é delimitada por:
-
-* um Tópico de Aula;
-* uma Vídeo Aula;
-* uma Matriz Cognitiva;
-
-ou outro material de consulta fornecido por pessoal autorizado pela RD.
+​	Lista composta por um breve resumo sobre determinado assunto e alguns exercícios de treinamento. A profundidade e abrangência de seu conteúdo é delimitada por  materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente.
 
 ### Partes de uma Lista Teórica
 
-* Cabeçalho;
-* Resposta Resumo;
-* Resposta Enunciado;
+1. **Cabeçalho:** Nesta parte se encontram as informações sobre o arquivo e suas principais características.
 
+![](https://i.ibb.co/SJYyKmT/image.png)
 
-​	Um questão originada de uma LU **não pode ser resolvida *per se***, ou seja, como está. O desenvolvedor precisa realizar uma **mudança de contexto** para que a resolução possa ser generalizada para qualquer cenário. Vamos ver um exemplo abaixo.
+* **Disciplina:** Expõe a disciplina e nível de detalhamento.
 
-​	Imagine que você, como DRD, receba a seguinte questão para ser resolvida:
+![](https://i.ibb.co/qM3pZZk/image.png)
 
-![1539741621332](https://image.ibb.co/mr6pqf/1539741621332.png)
+* **Material Base:** Expõe a fonte que será utilizada para a confecção da LT.
 
-​	Precisamos *modificar o enunciado, sem modificar o problema em si*. Uma possível “mudança de contexto” seria:
+![](https://i.ibb.co/CBWkJpj/image.png)
 
-![](https://image.ibb.co/jqpkgL/image.png)
+* **Resolução:** Expõe o tipo de resolução que deverá estar presente na LT.
 
-![](https://image.ibb.co/hBrHT0/image.png)
+![](https://i.ibb.co/0qfyQP2/image.png)
 
-### Características do Arquivo
+* **Conteúdo:** Expõe o(s) tipo(s) de respostas que deverão estar presentes na LT. Normalmente, ela sempre é composta por um resumo e um conjunto de exercícios.
 
-Uma questão LU difere de uma resolução online (RO) e resolução *step-by-step* (RSBS). As características exclusivas da LU são, principalmente:
+### Formatos de resposta
 
-#### **A resolução de um item deve ser extremamente detalhada**
-Ao contrário da RO e da RSBS, um item oriundo de uma questão LU deve conter:
-1. Pelo menos 8 passos de desenvolvimento;
-2. Um passo com o enunciado completo modificado, seguido do enunciado do item correspondente a ser respondida;
-3. Um passo de conclusão, onde o seguinte formato é ***OBRIGATÓRIO***:
+As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
 
-* *Resposta Escrita:*
+---
+==Resposta(Conteúdo)==
+{
+Aqui estaria a resposta propriamente dita.
+}
+---
+​
+Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
 
-![](https://image.ibb.co/dXgBkA/image.png)
+### Aplicativo utilizado
 
-* *Resposta Numérica:*
+Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora, pois ele *permite a posterior formatação do material conforme as especificações de nosso cliente.*
 
-![](https://image.ibb.co/evnOyV/image.png)
-
-- **Cada arquivo deve conter somente UMA Alternativa;**
-- **O pagamento é contabilizado POR EXERCÍCIO e não por arquivo;**
-- **A linguagem utilizada na resolução da LU tem que obedecer a linguagem utilizada pelo livro-base da LU,** ou seja, a resolução deve conter todos os termos do livro que o suposto professor utilizou para montar a LU, além de utilizar o mesmo tipo de raciocínio, técnica ou exemplo fornecido pelo livro-base ou por material auxiliar fornecido pela RD.
-  - A RDResoluções tem autorização legal ***para a confecção da resolução***;
-  - A mudança de contexto garante a lisura do trabalho, ***visto que a legislação brasileira caracteriza como plágio textual qualquer material que se assemelhe em até 10% de conteúdo original, sem que esta parte contenha nenhum tipo de modificação***.
-
-### Valores
-
-- O Valor BRUTO por uma questão LU é de cerca R$ 7,50, até 5 itens;
-- Para cada item a mais, acrescenta-se RS 1,00 ao valor bruto anterior, até o limite de 9,50 pelo exercício;
-- O pagamento de um exercício é contabilizado *se e somente se todos os itens forem corretamente resolvidos;*
-- Em caso de erro, a RD devolverá ao DRD o arquivo a ser corrigido;
-- O valor máximo descontado, devido à impostos, é de 20% do valor bruto;
-
-## Bibliografia Lista Universitária e Apps
-
-Neste tópico, fornecemos o link da pasta que contém os livros base para as LU´s que estamos trabalhando atualmente:
-
-- [Bibliografia LU](https://drive.google.com/folderview?id=1mUkUS5u_UzZ-rxn4uJ94SvfAzyS4jVH8);
-- [Editor do Cliente para o Trabalho. SO: Windows, versão 64 bits](https://drive.google.com/a/rdresolucoes.com/file/d/1yOo_yu_aFDAZIyWQ4APntR8WpqyrjpxY/view?usp=drivesdk);
-- [Editor do Cliente para o Trabalho. SO: Macintosh](https://drive.google.com/a/rdresolucoes.com/file/d/1yOekGq94majZ439Oj3ucKd0_-lkWCxQH/view?usp=drivesdk);
-
-
-
-## Tutorial de Uso do Editor
-
-![](https://image.ibb.co/daVprL/Manual-Editor-de-Texto-Estudar-com-Voc.png)
-
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTU3gyUZLJjXn4BV9KE5epFh2M4RE9Imhd0zIq8lGbTJgtwMdhTO2ckSK72mP6rB0YvV9b-ocB0K957/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+[Download Gratuito Typora](https://typora.io/#download)
