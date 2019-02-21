@@ -34,12 +34,14 @@ layout: default
 
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
 
+```
 ---
 ==Resposta(Conteúdo)==
 {
 Aqui estaria a resposta propriamente dita.
 }
 ---
+```
 ​
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
 
@@ -49,9 +51,9 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 [Download Gratuito Typora](https://typora.io/#download)
 
-### Planilha de trabalho
+### Relação LT x Material Base
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTU3gyUZLJjXn4BV9KE5epFh2M4RE9Imhd0zIq8lGbTJgtwMdhTO2ckSK72mP6rB0YvV9b-ocB0K957/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true"></iframe>
+![](https://i.ibb.co/k4gJKBs/image.png)
 
 ### Material Base de LT´s feitas até 01/05/2019
 
