@@ -55,7 +55,7 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 ### Relação LT x Material Base
 
-![](https://i.ibb.co/k4gJKBs/image.png)
+![](https://i.ibb.co/XznjYzc/image.png)
 
 ### Material Base de LT´s feitas até 01/05/2019
 
