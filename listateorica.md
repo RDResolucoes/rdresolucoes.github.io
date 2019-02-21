@@ -48,3 +48,11 @@ Cada modelo de resposta tem suas próprias especificações que, ao longo da pro
 Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora, pois ele *permite a posterior formatação do material conforme as especificações de nosso cliente.*
 
 [Download Gratuito Typora](https://typora.io/#download)
+
+### Planilha de trabalho
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTU3gyUZLJjXn4BV9KE5epFh2M4RE9Imhd0zIq8lGbTJgtwMdhTO2ckSK72mP6rB0YvV9b-ocB0K957/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=true"></iframe>
+
+### Material Base de LT´s feitas até 01/05/2019
+
+[Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
