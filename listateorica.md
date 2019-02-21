@@ -30,6 +30,8 @@ layout: default
 
 * **Conteúdo:** Expõe o(s) tipo(s) de respostas que deverão estar presentes na LT. Normalmente, ela sempre é composta por um resumo e um conjunto de exercícios.
 
+![](https://i.ibb.co/M1ftkqJ/image.png)
+
 ### Formatos de resposta
 
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
@@ -57,4 +59,4 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 ### Material Base de LT´s feitas até 01/05/2019
 
-[Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
+[##Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
