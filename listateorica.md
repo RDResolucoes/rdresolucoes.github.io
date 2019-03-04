@@ -64,3 +64,7 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 ### Material Base de LT´s feitas até 01/05/2019
 
 [Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
+
+### Banco de Questões
+
+[Banco de Questões para LT´s](https://docs.google.com/spreadsheets/d/10n_xo8ewdFkt2WaiCwP8rMwaDhvgCcpUrDNUZ4pcUdE/edit?usp=sharing)
