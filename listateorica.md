@@ -32,6 +32,10 @@ layout: default
 
 ![](https://i.ibb.co/M1ftkqJ/image.png)
 
+* **Status:** Expõe a situação da Lista Teórica em específico. Normalmente, ela é recebida pelo membro RD como atribuída e deve ser entregue com o status "Terminado". Se for retornada ao membro RD com status "Corrigir", ele deve observar os comentários no material e realizar as substituições apropriadas e **novamente mudar o status para Terminado**.
+
+![](https://i.ibb.co/Jr4JHLM/image.png)
+
 ### Formatos de resposta
 
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
@@ -59,4 +63,4 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 ### Material Base de LT´s feitas até 01/05/2019
 
-[##Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
+[Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
