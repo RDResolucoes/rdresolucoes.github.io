@@ -6,8 +6,6 @@ layout: default
 
 # Formatações MundoQuim
 
-![](https://i.ibb.co/SsjG5q6/1551026333127.png)
-![](https://i.ibb.co/ssmpry3/1551026047443.png)
 ## Eixos e setas
 
 ![1551826499213](https://i.ibb.co/xMZQXSP/1551826499213.png)
@@ -16,11 +14,9 @@ layout: default
 
 ![1551826514793](https://i.ibb.co/pWg30Qb/1551826514793.png)
 
-
 ### Exemplo
 
 ![1551826527637](https://i.ibb.co/kJHNc5V/1551826527637.png)
-
 
 ## Curiosidades
 
@@ -32,8 +28,6 @@ layout: default
 conteúdo
 }
 ```
-
-
 
 ## Fórmulas Importantes
 
@@ -64,8 +58,6 @@ R = 8,315 kPa.L/mol.K
 }
 ```
 
-
-
 ## Destaque Numérico Importante 2
 
 ![1551826661175](https://i.ibb.co/M1m9cc6/1551826661175.png)
@@ -79,8 +71,6 @@ P = 1 atm = 760 mmHg = 760 torr
 P = 1 bar = 100 kPa
 }
 ```
-
-
 
 ## Destaque Textual Importante
 
@@ -223,7 +213,7 @@ Finalmente, teremos que a resposta encontrada é **dfasdadsdfgdfhfhfhg**.
 
 ## Título
 
-![1551827016525]()
+![1551827016525](https://i.ibb.co/NZm5hbK/1551827016525.png)
 
 ```
 # Compostos Orgânicos Nitrogenados
@@ -234,8 +224,6 @@ Título encontrado na página de auxílio https://home.rdresolucoes.com/listateo
 ## Subtítulo
 
 ![1551826540344](https://i.ibb.co/RzxnvsT/1551826540344.png)
-
-
 
 ![1551826428124](https://i.ibb.co/HqBKX7b/1551826428124.png)
 
