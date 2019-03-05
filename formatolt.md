@@ -6,6 +6,26 @@ layout: default
 
 # Formatações MundoQuim
 
+https://i.ibb.co/ssmpry3/1551026047443.png
+https://i.ibb.co/SsjG5q6/1551026333127.png
+https://i.ibb.co/vjy7YrB/1551026403217.png
+https://i.ibb.co/HqBKX7b/1551826428124.png
+https://i.ibb.co/kXW08cF/1551826447617.png
+https://i.ibb.co/v4hKF5j/1551826469628.png
+https://i.ibb.co/xMZQXSP/1551826499213.png
+https://i.ibb.co/pWg30Qb/1551826514793.png
+https://i.ibb.co/kJHNc5V/1551826527637.png
+https://i.ibb.co/RzxnvsT/1551826540344.png
+https://i.ibb.co/R336HsL/1551826562737.png
+https://i.ibb.co/ZNwMZSp/1551826579109.png
+https://i.ibb.co/g9Rt9CB/1551826588756.png
+https://i.ibb.co/MPtcWLk/1551826626795.png
+https://i.ibb.co/c2yZ31F/1551826640789.png
+https://i.ibb.co/M1m9cc6/1551826661175.png
+https://i.ibb.co/SPKNkPW/1551826673546.png
+https://i.ibb.co/rfZdJqz/1551826702698.png
+https://i.ibb.co/tP7fNxJ/1551826716859.png
+https://i.ibb.co/B3YXm4B/1551826744863.png
 ## Eixos e setas
 
 ![1551826499213](Formatações LT2019 - Quim.assets/1551826499213.png)
@@ -113,7 +133,13 @@ conteúdo
 ```
 ==rea(ENEM 2015)==
 {
-There's wrong afterprises cowards of of of of ressor's the dothe pation death a sea off the quietus pation deat fled of troud make and the wish'd. To discove, or not of gruntry life, that pale calamity of of action. Thus turn no morthy takes off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther with there's calamity of the arms make when he of so long, there's we haveller wish'd. To be wil?
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
 - [ ] dfasdads
 - [ ] dfasdadsj,jmjmj
 - [ ] dfasdadsfxvxvxvxd
@@ -126,7 +152,13 @@ There's wrong afterprises cowards of of of of ressor's the dothe pation death a 
 
 {
 
-There's wrong afterprises cowards of of of of ressor's the dothe pation death a sea off the quietus pation deat fled of troud make and the wish'd. To discove, or not of gruntry life, that pale calamity of of action. Thus turn no morthy takes off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther with there's calamity of the arms make when he of so long, there's we haveller wish'd. To be wil?
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
 
 - [ ] dfasdads
 - [ ] dfasdadsj,jmjmj
@@ -150,7 +182,13 @@ L7
 ```
 ==rer(ENEM 2015)==
 {
-There's wrong afterprises cowards of of of of ressor's the dothe pation death a sea off the quietus pation deat fled of troud make and the wish'd. To discove, or not of gruntry life, that pale calamity of of action. Thus turn no morthy takes off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther with there's calamity of the arms make when he of so long, there's we haveller wish'd. To be wil?
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
 
 **Resolução**
 ---
@@ -168,7 +206,13 @@ Finalmente, teremos que a resposta encontrada é **dfasdadsdfgdfhfhfhg**.
 
 ==rer(ENEM 2015)==
 {
-There's wrong afterprises cowards of of of of ressor's the dothe pation death a sea off the quietus pation deat fled of troud make and the wish'd. To discove, or not of gruntry life, that pale calamity of of action. Thus turn no morthy takes off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther with there's calamity of the arms make when he of so long, there's we haveller wish'd. To be wil?
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
 
 **Resolução**
 
