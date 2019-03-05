@@ -51,11 +51,19 @@ Aqui estaria a resposta propriamente dita.
 ​
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
 
-### Aplicativo utilizado
+### Aplicativos utilizados
 
 Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora, pois ele *permite a posterior formatação do material conforme as especificações de nosso cliente.*
 
 [Download Gratuito Typora](https://typora.io/#download)
+
+[Download Gratuito Lightshot](https://app.prntscr.com/pt-br/download.html)
+
+[Download Mathtype Trial](https://store.wiris.com/en/products/downloads/mathtype/v6)
+
+### Markdown Tutorial
+
+[Site Markdown Treinamento](https://www.markdowntutorial.com)
 
 ### Relação LT x Material Base
 
