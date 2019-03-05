@@ -76,3 +76,7 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 ### Banco de Questões
 
 [Banco de Questões para LT´s](https://docs.google.com/spreadsheets/d/10n_xo8ewdFkt2WaiCwP8rMwaDhvgCcpUrDNUZ4pcUdE/edit?usp=sharing)
+
+### Página com Formato da Lista Teórica
+
+[Formato da Lista Teórica para membros RD e equipe interna](https://home.rdresolucoes.com/formatolt)
