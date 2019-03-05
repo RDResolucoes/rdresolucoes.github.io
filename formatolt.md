@@ -6,41 +6,21 @@ layout: default
 
 # Formatações MundoQuim
 
-https://i.ibb.co/ssmpry3/1551026047443.png
-https://i.ibb.co/SsjG5q6/1551026333127.png
-https://i.ibb.co/vjy7YrB/1551026403217.png
-https://i.ibb.co/HqBKX7b/1551826428124.png
-https://i.ibb.co/kXW08cF/1551826447617.png
-https://i.ibb.co/v4hKF5j/1551826469628.png
-https://i.ibb.co/xMZQXSP/1551826499213.png
-https://i.ibb.co/pWg30Qb/1551826514793.png
-https://i.ibb.co/kJHNc5V/1551826527637.png
-https://i.ibb.co/RzxnvsT/1551826540344.png
-https://i.ibb.co/R336HsL/1551826562737.png
-https://i.ibb.co/ZNwMZSp/1551826579109.png
-https://i.ibb.co/g9Rt9CB/1551826588756.png
-https://i.ibb.co/MPtcWLk/1551826626795.png
-https://i.ibb.co/c2yZ31F/1551826640789.png
-https://i.ibb.co/M1m9cc6/1551826661175.png
-https://i.ibb.co/SPKNkPW/1551826673546.png
-https://i.ibb.co/rfZdJqz/1551826702698.png
-https://i.ibb.co/tP7fNxJ/1551826716859.png
-https://i.ibb.co/B3YXm4B/1551826744863.png
 ## Eixos e setas
 
-![1551826499213](Formatações LT2019 - Quim.assets/1551826499213.png)
+![1551826499213](https://i.ibb.co/ssmpry3/1551026047443.png)
 
 ## Curva de Gráficos
 
-![1551826514793](Formatações LT2019 - Quim.assets/1551826514793.png)
+![1551826514793](https://i.ibb.co/SsjG5q6/1551026333127.png)
 
 ### Exemplo
 
-![1551826527637](Formatações LT2019 - Quim.assets/1551826527637.png)
+![1551826527637](https://i.ibb.co/HqBKX7b/1551826428124.png)
 
 ## Curiosidades
 
-![1551826469628](Formatações LT2019 - Quim.assets/1551826469628.png)
+![1551826469628](https://i.ibb.co/kXW08cF/1551826447617.png)
 
 ```
 ==curiosidade==
@@ -53,9 +33,9 @@ conteúdo
 
 ## Fórmulas Importantes
 
-![1551826579109](Formatações LT2019 - Quim.assets/1551826579109.png)
+![1551826579109](https://i.ibb.co/v4hKF5j/1551826469628.png)
 
-![1551826588756](Formatações LT2019 - Quim.assets/1551826588756.png)
+![1551826588756](https://i.ibb.co/xMZQXSP/1551826499213.png)
 
 ```
 ==fi==
@@ -67,9 +47,9 @@ n~t~=n~a~+n~b~+n~c~…
 
 ## Destaque Numérico Importante 1
 
-![1551826626795](Formatações LT2019 - Quim.assets/1551826626795.png)
+![1551826626795](https://i.ibb.co/pWg30Qb/1551826514793.png)
 
-![1551826640789](Formatações LT2019 - Quim.assets/1551826640789.png)
+![1551826640789](https://i.ibb.co/kJHNc5V/1551826527637.png)
 
 ```
 ==dni1==
@@ -84,9 +64,9 @@ R = 8,315 kPa.L/mol.K
 
 ## Destaque Numérico Importante 2
 
-![1551826661175](Formatações LT2019 - Quim.assets/1551826661175.png)
+![1551826661175](https://i.ibb.co/RzxnvsT/1551826540344.png)
 
-![1551826673546](Formatações LT2019 - Quim.assets/1551826673546.png)
+![1551826673546](https://i.ibb.co/R336HsL/1551826562737.png)
 
 ```
 ==dni2==
@@ -100,9 +80,9 @@ P = 1 bar = 100 kPa
 
 ## Destaque Textual Importante
 
-![1551826702698](Formatações LT2019 - Quim.assets/1551826702698.png)
+![1551826702698](https://i.ibb.co/ZNwMZSp/1551826579109.png)
 
-![1551826716859](Formatações LT2019 - Quim.assets/1551826716859.png)
+![1551826716859](https://i.ibb.co/g9Rt9CB/1551826588756.png)
 
 ```
 ==dti==
@@ -239,7 +219,7 @@ Finalmente, teremos que a resposta encontrada é **dfasdadsdfgdfhfhfhg**.
 
 ## Título
 
-![1551827016525](Formatações LT2019 - Quim.assets/1551827016525.png)
+![1551827016525](https://i.ibb.co/MPtcWLk/1551826626795.png)
 
 ```
 # Compostos Orgânicos Nitrogenados
@@ -249,9 +229,9 @@ Título encontrado na página de auxílio https://home.rdresolucoes.com/listateo
 
 ## Subtítulo
 
-![1551826540344](Formatações LT2019 - Quim.assets/1551826540344.png)
+![1551826540344](https://i.ibb.co/c2yZ31F/1551826640789.png)
 
-![1551826428124](Formatações LT2019 - Quim.assets/1551826428124.png)
+![1551826428124](https://i.ibb.co/M1m9cc6/1551826661175.png)
 
 ```
 ## Misturas Gasosas
@@ -259,9 +239,9 @@ Título encontrado na página de auxílio https://home.rdresolucoes.com/listateo
 
 ### Sub-subtítulo
 
-![1551826562737](Formatações LT2019 - Quim.assets/1551826562737.png)
+![1551826562737](https://i.ibb.co/SPKNkPW/1551826673546.png)
 
-![1551826447617](Formatações LT2019 - Quim.assets/1551826447617.png)
+![1551826447617](https://i.ibb.co/rfZdJqz/1551826702698.png)
 
 ```
 ### Pressão (P)
@@ -271,7 +251,9 @@ Título encontrado na página de auxílio https://home.rdresolucoes.com/listateo
 
 ## Retângulo de Preenchimento de Final de Página
 
-![1551826744863](Formatações LT2019 - Quim.assets/1551826744863.png)
+![1551826744863](https://i.ibb.co/tP7fNxJ/1551826716859.png)
+
+https://i.ibb.co/B3YXm4B/1551826744863.png
 
 Deve ocupar o final de uma página , no espaço onde ocorreu vácuo de conteúdo
 
