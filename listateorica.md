@@ -36,6 +36,12 @@ layout: default
 
 ![](https://i.ibb.co/Jr4JHLM/image.png)
 
+### Regras Gerais para UMA Lista Teórica
+
+1. Número de Caracteres Mínimo: **9000 caracteres** *(incluindo o código de imagem)*
+2. Número Mínimo de Questões Escolhidas/Confeccionadas: **10** *(DEZ)*
+3. Número Mínimo de **UMA** imagem em boa qualidade e **NÃO PIXELIZADA**.
+
 ### Formatos de resposta
 
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
@@ -64,6 +70,16 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 ### Markdown Tutorial
 
 [Site Markdown Treinamento](https://www.markdowntutorial.com)
+
+### Configuração Obrigatória do Aplicativo typora
+
+![](https://i.ibb.co/LptgWcX/image.png)
+
+![](https://i.ibb.co/kBddQx8/image.png)
+
+![](https://i.ibb.co/25STnsk/image.png)
+
+![](https://i.ibb.co/RcdYT2q/image.png)
 
 ### Relação LT x Material Base
 
