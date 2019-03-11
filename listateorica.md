@@ -57,7 +57,7 @@ Aqui estaria a resposta propriamente dita.
 ​
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
 
-### Aplicativos utilizados
+### Aplicativos Utilizados
 
 Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora, pois ele *permite a posterior formatação do material conforme as especificações de nosso cliente.*
 
@@ -73,31 +73,69 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 ### Guia Básico de Linguagem Markdown
 
-**Palavra em itálico:** ``_em itálico_``
-**Palavra em negrito:** ``**em negrito**``
-**Palavra em itálico e negrito:** ``**_em itálico e negrito_**``
+**Palavra em itálico:**
+```
+_em itálico_
+```
 
-**Título:** ``# Título``
-**Subtítulo:** ``## Subtítulo``
-**Subsubtítulo:** ``### Subsubtítulo``
+**Palavra em negrito:**
 
-**Imagem:** ``![](linkdaimagem/imagem.png)``
+```
+**em negrito**
+```
+
+
+**Palavra em itálico e negrito:**
+
+```
+**_em itálico e negrito_**
+```
+
+**Título:**
+
+```
+# Título
+```
+
+**Subtítulo:**
+
+```
+## Subtítulo
+```
+
+**Subsubtítulo:**
+
+```
+### Subsubtítulo
+```
+
+**Imagem:**
+
+```
+![](linkdaimagem/imagem.png)
+```
 
 **Lista Sem Ordem:**
-``* Uva``
-``* Mamão``
-``* Cereja``
+
+```
+* Uva
+* Mamão
+* Cereja
+```
 
 **Lista Ordenada:**
-``1. Uva``
-``2. Mamão``
-``3. Cereja``
+
+```
+1. Uva
+2. Mamão
+3. Cereja
+```
 
 ### Gerar Delimitador no TYPORA: *3 hífens + ENTER*
 
 ![](https://i.ibb.co/wWmHNc2/Gravar-2019-03-10-22-13-50-620.gif)
 
-### Configuração Obrigatória do Aplicativo typora
+### Configuração Obrigatória do Aplicativo Typora
 
 ![](https://i.ibb.co/LptgWcX/image.png)
 
