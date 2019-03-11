@@ -71,6 +71,32 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 
 [Site Markdown Treinamento](https://www.markdowntutorial.com)
 
+### Guia Básico de Linguagem Markdown
+
+**Palavra em itálico:** ``_em itálico_``
+**Palavra em negrito:** ``**em negrito**``
+**Palavra em itálico e negrito:** ``**_em itálico e negrito_**``
+
+**Título:** ``# Título``
+**Subtítulo:** ``## Subtítulo``
+**Subsubtítulo:** ``### Subsubtítulo``
+
+**Imagem:** ``![](linkdaimagem/imagem.png)``
+
+**Lista Sem Ordem:**
+``* Uva``
+``* Mamão``
+``* Cereja``
+
+**Lista Ordenada:**
+``1. Uva``
+``2. Mamão``
+``3. Cereja``
+
+### Gerar Delimitador no TYPORA: *3 hífens + ENTER*
+
+![](https://i.ibb.co/wWmHNc2/Gravar-2019-03-10-22-13-50-620.gif)
+
 ### Configuração Obrigatória do Aplicativo typora
 
 ![](https://i.ibb.co/LptgWcX/image.png)
@@ -80,6 +106,18 @@ Para a montagem da Lista Teórica, utilizamos o editor de textos gratuito Typora
 ![](https://i.ibb.co/25STnsk/image.png)
 
 ![](https://i.ibb.co/RcdYT2q/image.png)
+
+### Atalhos Essenciais do Mathtype
+
+**Ctrl+H:** Expoente
+**Ctrl+L:** Índice
+**Ctrl+J:** Expoente e Índice ao mesmo tempo
+**Ctrl+F:** Fração
+**Ctrl+0:** Parênteses Correto
+**Ctrl+Shift+E** Modo Texto(SOMENTE pra conseguir dar espaço no Mathtype)
+**Caixa de Destaque de resposta matemática final, em uma resolução:**
+
+![](https://i.ibb.co/jvffLkG/image.png)
 
 ### Relação LT x Material Base
 

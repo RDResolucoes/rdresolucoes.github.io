@@ -145,7 +145,7 @@ wish'd. To be wil?
 ou
 
 ```
-==ea()==
+==rea()==
 {
 L7
 }
