@@ -148,11 +148,17 @@ _em itálico_
 ### Atalhos Essenciais do Mathtype
 
 **Ctrl+H:** Expoente
+
 **Ctrl+L:** Índice
+
 **Ctrl+J:** Expoente e Índice ao mesmo tempo
+
 **Ctrl+F:** Fração
+
 **Ctrl+0:** Parênteses Correto
+
 **Ctrl+Shift+E** Modo Texto(SOMENTE pra conseguir dar espaço no Mathtype)
+
 **Caixa de Destaque de resposta matemática final, em uma resolução:**
 
 ![](https://i.ibb.co/jvffLkG/image.png)
