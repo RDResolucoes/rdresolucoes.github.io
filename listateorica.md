@@ -10,6 +10,14 @@ layout: default
 
 ​	Lista composta por um breve resumo sobre determinado assunto e alguns exercícios de treinamento. A profundidade e abrangência de seu conteúdo é delimitada por  materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente.
 
+### Vídeo-Aulas de treinamento
+
+[**CLIQUE AQUI**](https://www.youtube.com/playlist?list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
+
+### Teste Online de Verificação de Aptidão para montagem de LT´s
+
+[**CLIQUE AQUI**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
+
 ### Partes de uma Lista Teórica
 
 1. **Cabeçalho:** Nesta parte se encontram as informações sobre o arquivo e suas principais características.
