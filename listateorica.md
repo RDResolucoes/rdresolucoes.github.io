@@ -12,7 +12,7 @@ layout: default
 
 ### Vídeo-Aulas de treinamento
 
-[**CLIQUE AQUI**](https://www.youtube.com/playlist?list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
+[**CLIQUE AQUI**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
 
 ### Teste Online de Verificação de Aptidão para montagem de LT´s
 
