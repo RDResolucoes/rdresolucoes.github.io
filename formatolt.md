@@ -38,8 +38,9 @@ conteúdo
 ```
 ==fi==
 {
-P~t~.V=n~t~.R.T
-n~t~=n~a~+n~b~+n~c~…
+  $$\eqalign{
+    & {P_t} \cdot V = {n_t} \cdot R \cdot T  \cr
+    & {n_t} = {n_a} + {n_b} + {n_c}... \cr} $$
 }
 ```
 
