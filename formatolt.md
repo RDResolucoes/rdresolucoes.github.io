@@ -88,7 +88,7 @@ P = 1 bar = 100 kPa
 
 **T** é a temperatura em graus Kelvin
 
-**V~t~** é o volume total ocupado pelos gases
+${V_T}$ é o volume total ocupado pelos gases
 }
 ```
 

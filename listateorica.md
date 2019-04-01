@@ -8,7 +8,7 @@ layout: default
 
 ### O que É
 
-​	Lista composta por um breve resumo sobre determinado assunto e alguns exercícios de treinamento. A profundidade e abrangência de seu conteúdo é delimitada por  materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente.
+​Uma **Lista Teórica** é um documento composto por tipos de conteúdo sobre determinado assunto e, opcionalmente, alguns exercícios de treinamento desse conteúdo. A profundidade, abrangência e tipo de abordagem são delimitados por materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente, além do(s) tipo(s) de resposta(s) presente no cabeçalho do material.
 
 ### Vídeo-Aulas de treinamento
 
@@ -17,6 +17,11 @@ layout: default
 ### Teste Online de Verificação de Aptidão para montagem de LT´s
 
 [**CLIQUE AQUI**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
+
+### Regras Específicas Cliente a cliente
+
+1. [Listas para **PDRD**](https://home.rdresolucoes.com/regrasltpdrd)
+2. [Listas para **MEQRD**](https://home.rdresolucoes.com/regrasltmeqrd)
 
 ### Partes de uma Lista Teórica
 
@@ -50,13 +55,13 @@ layout: default
 2. Número Mínimo de Questões Escolhidas/Confeccionadas: **10** *(DEZ)*
 3. Número Mínimo de **UMA** imagem em boa qualidade e **NÃO PIXELIZADA**.
 
-### Formatos de resposta
+## Formatos de resposta
 
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
 
 ```
 ---
-==Resposta(Conteúdo)==
+==sigla_da _resposta_aqui==
 {
 Aqui estaria a resposta propriamente dita.
 }
@@ -64,6 +69,121 @@ Aqui estaria a resposta propriamente dita.
 ```
 ​
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
+
+### Formatos de Resposta Matemáticos
+
+#### Fórmulas Importantes
+
+```
+==fi==
+{
+  $$\eqalign{
+    & {P_t} \cdot V = {n_t} \cdot R \cdot T  \cr
+    & {n_t} = {n_a} + {n_b} + {n_c}... \cr} $$
+}
+```
+
+#### Destaque Numérico Importante 1
+
+```
+==dni1==
+{
+R = 0,082 atm.L/mol.K
+R = 62,3 mmHg.L/mol.K
+R = 8,315 kPa.L/mol.K
+}
+```
+#### Destaque Numérico Importante 2
+
+```
+==dni2==
+{
+P = 1 atm = 760 mmHg = 760 torr
+P = 1 bar = 100 kPa
+}
+```
+### Formatos de Resposta Textuais
+
+#### Curiosidade
+
+```
+==curiosidade==
+{
+conteúdo
+}
+```
+
+#### Destaque Textual Importante
+
+```
+==dti==
+{
+### Atenção
+
+**R** é uma constante e tem seu valor correspondente à unidade da pressão
+
+**T** é a temperatura em graus Kelvin
+
+${V_T}$ é o volume total ocupado pelos gases
+}
+```
+
+#### Resposta Resumo
+
+Neste trecho ficará o texto da apostila em si. Ele conterá imagens, exemplos, fórmulas, gráficos, etc.
+
+```
+==resumo==
+{
+conteúdo
+}
+```
+#### Resposta Enunciado Alternativa
+
+```
+==rea(ENEM 2015)==
+{
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
+- [ ] dfasdads
+- [ ] dfasdadsj,jmjmj
+- [ ] dfasdadsfxvxvxvxd
+- [x] dfasdadsdfgdfhfhfhg
+- [ ] dfasdadshjkghnfb
+}
+```
+
+#### Resposta Enunciado Resolução
+
+```
+==rer(ENEM 2015)==
+{
+There's wrong afterprises cowards of of of of ressor's the dothe pation death a
+sea off the quietus pation deat fled of troud make and the wish'd. To discove, or
+not of gruntry life, that pale calamity of of action. Thus turn no morthy takes
+off troubler in thousand natienter a bare bodkin? Who would fardels wrong end by a
+sleep: perchan fly to grunt a life; and by a sling after in thus this respect ther
+with there's calamity of the arms make when he of so long, there's we haveller
+wish'd. To be wil?
+
+**Resolução**
+---
+Passo de Contextualização
+---
+Passo 1
+---
+...
+---
+...
+---
+Finalmente, teremos que a resposta encontrada é **dfasdadsdfgdfhfhfhg**.
+}
+```
 
 ### Aplicativos Utilizados
 
@@ -170,19 +290,3 @@ _em itálico_
 **Caixa de Destaque de resposta matemática final, em uma resolução:**
 
 ![](https://i.ibb.co/jvffLkG/image.png)
-
-### Relação LT x Material Base
-
-![](https://i.ibb.co/XznjYzc/image.png)
-
-### Material Base de LT´s feitas até 01/05/2019
-
-[Acessar Pasta de Materiais](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
-
-### Banco de Questões
-
-[Banco de Questões para LT´s](https://docs.google.com/spreadsheets/d/10n_xo8ewdFkt2WaiCwP8rMwaDhvgCcpUrDNUZ4pcUdE/edit?usp=sharing)
-
-### Página com Formato da Lista Teórica
-
-[Formato da Lista Teórica para membros RD e equipe interna](https://home.rdresolucoes.com/formatolt)
