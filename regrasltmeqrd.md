@@ -12,7 +12,7 @@ layout: default
 
 ### Regras de Aceite do Material
 
-1. Número de Caracteres Mínimo: **9000 caracteres** *(incluindo o código de imagem)* e *sem incluir rea ou rer*.
+1. Número de Caracteres Mínimo: **5500 caracteres** *(incluindo o código de imagem)* e *sem incluir rea ou rer*.
 2. Essa LT deve conter ***UMA Resposta Resumo EXATAMENTE*** e ***DEZ Respostas Enunciado Alternativa no MÍNIMO***
 3. Número Mínimo de **DUAS** imagens em boa qualidade e **NÃO PIXELIZADAS**, na resposta ***Resumo***
 4. A resposta **Resumo** da LT deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
