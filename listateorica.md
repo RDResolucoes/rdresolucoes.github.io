@@ -54,12 +54,10 @@ layout: default
 As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
 
 ```
----
 ==sigla_da _resposta_aqui==
 {
 Aqui estaria a resposta propriamente dita.
 }
----
 ```
 ​
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
