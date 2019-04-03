@@ -53,4 +53,4 @@ ou
 ==link da bibliografia==
 
 ### Valor do material
-==A combinar==
+*Valor bruto por unidade de Lista Teórica aprovada pelo cliente:* **R$ 6,00**
