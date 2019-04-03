@@ -10,7 +10,7 @@ description: Olá, coordenador! Nesta página está explicado passo a passo como
 
 [*Forms de Cadastro de Membros*](https://goo.gl/forms/6qz8SDPxvC4NT2Sb2)
 
-[*Lista de Assuntos LT-MEQRD Atuais*](https://drive.google.com/drive/folders/1i84eI1cNtOjm3VlmC-9HcisJevmOsnEm?usp=sharing)
+[*Lista de Assuntos LT-MEQRD Atuais*](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhYIqMqNkNiFRYDf90of6DkRSftb-lDpu_fkQTfnlPGrMPjjkF-RQTGfkJBG6BfMvLSTznw6CSYB0w/pubhtml?gid=0&single=true)
 
 [*Lista de Assuntos LT-PDRD Atuais*](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGQ8uUcUeEme7Dyyf-yBvDFq1GdV6-gFXyHk8l4JuqWb9CRpw1kh45rk3UQ4ktdXWyfyQwxX6uWtcj/pubhtml?gid=1755051344&single=true)
 
