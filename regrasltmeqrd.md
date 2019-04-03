@@ -27,9 +27,9 @@ E **NÃO DEVEM POSSUIR A FONTE ORIGINAL**, visto que ela foi coletada utilizando
 7. O nível educacional dessas listas teóricas é o de pré-vestibular.
 8. O material BASE dessas LT´s são as vídeo-aulas de nosso cliente, acessíveis no link logo abaixo.
 
-### Relação LT x Material Base até 01/05/2019
+### Relação Assuntos LT-MEQRD
 
-![](https://i.ibb.co/XznjYzc/image.png)
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhYIqMqNkNiFRYDf90of6DkRSftb-lDpu_fkQTfnlPGrMPjjkF-RQTGfkJBG6BfMvLSTznw6CSYB0w/pubhtml?gid=0&single=true)
 
 ### Material Base de LT´s feitas até 01/05/2019
 
