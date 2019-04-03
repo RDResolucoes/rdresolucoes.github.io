@@ -14,7 +14,7 @@ layout: default
 
 1. Número de Caracteres Mínimo: **5500 caracteres** *(incluindo o código de imagem)* e *sem incluir rea ou rer*.
 2. Essa LT deve conter ***UMA Resposta Resumo EXATAMENTE*** e ***DEZ Respostas Enunciado Alternativa no MÍNIMO***.
-3. Número Mínimo de **DUAS** imagens em boa qualidade e **NÃO PIXELIZADAS**, na resposta ***Resumo***
+3. Número Mínimo de **DUAS** imagens em boa qualidade e **NÃO PIXELIZADAS**, na resposta ***Resumo***.
 4. As imagens devem ter a descrição/nome como na imagem abaixo:
 
 ![](https://i.ibb.co/qrRRgwL/image.png)

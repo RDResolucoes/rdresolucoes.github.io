@@ -14,6 +14,12 @@ description: Olá, coordenador! Nesta página está explicado passo a passo como
 
 [*Lista de Assuntos LT-PDRD Atuais*](https://docs.google.com/spreadsheets/d/e/2PACX-1vSGQ8uUcUeEme7Dyyf-yBvDFq1GdV6-gFXyHk8l4JuqWb9CRpw1kh45rk3UQ4ktdXWyfyQwxX6uWtcj/pubhtml?gid=1755051344&single=true)
 
+## Templates de Listas Teóricas Produzidas
+
+[LT-MEQRD](https://drive.google.com/uc?export=download&id=1BYUKw9zofkAXIA39-Hy2Ryn3QQWa-MkH)
+
+[LT-PDRD](https://drive.google.com/uc?export=download&id=1_8tl0pgdzQpbouXN5hIYg-ah025PIGQf)
+
 ## Gerador de AID´s
 
 <html><head>    
