@@ -10,6 +10,10 @@ layout: default
 
 ​As regras dessa página são válidas para **Listas Teóricas MEQRD**. Um membro RD que confeccione listas desse tipo devem respeitar e formatar seus materiais de acordo com tais regras!
 
+### Template a ser utilizada
+
+[Baixe a Template agora!](https://drive.google.com/uc?export=download&id=1BYUKw9zofkAXIA39-Hy2Ryn3QQWa-MkH)
+
 ### Regras de Aceite do Material
 
 1. Número de Caracteres Mínimo: **5500 caracteres** *(incluindo o código de imagem)* e *sem incluir rea ou rer*.

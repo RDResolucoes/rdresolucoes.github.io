@@ -10,6 +10,10 @@ layout: default
 
 ​As regras dessa página são válidas para **Listas Teóricas PDRD**. Um membro RD que confeccione listas desse tipo devem respeitar e formatar seus materiais de acordo com tais regras!
 
+### Template a ser utilizada
+
+[Baixe a Template agora!](https://drive.google.com/uc?export=download&id=1_8tl0pgdzQpbouXN5hIYg-ah025PIGQf)
+
 ### Regras de Aceite do Material
 
 1. Número de Caracteres Mínimo: **4500 caracteres** *(incluindo o código de imagem)*
@@ -38,7 +42,7 @@ ou
 * O assunto de uma LT-PDRD é **temporário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da LT para **ter certeza se sua LT comportará 4500 caracteres sobre aquele assunto**. Se o produzido contiver menos de 3500 caracteres, avise seu coordenador sobre a possibilidade de união de seu assunto com outro mais aberto, de modo que os 4500 caracteres sejam atingidos.
 * Da mesma forma que a regra anterior, se o assunto de sua LT render acima de 7000 caracteres, avise seu coordenador sobre a possibilidade de fragmentação do assunto, de forma que sua LT possa se transformar em 2,3,4 listas teóricas, sempre visando atingir 4500 caracteres por nova lista teórica.**Lembrando que, inicialmente, toda nova LT sugerida deve ser aprovada pelo seu coordenador antes do início de sua confecção.**
 * **Sempre** verifique a lista de assuntos atuais abaixo, para ter certeza que seu assunto é **ÚNICO**, e não um subtipo ou sinônimo de outro assunto listado.
-* **Assuntos Sinônimos não serão aceitos**, com a regra de que a Lista Teórica mais completa será aceita para pagamento e a LT sinônima, **INVALIDADA**. 
+* **Assuntos Sinônimos não serão aceitos**, com a regra de que a Lista Teórica mais completa será aceita para pagamento e a LT sinônima, **INVALIDADA**.
 
 ### Lista de Assuntos Atualmente em produção
 
