@@ -21,10 +21,13 @@ layout: default
 
 E **NÃO DEVEM POSSUIR A FONTE ORIGINAL**, visto que a imagem foi coletada utilizando o aplicativo Lightshot.
 
-5. Conteúdo da LT deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
-6. O nível educacional dessas listas teóricas é *variado*, mas ***inicialmente assuma SEMPRE ser de ensino superior***.
-7. O material BASE dessas LT´s é a **a BIBLIOGRAFIA OFICIAL fornecida pela RD**, acessível no link logo abaixo.
-8. Em **nenhuma parte do documento** deve ser usado o delimitador de resoluções:
+* A LT deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
+* Conteúdo pode ter até 7% de semelhança com algum material online, porém semelhança superior **será considerado plágio e o material será INVALIDADO.**
+* Não estruturar assuntos com formatos de sites conhecidos, como a estrutura de assuntos no *infoescola, wikipedia, trabalhosfeitos*, entre outros. Materiais com estruturas muito semelhantes a tais sites **SERÃO INVALIDADOS.**
+* O nível educacional dessas listas teóricas é *variado*, mas ***inicialmente ASSUMA SEMPRE ser para alunos do ensino superior***.
+* O material BASE dessas LT´s é a **a BIBLIOGRAFIA OFICIAL fornecida pela RD**, acessível no link logo abaixo.
+* Caso o assunto que você tenha pego não esteja presente na bibliografia oficial, informe seu coordenador para que possamos obter uma fonte apropriada.
+* Em **nenhuma parte do documento** deve ser usado o delimitador de resoluções:
 
 ---
 ou
@@ -32,12 +35,12 @@ ou
 ```
 ---
 ```
-9. O assunto de uma LT-PDRD é **temporário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da LT para **ter certeza se sua LT comportará 4500 caracteres sobre aquele assunto**. Se o produzido contiver menos de 3500 caracteres, avise seu coordenador sobre a possibilidade de união de seu assunto com outro mais aberto, de modo que os 4500 caracteres sejam atingidos.
-10. Da mesma forma que a regra anterior, se o assunto de sua LT render acima de 7000 caracteres, avise seu coordenador sobre a possibilidade de fragmentação do assunto, de forma que sua LT possa se transformar em 2,3,4 listas teóricas, sempre visando atingir 4500 caracteres por nova lista teórica.**Lembrando que, inicialmente, toda nova LT sugerida deve ser aprovada pelo seu coordenador antes do início de sua confecção.**
+* O assunto de uma LT-PDRD é **temporário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da LT para **ter certeza se sua LT comportará 4500 caracteres sobre aquele assunto**. Se o produzido contiver menos de 3500 caracteres, avise seu coordenador sobre a possibilidade de união de seu assunto com outro mais aberto, de modo que os 4500 caracteres sejam atingidos.
+* Da mesma forma que a regra anterior, se o assunto de sua LT render acima de 7000 caracteres, avise seu coordenador sobre a possibilidade de fragmentação do assunto, de forma que sua LT possa se transformar em 2,3,4 listas teóricas, sempre visando atingir 4500 caracteres por nova lista teórica.**Lembrando que, inicialmente, toda nova LT sugerida deve ser aprovada pelo seu coordenador antes do início de sua confecção.**
 
 ### Lista de Tópicos Atualmente em produção
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGQ8uUcUeEme7Dyyf-yBvDFq1GdV6-gFXyHk8l4JuqWb9CRpw1kh45rk3UQ4ktdXWyfyQwxX6uWtcj/pubhtml?gid=1755051344&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSGQ8uUcUeEme7Dyyf-yBvDFq1GdV6-gFXyHk8l4JuqWb9CRpw1kh45rk3UQ4ktdXWyfyQwxX6uWtcj/pubhtml?gid=1755051344&single=true
 
 ### Bibliografia Oficial RD
 

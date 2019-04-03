@@ -22,9 +22,10 @@ layout: default
 E **NÃO DEVEM POSSUIR A FONTE ORIGINAL**, visto que ela foi coletada utilizando o aplicativo Lightshot.
 
 5. A resposta **Resumo** da LT deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
+* Conteúdo pode ter até 10% de semelhança com algum material online, porém semelhança superior **será considerado plágio e o material será INVALIDADO.**
 6. As respostas **Enunciado Alternativa** devem ser **preferencialmente questões do ENEM de aplicações anteriores**, ou de nosso banco de questões.
 7. O nível educacional dessas listas teóricas é o de pré-vestibular.
-8. O material BASE dessas LT´s são as vídeoaulas de nosso cliente, acessíveis no link logo abaixo.
+8. O material BASE dessas LT´s são as vídeo-aulas de nosso cliente, acessíveis no link logo abaixo.
 
 ### Relação LT x Material Base até 01/05/2019
 
