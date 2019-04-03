@@ -35,6 +35,10 @@ ou
 9. O assunto de uma LT-PDRD é **temporário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da LT para **ter certeza se sua LT comportará 4500 caracteres sobre aquele assunto**. Se o produzido contiver menos de 3500 caracteres, avise seu coordenador sobre a possibilidade de união de seu assunto com outro mais aberto, de modo que os 4500 caracteres sejam atingidos.
 10. Da mesma forma que a regra anterior, se o assunto de sua LT render acima de 7000 caracteres, avise seu coordenador sobre a possibilidade de fragmentação do assunto, de forma que sua LT possa se transformar em 2,3,4 listas teóricas, sempre visando atingir 4500 caracteres por nova lista teórica.**Lembrando que, inicialmente, toda nova LT sugerida deve ser aprovada pelo seu coordenador antes do início de sua confecção.**
 
+### Lista de Tópicos Atualmente em produção
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGQ8uUcUeEme7Dyyf-yBvDFq1GdV6-gFXyHk8l4JuqWb9CRpw1kh45rk3UQ4ktdXWyfyQwxX6uWtcj/pubhtml?gid=1755051344&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ### Bibliografia Oficial RD
 
 ==link da bibliografia==
