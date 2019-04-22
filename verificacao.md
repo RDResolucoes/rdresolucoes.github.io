@@ -9,14 +9,6 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
 
 <html><head>    
     <script type="text/javascript">
-    	function setCPF(){
-    		var url = window.location.href;
-    		var line = url.split("line=")[1].split("&")[0];
-    		var cpf = url.split("cpf=")[1].split("&")[0];
-    		document.getElementById("cpf").value = cpf;
-    		document.getElementById("line").value = line;
-    	};
-    	
     	function httpGet(theUrl) {
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
@@ -35,11 +27,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     	};
     </script>
   </head>
-  <body onload="setCPF();">
-        <form action="" onsubmit="search();" method="get">
-      CPF: <input id="cpf" type="text" value="" readonly><input type="submit" value="Buscar"><br>
-          <input id="line" name="line" type="hidden" value=""><br>
-    </form>
+  <body onload="search();">
     <p id="nome" name="nome">value</p>
     <p id="cpf1" name="cpf1"></p>
     <p id="cpf2" name="cpf2"></p>
