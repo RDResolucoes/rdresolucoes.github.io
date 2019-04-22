@@ -24,5 +24,6 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
           <input id="single" type="text" value="true"><br>
           <input id="range" type="text" value=""><br>
       <input type="button" value="Buscar" onclick="submit();"><br><br>
+      <input type="button" value="Preencher" onclick="setCPF();"><br><br>
     </form>
 </body></html>
