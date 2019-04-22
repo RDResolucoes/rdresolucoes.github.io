@@ -20,8 +20,8 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var doc_url = "https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml";
     		var url = window.location.href;
     		var line = url.split("line=")[1].split("&")[0];
-    		var cpf = "a";//url.split("cpf=")[1].split("&")[0];
-    		var doc_cpf = "b";//httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
+    		var cpf = url;//url.split("cpf=")[1].split("&")[0];
+    		var doc_cpf = url;//httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
     		document.getElementById("cpf1").innerHTML = cpf;
     		document.getElementById("cpf2").innerHTML = doc_cpf;
     	};
