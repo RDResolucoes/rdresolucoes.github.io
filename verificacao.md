@@ -12,7 +12,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     	function setCPF(){
     		var line = window.location.searchParams.get("line");
     		var cpf = window.location.searchParams.get("cpf");
-    		document.getElementById("cpf").value = cpfs;
+    		document.getElementById("cpf").value = cpf;
     		document.getElementById("range").value = line+":"+line;
     	}
     </script>
