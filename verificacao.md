@@ -10,16 +10,16 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
 <html><head>    
     <script type="text/javascript">
     	function setCPF(){
-    		var line = window.location.href.searchParams.get("line");
-    		var cpf = window.location.href.searchParams.get("cpf");
-    		document.getElementById("cpf").value = "09275985669";
+    		var line = '2';//window.location.href.searchParams.get("line");
+    		var cpf = "09275985669";//window.location.href.searchParams.get("cpf");
+    		document.getElementById("cpf").value = cpf;
     		document.getElementById("range").value = line+":"+line;
-    	}
+    	};
     </script>
   </head>
   <body onload="setCPF();">
         <form action="https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml" method="get" target="_blank">
-      CPF: <input id="cpf" name="cpf" type="text" value="" readonly><br>
+      CPF: <input id="cpf" type="text" value="" readonly><br>
           <input name="gid" type="text" value="0"><br>
           <input name="single" type="text" value="true"><br>
           <input id="range" name="range" type="text" value=""><br>
