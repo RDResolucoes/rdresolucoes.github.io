@@ -20,10 +20,12 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
   </head>
   <body onload="setCPF();">
         <form action="https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml" method="get" target="_blank">
-      CPF: <input id="cpf" type="text" value="" readonly><br>
+      CPF: <input id="cpf" type="text" value="" readonly><input type="submit" value="Buscar"><br>
           <input name="gid" type="hidden" value="0"><br>
           <input name="single" type="hidden" value="true"><br>
           <input id="range" name="range" type="hidden" value=""><br>
-      <input type="submit" value="Buscar"><br><br>
     </form>
+    <?php 
+    echo "Teste"
+    ?>
 </body></html>
