@@ -10,9 +10,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
 <html><head>    
     <script type="text/javascript">
     	function setCPF(){
-    		var line = '2';//window.location.href.searchParams.get("line");
-    		var cpf = "09275985669";//window.location.href.searchParams.get("cpf");
-    		document.getElementById("cpf").value = window.location.href.searchParams.get("cpf");
+    		var url = window.location.href;
+    		var line = url.split("line=")[1].split("&")[0];
+    		var cpf = url.split("cpf=")[1].split("&")[0];
+    		document.getElementById("cpf").value = cpf;
     		document.getElementById("range").value = line+":"+line;
     	};
     </script>
