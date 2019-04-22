@@ -14,7 +14,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		document.getElementById("cpf").value = cpf;
-    		document.getElementById("range").value = line;
+    		document.getElementById("range").value = line.concat(":",line);
     	};
     </script>
   </head>
