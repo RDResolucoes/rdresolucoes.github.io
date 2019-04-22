@@ -14,7 +14,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		document.getElementById("cpf").value = cpf;
-    		document.getElementById("range").value = line+":"+line;
+    		document.getElementById("range").value = line;
     	};
     </script>
   </head>
@@ -24,7 +24,6 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
           <input name="gid" type="text" value="0"><br>
           <input name="single" type="text" value="true"><br>
           <input id="range" name="range" type="text" value=""><br>
-      <input type="button" value="Preencher" onclick="setCPF();">
       <input type="submit" value="Buscar"><br><br>
     </form>
 </body></html>
