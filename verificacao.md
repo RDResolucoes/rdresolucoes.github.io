@@ -13,7 +13,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
             xmlHttp.send( null );
-            return xmlHttp.responseText;
+            return xmlHttp.responseText.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
         };
     	
     	function search(){
