@@ -40,5 +40,5 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
       CPF: <input id="cpf" type="text" value="" readonly><input type="submit" value="Buscar"><br>
           <input id="line" name="line" type="hidden" value=""><br>
     </form>
-    <p name="nome" value="value"/>
+    <p name="nome">value</p>
 </body></html>
