@@ -18,11 +18,11 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     </script>
   </head>
   <body onload="setCPF();">
-    <form action="https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml" method="get" target="_blank">
-      CPF: <input id="cpf" type="text" value="" readonly>
-          <input id="gid" type="text" value="0">
-          <input id="single" type="text" value="true">
-          <input id="range" type="text" value="">
+        <form action="https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml" method="get" target="_blank">
+      CPF: <input id="cpf" type="text" value="" readonly><br>
+          <input id="gid" type="text" value="0"><br>
+          <input id="single" type="text" value="true"><br>
+          <input id="range" type="text" value=""><br>
       <input type="button" value="Buscar" onclick="submit();"><br><br>
     </form>
 </body></html>
