@@ -10,8 +10,8 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
 <html><head>    
     <script type="text/javascript">
     	function setCPF(){
-    		var line = window.location.searchParams.get("line");
-    		var cpf = window.location.searchParams.get("cpf");
+    		var line = window.location.href.searchParams.get("line");
+    		var cpf = window.location.href.searchParams.get("cpf");
     		document.getElementById("cpf").value = cpf;
     		document.getElementById("range").value = line+":"+line;
     	}
