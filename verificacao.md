@@ -48,7 +48,8 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var url = window.location.href;
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
-    		var doc_cpf = getCPF(line);
+    		var tudo = getLine(line);
+    		var doc_cpf = tudo.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
     		if(cpf!=doc_cpf) {
     			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
@@ -56,7 +57,6 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var tudo = getLine(line);
     		var nome = tudo.split('class="s0"')[1].split('>')[1].split('<')[0];//getName(line);
     		var num = tudo.split('class="s2"')[1].split('>')[1].split('<')[0];//getNum(line);
     		var tempo = tudo.split('class="s2"')[2].split('>')[1].split('<')[0];//getTime(line);
