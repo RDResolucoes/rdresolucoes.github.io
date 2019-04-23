@@ -40,10 +40,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     </script>
   </head>
   <body onload="search();">
-    <p id="nome" name="nome">NOME: </p>
+    <p id="nome" name="nome"><strong>NOME</strong>: </p>
     <p id="cpf" name="cpf">CPF: </p>
-    <p id="num" name="num">NÚMERO DE MATERIAIS: </p>
-    <p id="tempo" name="tempo">TEMPO DE TRABALHO: </p>
-    <p id="assuntost" name="assuntost">ASSUNTOS: </p>
+    <p id="num" name="num"><strong>NÚMERO DE MATERIAIS</strong>: </p>
+    <p id="tempo" name="tempo"><strong>TEMPO DE TRABALHO</strong>: </p>
+    <p id="assuntost" name="assuntost"><strong>ASSUNTOS</strong>: </p>
     <p id="assuntos" name="assuntos"></p>
 </body></html>
