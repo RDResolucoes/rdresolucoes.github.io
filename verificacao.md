@@ -21,6 +21,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 return httpGet("A".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
         };
         
+        function getLine(line) {
+                return httpGet(line);
+        };
+        
         function getName(line) {
                 return httpGet("B".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
         };
@@ -49,10 +53,11 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var nome = getName(line);
-    		var num = getNum(line);
-    		var tempo = getTime(line);
-    		var assuntos = getSubj(line);
+    		var tudo = getLine(line);
+    		var nome = tudo.split('class="s1"')[1].split('>')[1].split('<')[0];//getName(line);
+    		var num = tudo.split('class="s3"')[1].split('>')[1].split('<')[0];//getNum(line);
+    		var tempo = tudo.split('class="s3"')[2].split('>')[1].split('<')[0];//getTime(line);
+    		var assuntos = tudo.split('class="softmerge-inner"')[2].split(">")[1].split("<")[0];//getSubj(line);
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
