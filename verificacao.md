@@ -58,10 +58,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var nome = getName(line);
-    		var num = getNum(line);
-    		var tempo = getTime(line);
-    		var assuntos = getSubj(line);
+    		var nome = getName(tudo);
+    		var num = getNum(tudo);
+    		var tempo = getTime(tudo);
+    		var assuntos = getSubj(tudo);
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
