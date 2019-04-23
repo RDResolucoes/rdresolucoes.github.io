@@ -32,6 +32,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
         function getTime(line) {
                 return httpGet("E".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
         };
+        
+        function getSubj(line) {
+                return httpGet("C".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+        };
     	
     	function search(){
     		var url = window.location.href;
@@ -48,11 +52,15 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var nome = getName(line);
     		var num = getNum(line);
     		var tempo = getTime(line);
+    		var assuntos = getSubj(line).split(";");
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
     		document.getElementById("tempo").innerHTML += tempo;    
-    		//document.getElementById("assuntos").innerHTML += tempo;    
+    		document.getElementById("assuntos").innerHTML += "<ul>";    
+    		for(var i=0; i<assuntos.length; i++)
+    			document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
+    		document.getElementById("assuntos").innerHTML += "</ul>";    
     	};
     </script>
   </head>
