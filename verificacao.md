@@ -29,10 +29,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
+    		//var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
     		//var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
     		//var tempo = httpGet(doc_url.concat("?gid=0&single=true&range=E",line));
-    		document.getElementById("nome").innerHTML = nome;    
+    		document.getElementById("nome").innerHTML = line;    
     		document.getElementById("cpf").innerHTML = cpf;    
     		//document.getElementById("tempo").innerHTML += tempo;    
     		//document.getElementById("assuntos").innerHTML += tempo;    
