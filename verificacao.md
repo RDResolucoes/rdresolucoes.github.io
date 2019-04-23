@@ -20,28 +20,28 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
             return xmlHttp.responseText;
         };
         
-        function getCPF(line) {
-                return httpGet("A".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
-        };
-        
         function getLine(line) {
                 return httpGet(line);
         };
         
+        function getCPF(line) {
+                return line.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+        };
+        
         function getName(line) {
-                return httpGet("B".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+                return line.split('class="s0"')[1].split('>')[1].split('<')[0];
         };
         
         function getNum(line) {
-                return httpGet("D".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+                return line.split('class="s2"')[1].split('>')[1].split('<')[0];
         };
         
         function getTime(line) {
-                return httpGet("E".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+                return line.split('class="s2"')[2].split('>')[1].split('<')[0];
         };
         
         function getSubj(line) {
-                return httpGet("C".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+                return line.split('class="softmerge-inner"')[2].split(">")[1].split("<")[0].split(';');
         };
     	
     	function search(){
@@ -49,7 +49,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var tudo = getLine(line);
-    		var doc_cpf = tudo.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+    		var doc_cpf = getCPF(tudo);
     		if(cpf!=doc_cpf) {
     			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
@@ -57,17 +57,17 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var nome = tudo.split('class="s0"')[1].split('>')[1].split('<')[0];//getName(line);
-    		var num = tudo.split('class="s2"')[1].split('>')[1].split('<')[0];//getNum(line);
-    		var tempo = tudo.split('class="s2"')[2].split('>')[1].split('<')[0];//getTime(line);
-    		var assuntos = tudo.split('class="softmerge-inner"')[2].split(">")[1].split("<")[0].split(';');//getSubj(line);
+    		var nome = getName(line);
+    		var num = getNum(line);
+    		var tempo = getTime(line);
+    		var assuntos = getSubj(line);
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
     		document.getElementById("tempo").innerHTML += tempo;    
     		document.getElementById("assuntos").innerHTML += "<ul>";    
     		document.getElementById("assuntos").innerHTML += "<li>";    
-    		for(var i=0; i<assuntos.length; i++)
+    		for(var i=1; i<assuntos.length; i++)
     			document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
     		document.getElementById("assuntos").innerHTML += "</ul>"; 
     	};
