@@ -23,11 +23,11 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var doc_cpf = httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
     		if(cpf!=doc_cpf) {
-    			document.getElementById("cpf").innerHTML = "ERRO: dados inválids";    
+    			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
-                document.getElementById("cpf").innerHTML = "";    
+                document.getElementById("num").innerHTML = "";    
                 document.getElementById("tempo").innerHTML = "";    
-                document.getElementById("assuntos").innerHTML = "";    							return;
+                document.getElementById("assuntost").innerHTML = "";    							return;
     		}
     		var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
     		var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
