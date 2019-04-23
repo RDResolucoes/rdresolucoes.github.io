@@ -31,7 +31,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var doc_cpf = getCPF(line);
     		if(cpf!=doc_cpf) {
-    			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
+    			document.getElementById("cpf").innerHTML = doc_cpf;//"<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
                 document.getElementById("num").innerHTML = "";    
                 document.getElementById("tempo").innerHTML = "";    
