@@ -23,7 +23,11 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var doc_cpf = httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
     		if(cpf!=doc_cpf) {
-    			document.getElementById("cpf").innerHTML = "ERRO: dados inválids";    					return;
+    			document.getElementById("cpf").innerHTML = "ERRO: dados inválids";    
+                document.getElementById("nome").innerHTML = "";    
+                document.getElementById("cpf").innerHTML = "";    
+                document.getElementById("tempo").innerHTML = "";    
+                document.getElementById("assuntos").innerHTML = "";    							return;
     		}
     		var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
     		var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
@@ -40,6 +44,6 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     <p id="cpf" name="cpf">CPF: </p>
     <p id="num" name="num">NÚMERO DE MATERIAIS: </p>
     <p id="tempo" name="tempo">TEMPO DE TRABALHO: </p>
-    <p>ASSUNTOS: </p>
+    <p id="assuntost" name="assuntost">ASSUNTOS: </p>
     <p id="assuntos" name="assuntos"></p>
 </body></html>
