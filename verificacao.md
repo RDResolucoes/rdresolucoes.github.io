@@ -22,7 +22,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
         };
         
         function getName(line) {
-                return httpGet("B".concat(line));
+                return httpGet("B".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
         };
     	
     	function search(){
