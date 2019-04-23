@@ -34,7 +34,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
         };
         
         function getSubj(line) {
-                return httpGet("C".concat(line));//.split('class="s0"')[1].split(">")[1].split("<")[0];
+                return httpGet("C".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
         };
     	
     	function search(){
