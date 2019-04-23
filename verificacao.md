@@ -34,7 +34,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
         };
         
         function getSubj(line) {
-                return httpGet("C".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+                return httpGet("C".concat(line));//.split('class="s0"')[1].split(">")[1].split("<")[0];
         };
     	
     	function search(){
@@ -52,16 +52,16 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var nome = getName(line);
     		var num = getNum(line);
     		var tempo = getTime(line);
-    		//var assuntos = getSubj(line).split(";");
+    		var assuntos = getSubj(line);
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
     		document.getElementById("tempo").innerHTML += tempo;    
-    		document.getElementById("assuntos").innerHTML += "<ul>";    
-    		document.getElementById("assuntos").innerHTML += "<li>teste</li>"
+    		document.getElementById("assuntos").innerHTML += assuntos;//"<ul>";    
+    		//document.getElementById("assuntos").innerHTML += "<li>teste</li>"
     		//for(var i=0; i<assuntos.length; i++)
     		//	document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
-    		document.getElementById("assuntos").innerHTML += "</ul>"; 
+    		//document.getElementById("assuntos").innerHTML += "</ul>"; 
     	};
     </script>
   </head>
