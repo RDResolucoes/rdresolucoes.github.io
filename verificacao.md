@@ -9,19 +9,27 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
 
 <html><head>    
     <script type="text/javascript">
-    	function httpGet(theUrl) {
+    	function httpGet(range) {
+    		var theUrl = "https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml?gid=0&single=true&range=".concat(range);
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
             xmlHttp.send( null );
-            return xmlHttp.responseText.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+            return xmlHttp.responseText;
+        };
+        
+        function getCPF(line) {
+                return httpGet("A".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+        };
+        
+        function getName(line) {
+                return httpGet("B".concat(line));
         };
     	
     	function search(){
-    		var doc_url = "https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml";
     		var url = window.location.href;
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
-    		var doc_cpf = httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
+    		var doc_cpf = getCPF(line);
     		if(cpf!=doc_cpf) {
     			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
@@ -29,10 +37,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
-    		var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
+    		var nome = getName(line);
     		//var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
     		//var tempo = httpGet(doc_url.concat("?gid=0&single=true&range=E",line));
-    		document.getElementById("nome").innerHTML = line;    
+    		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		//document.getElementById("tempo").innerHTML += tempo;    
     		//document.getElementById("assuntos").innerHTML += tempo;    
