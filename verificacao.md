@@ -16,6 +16,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
             xmlHttp.send( null );
+    		console.log(theUrl);
     		console.log(xmlHttp.responseText);
             return xmlHttp.responseText;
         };
