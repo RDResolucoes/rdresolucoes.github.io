@@ -57,9 +57,9 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
     		var tudo = getLine(line);
-    		var nome = tudo.split('class="s1"')[1].split('>')[1].split('<')[0];//getName(line);
-    		var num = tudo.split('class="s3"')[1].split('>')[1].split('<')[0];//getNum(line);
-    		var tempo = tudo.split('class="s3"')[2].split('>')[1].split('<')[0];//getTime(line);
+    		var nome = tudo.split('class="s0"')[1].split('>')[1].split('<')[0];//getName(line);
+    		var num = tudo.split('class="s2"')[1].split('>')[1].split('<')[0];//getNum(line);
+    		var tempo = tudo.split('class="s2"')[2].split('>')[1].split('<')[0];//getTime(line);
     		var assuntos = tudo.split('class="softmerge-inner"')[2].split(">")[1].split("<")[0];//getSubj(line);
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
