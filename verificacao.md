@@ -41,7 +41,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
   </head>
   <body onload="search();">
     <p id="nome" name="nome"><strong>NOME</strong>: </p>
-    <p id="cpf" name="cpf">CPF: </p>
+    <p id="cpf" name="cpf"><strong>CPF</strong>: </p>
     <p id="num" name="num"><strong>NÚMERO DE MATERIAIS</strong>: </p>
     <p id="tempo" name="tempo"><strong>TEMPO DE TRABALHO</strong>: </p>
     <p id="assuntost" name="assuntost"><strong>ASSUNTOS</strong>: </p>
