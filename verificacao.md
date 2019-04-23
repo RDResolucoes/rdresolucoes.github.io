@@ -18,11 +18,15 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
         };
         
         function getCPF(line) {
-                return httpGet("A".concat(line));//s.split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
+                return httpGet("A".concat(line)).split('class="softmerge-inner"')[1].split(">")[1].split("<")[0];
         };
         
         function getName(line) {
                 return httpGet("B".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
+        };
+        
+        function getNum(line) {
+                return httpGet("D".concat(line)).split('class="s0"')[1].split(">")[1].split("<")[0];
         };
     	
     	function search(){
@@ -31,17 +35,18 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var doc_cpf = getCPF(line);
     		if(cpf!=doc_cpf) {
-    			document.getElementById("cpf").innerHTML = doc_cpf;//"<h1>ERRO: dados inválids</h1>";    
+    			document.getElementById("cpf").innerHTML = "<h1>ERRO: dados inválids</h1>";    
                 document.getElementById("nome").innerHTML = "";    
                 document.getElementById("num").innerHTML = "";    
                 document.getElementById("tempo").innerHTML = "";    
                 document.getElementById("assuntost").innerHTML = "";    							return;
     		}
     		var nome = getName(line);
-    		//var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
+    		var num = getNum(line);
     		//var tempo = httpGet(doc_url.concat("?gid=0&single=true&range=E",line));
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
+    		document.getElementById("num").innerHTML += num;    
     		//document.getElementById("tempo").innerHTML += tempo;    
     		//document.getElementById("assuntos").innerHTML += tempo;    
     	};
