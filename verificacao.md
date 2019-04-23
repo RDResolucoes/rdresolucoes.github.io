@@ -22,13 +22,24 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		var line = url.split("line=")[1].split("&")[0];
     		var cpf = url.split("cpf=")[1].split("&")[0];
     		var doc_cpf = httpGet(doc_url.concat("?gid=0&single=true&range=A",line));
-    		document.getElementById("cpf1").innerHTML = cpf;
-    		document.getElementById("cpf2").innerHTML = doc_cpf;
+    		if(cpf!=doc_cpf) {
+    			document.getElementById("cpf").innerHTML = "ERRO: dados inválids";    					return;
+    		}
+    		var nome = httpGet(doc_url.concat("?gid=0&single=true&range=B",line));
+    		var num = httpGet(doc_url.concat("?gid=0&single=true&range=D",line));
+    		var tempo = httpGet(doc_url.concat("?gid=0&single=true&range=E",line));
+    		document.getElementById("nome").innerHTML += nome;    
+    		document.getElementById("cpf").innerHTML += cpf;    
+    		document.getElementById("tempo").innerHTML += tempo;    
+    		document.getElementById("assuntos").innerHTML += tempo;    
     	};
     </script>
   </head>
   <body onload="search();">
-    <p id="nome" name="nome">value</p>
-    <p id="cpf1" name="cpf1"></p>
-    <p id="cpf2" name="cpf2"></p>
+    <p id="nome" name="nome">NOME: </p>
+    <p id="cpf" name="cpf">CPF: </p>
+    <p id="num" name="num">NÚMERO DE MATERIAIS: </p>
+    <p id="tempo" name="tempo">TEMPO DE TRABALHO: </p>
+    <p>ASSUNTOS: </p>
+    <p id="assuntos" name="assuntos"></p>
 </body></html>
