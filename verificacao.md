@@ -13,10 +13,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		if(!isNaN(range))
     			range = range.concat(":",range);
     		var theUrl = "https://docs.google.com/spreadsheets/d/1uSAoq6YB6vYt7urYJPBcj3QfTQ57K-FnXzp0dBwj0OM/pubhtml?gid=0&single=true&range=".concat(range);
-    		console.log(theUrl);
             var xmlHttp = new XMLHttpRequest();
             xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
             xmlHttp.send( null );
+    		console.log(xmlHttp.responseText);
             return xmlHttp.responseText;
         };
         
