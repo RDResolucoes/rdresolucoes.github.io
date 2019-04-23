@@ -57,11 +57,10 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
     		document.getElementById("tempo").innerHTML += tempo;    
-    		document.getElementById("assuntos").innerHTML += assuntos;//"<ul>";    
-    		//document.getElementById("assuntos").innerHTML += "<li>teste</li>"
-    		//for(var i=0; i<assuntos.length; i++)
-    		//	document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
-    		//document.getElementById("assuntos").innerHTML += "</ul>"; 
+    		document.getElementById("assuntos").innerHTML += "<ul>";    
+    		for(var i=0; i<assuntos.length; i++)
+    			document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
+    		document.getElementById("assuntos").innerHTML += "</ul>"; 
     	};
     </script>
   </head>
