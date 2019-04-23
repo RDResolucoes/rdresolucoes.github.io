@@ -65,7 +65,7 @@ description: Bem vindo! Verifique a validade dos dados do certificado!
     		document.getElementById("nome").innerHTML += nome;    
     		document.getElementById("cpf").innerHTML += cpf;    
     		document.getElementById("num").innerHTML += num;    
-    		document.getElementById("tempo").innerHTML += tempo;    
+    		document.getElementById("tempo").innerHTML += tempo.concat(" horas");    
     		document.getElementById("assuntos").innerHTML += "<ul>";   
     		for(var i=0; i<assuntos.length; i++)
     			document.getElementById("assuntos").innerHTML += "<li>".concat(assuntos[i],";</li>"); 
