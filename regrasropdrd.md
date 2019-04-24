@@ -36,7 +36,8 @@ E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja col
 * Caso o assunto que você tenha pego não esteja presente na bibliografia oficial, informe seu coordenador para que possamos obter uma fonte apropriada.
 
 #### Atenção!
-* O assunto e disciplina de uma RO-PDRD são **inseridos pelo usuário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da RO para **ter certeza se o assunto e disciplina são os corretos para aquela pergunta e se a pergunta em si condiz academicamente**. Se não tiver fundo acadêmico, avise seu coordenador para que a pergunta seja anulada.
+* O assunto e disciplina de uma RO-PDRD são **inseridos pelo usuário**, ou seja, são passíveis de estarem **errados**.
+* Um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da RO para **ter certeza se o assunto e disciplina são os corretos para aquela pergunta e se a pergunta em si condiz academicamente**. Se não houver fundo acadêmico, avise seu coordenador para que a pergunta seja anulada.
 * Resoluções **acima de 3000 caracteres** são desencorajadas. Caso perceba que uma pergunta irá **render mais que esse número de caracteres, NÃO a faça.** Avise seu coordenador para excluirmos essa pergunta, visto que ela **foge à precificação realizada pela RDResoluções.**
 * **Sempre** verifique a validade da pergunta *antes de respondê-la*. Se for uma pergunta feita sem fundo acadêmico ``(que cor é o céu? sinônimo de amor com 7 letras? Como faço um teste de DNA em recém-nascido?)``, **não a responda e informe seu coordenador para excluirmos essa pergunta.**
 * RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.**
