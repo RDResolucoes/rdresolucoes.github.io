@@ -21,7 +21,8 @@ layout: default
 ### Regras Específicas Cliente a cliente
 
 1. [Listas para **PDRD**](https://home.rdresolucoes.com/regrasltpdrd)
-2. [Listas para **MEQRD**](https://home.rdresolucoes.com/regrasltmeqrd)
+2. [Resoluções Online PDRD](https://home.rdresolucoes.com/regrasropdrd)
+3. [Listas para **MEQRD**](https://home.rdresolucoes.com/regrasltmeqrd)
 
 ### Partes de uma Lista Teórica
 
