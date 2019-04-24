@@ -28,7 +28,7 @@ E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja col
 * A RO deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
 * Conteúdo pode ter até 7% de semelhança com algum material online, porém semelhança superior **será considerado plágio e o material será INVALIDADO.** Utilizamos plataforma anti-plágio via *google source*, por isso desencorajamos fortemente tentativas de plágio por parte de nossos membros!
 * Não responder de forma semelhante a de sites conhecidos, como  *brainly, slater, yahoo respostas*, entre outros. Materiais com estruturas muito semelhantes a tais sites **SERÃO INVALIDADOS MESMO QUE CONTENHAM CONTEÚDO ORIGINAL.** Siga o modelo de resposta padrão logo abaixo.
-* O nível educacional das RO´s é *variado*, mas ***inicialmente ASSUMA SEMPRE ser para alunos do ensino superior***.
+* O nível educacional das RO´s é *variado*, mas ***inicialmente ASSUMA SEMPRE ser voltado para o ensino superior***.
 * O material BASE dessas RO´s é a **a BIBLIOGRAFIA OFICIAL fornecida pela RD**, acessível no link logo abaixo.
 * Caso o assunto que você tenha pego não esteja presente na bibliografia oficial, informe seu coordenador para que possamos obter uma fonte apropriada.
 * O assunto e disciplina de uma RO-PDRD são **inseridos pelo usuário**, ou seja, um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da RO para **ter certeza se o assunto e disciplina são os corretos para aquela pergunta e se a pergunta em si condiz academicamente**. Se não tiver fundo acadêmico, avise seu coordenador para que a pergunta seja anulada.
