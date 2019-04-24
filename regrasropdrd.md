@@ -21,9 +21,9 @@ layout: default
 3. Quaisquer imagens utilizadas devem ser em boa qualidade e **NÃO PIXELIZADAS**. Use o teorema do bom senso em biológicas e humanas para uso de imagens
 4. As imagens devem ter a descrição/nome como na imagem abaixo:
 
-![](https://i.ibb.co/qrRRgwL/image.png)
+![](https://i.ibb.co/rQkv8Bv/image.png)
 
-E **NÃO DEVEM POSSUIR A FONTE ORIGINAL**, visto que a imagem foi coletada utilizando o aplicativo Lightshot.
+E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja coletada utilizando o aplicativo Lightshot.
 
 * A RO deve conter conteúdo *ORIGINAL*, ou seja, **não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
 * Conteúdo pode ter até 7% de semelhança com algum material online, porém semelhança superior **será considerado plágio e o material será INVALIDADO.**

@@ -12,11 +12,17 @@ layout: default
 
 ### Vídeo-Aulas de treinamento
 
-[**CLIQUE AQUI**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
+[**CLIQUE AQUI PRA LT´S**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
+
+[**CLIQUE AQUI PRA RO´S**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan3fh1wYtLdj_1zogS-LCXzq)
 
 ### Teste Online de Verificação de Aptidão para montagem de LT´s
 
 [**CLIQUE AQUI**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
+
+### Teste Online de Verificação de Aptidão para montagem de RO´s
+
+[**CLIQUE AQUI**](https://forms.gle/GaUXWhuFKdiSXNcV6)
 
 ### Regras Específicas Cliente a cliente
 
