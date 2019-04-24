@@ -38,9 +38,13 @@ E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja col
 #### Atenção!
 * O assunto e disciplina de uma RO-PDRD são **inseridos pelo usuário**, ou seja, são passíveis de estarem **errados**.
 * Um membro RD deve usar o bom senso e seus conhecimentos prévios da disciplina da RO para **ter certeza se o assunto e disciplina são os corretos para aquela pergunta e se a pergunta em si condiz academicamente**. Se não houver fundo acadêmico, avise seu coordenador para que a pergunta seja anulada.
-* Resoluções **acima de 3000 caracteres** são desencorajadas. Caso perceba que uma pergunta irá **render mais que esse número de caracteres, NÃO a faça.** Avise seu coordenador para excluirmos essa pergunta, visto que ela **foge à precificação realizada pela RDResoluções.**
-* **Sempre** verifique a validade da pergunta *antes de respondê-la*. Se for uma pergunta feita sem fundo acadêmico ``(que cor é o céu? sinônimo de amor com 7 letras? Como faço um teste de DNA em recém-nascido?)``, **não a responda e informe seu coordenador para excluirmos essa pergunta.**
-* RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.**
+* **Sempre** verifique a validade da pergunta *antes de respondê-la*. Se for uma pergunta feita sem fundo acadêmico ``(que cor é o céu? sinônimo de amor com 7 letras? Como faço um teste de DNA em recém-nascido?)``, **não a responda e avise seu coordenador para que a pergunta seja anulada.**
+
+#### Atenção! Atenção!
+* RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.** Novamente, use o bom senso e veja se a pergunta tem validade acadêmica ou é apenas recreativa/nerd/retórica/sem sentido/terra-planista. Essas últimas, pelo menos até o momento, não temos clientes dispostos a pagar para que sejam respondidas xD
+
+#### É Importante que Saiba!
+Resoluções **acima de 3000 caracteres** são desencorajadas. Caso você perceba que uma pergunta irá **render mais que esse número de caracteres, NÃO a faça.** Avise seu coordenador para excluirmos essa pergunta, visto que ela **foge à precificação proposta pela RDResoluções.**
 
 ### Resposta Padrão de uma RO
 
