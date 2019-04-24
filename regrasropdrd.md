@@ -41,7 +41,7 @@ E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja col
 * **Sempre** verifique a validade da pergunta *antes de respondê-la*. Se for uma pergunta feita sem fundo acadêmico ``(que cor é o céu? sinônimo de amor com 7 letras? Como faço um teste de DNA em recém-nascido?)``, **não a responda e avise seu coordenador para que a pergunta seja anulada.**
 
 #### Atenção! Atenção!
-* RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.** Novamente, use o bom senso e veja se a pergunta tem validade acadêmica ou é apenas recreativa/nerd/retórica/sem sentido/terra-planista. Essas últimas, pelo menos até o momento, não temos clientes dispostos a pagar para que sejam respondidas xD
+RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.** Novamente, use o bom senso e veja se a pergunta tem validade acadêmica ou é apenas recreativa/nerd/retórica/sem sentido/terra-planista. Essas últimas, pelo menos até o momento, não temos clientes dispostos a pagar para que sejam respondidas xD
 
 #### É Importante que Saiba!
 Resoluções **com 2000 caracteres a mais do que o documento possui no início** devem não existir. Caso você perceba que uma pergunta irá **render mais que esse número de caracteres para sua resposta, NÃO A RESOLVA.** Avise seu coordenador para excluirmos essa pergunta, já que ela **foge à precificação proposta pela RDResoluções.**
