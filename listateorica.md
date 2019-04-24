@@ -16,15 +16,13 @@ layout: default
 
 [**CLIQUE AQUI PRA RO´S**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan3fh1wYtLdj_1zogS-LCXzq)
 
-### Teste Online de Verificação de Aptidão para montagem de LT´s
+### Teste Online de Verificação de Aptidão
 
-[**CLIQUE AQUI**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
+[**CLIQUE AQUI PRA LT´S**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
 
-### Teste Online de Verificação de Aptidão para montagem de RO´s
+[**CLIQUE AQUI PRA RO´S**](https://forms.gle/GaUXWhuFKdiSXNcV6)
 
-[**CLIQUE AQUI**](https://forms.gle/GaUXWhuFKdiSXNcV6)
-
-### Regras Específicas Cliente a cliente
+### Regras Específicas Material/Cliente
 
 1. [Listas para **PDRD**](https://home.rdresolucoes.com/regrasltpdrd)
 2. [**Resoluções Online** PDRD](https://home.rdresolucoes.com/regrasropdrd)
