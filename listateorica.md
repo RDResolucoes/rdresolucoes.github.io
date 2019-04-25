@@ -8,17 +8,17 @@ layout: default
 
 ### O que É
 
-​Uma **Lista Teórica** é um documento composto por tipos de conteúdo sobre determinado assunto e, opcionalmente, alguns exercícios de treinamento desse conteúdo. A profundidade, abrangência e tipo de abordagem são delimitados por materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente, além do(s) tipo(s) de resposta(s) presente no cabeçalho do material.
+Uma **Lista Teórica** é um documento composto por tipos de conteúdo sobre determinado assunto e, opcionalmente, alguns exercícios de treinamento desse conteúdo. A profundidade, abrangência e tipo de abordagem são delimitados por materiais de consulta fornecidos por pessoal autorizado pela RD ou por nosso cliente, além do(s) tipo(s) de resposta(s) presente no cabeçalho do material.
 
 ### Vídeo-Aulas de treinamento
 
-[**CLIQUE AQUI PRA LT´S**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
+[**CLIQUE AQUI PRA LT´S (PDRD e MEQRD)**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan0KuBsnVMFFBkymwMFQx9Y9)
 
 [**CLIQUE AQUI PRA RO´S**](https://www.youtube.com/watch?v=QF8yrRb8HHU&list=PL9nUmxpvYan3fh1wYtLdj_1zogS-LCXzq)
 
 ### Teste Online de Verificação de Aptidão
 
-[**CLIQUE AQUI PRA LT´S**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
+[**CLIQUE AQUI PRA LT´S (PDRD e MEQRD)**](https://goo.gl/forms/6Vnw5dVpz8Oolrq33)
 
 [**CLIQUE AQUI PRA RO´S**](https://forms.gle/GaUXWhuFKdiSXNcV6)
 
@@ -64,7 +64,7 @@ As respostas montadas pelo aplicativo Typora costumam ter o seguinte formato:
 Aqui estaria a resposta propriamente dita.
 }
 ```
-​
+
 Cada modelo de resposta tem suas próprias especificações que, ao longo da produção, serão explicados no momento apropriado.
 
 ### Formatos de Resposta Matemáticos
