@@ -18,7 +18,7 @@ layout: default
 
 #### Tipos de Resposta e Número de Caracteres
 
-1. Número de Caracteres Mínimo: **2000 caracteres** *(incluindo o código de imagem e caracteres matemáticos)*
+1. Número de Caracteres Mínimo: **1000 caracteres ALÉM do número inicial de caracteres no documento recebido** *(incluindo o código de imagem e caracteres matemáticos)*
 2. Essa RO contém **somente uma**  ***Resposta Enunciado Resolução***: ``==rer==``
 3. Quaisquer imagens utilizadas devem ser em boa qualidade e **NÃO PIXELIZADAS**. Use o teorema do bom senso em biológicas e humanas para uso de imagens.
 4. As imagens devem ter a descrição/nome como na imagem abaixo:
@@ -41,23 +41,31 @@ E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja col
 * **Sempre** verifique a validade da pergunta *antes de respondê-la*. Se for uma pergunta feita sem fundo acadêmico ``(que cor é o céu? sinônimo de amor com 7 letras? Como faço um teste de DNA em recém-nascido?)``, **não a responda e avise seu coordenador para que a pergunta seja anulada.**
 
 #### Atenção! Atenção!
-* RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.** Novamente, use o bom senso e veja se a pergunta tem validade acadêmica ou é apenas recreativa/nerd/retórica/sem sentido/terra-planista. Essas últimas, pelo menos até o momento, não temos clientes dispostos a pagar para que sejam respondidas xD
+RO´s que forem feitas a partir de perguntas sem fundo acadêmico **não serão pagas, independente da justificativa fornecida.** Novamente, use o bom senso e veja se a pergunta tem validade acadêmica ou é apenas recreativa/nerd/retórica/sem sentido/terra-planista. Essas últimas, pelo menos até o momento, não temos clientes dispostos a pagar para que sejam respondidas xD
 
 #### É Importante que Saiba!
-Resoluções **acima de 3000 caracteres** são desencorajadas. Caso você perceba que uma pergunta irá **render mais que esse número de caracteres, NÃO a faça.** Avise seu coordenador para excluirmos essa pergunta, visto que ela **foge à precificação proposta pela RDResoluções.**
+Resoluções **com 2000 caracteres a mais do que o documento possui no início** devem não existir. Caso você perceba que uma pergunta irá **render mais que esse número de caracteres para sua resposta, NÃO A RESOLVA.** Avise seu coordenador para excluirmos essa pergunta, já que ela **foge à precificação proposta pela RDResoluções.**
 
 ### Resposta Padrão de uma RO
 
 Neste passo inicial, explicaremos quais assuntos iremos utilizar para respondermos a pergunta, além de comentarmos sobre assuntos que possam ser estudados e que melhorarão o aprendizado do aluno que utilizar essa resolução.
 
----
-Neste passo, resolveremos passo a passo a pergunta, quer seja de cunho matemático, conceitual ou didático. Este passo pode ter o tamanho que for necessário.
+------
+
+Neste passo, resolveremos passo a passo a pergunta, quer seja de cunho matemático, conceitual ou didático.
+
+Este passo pode ter o tamanho que for necessário.
 
 E pode incluir diversas linhas de texto.
 
 Desde que façam sentido dentro do contexto da resolução e mostrem alguma sequência lógica de raciocínio.
 
----
+------
+
+Pode acontecer que durante a resolução, um resultado intermediário ou um raciocínio encontrado deva ser aplicado em outra parte da matéria, como aplicarmos o teorema de Pitágoras em um triângulo retângulo, *após* termos encontrado os respectivos valores de seus catetos.
+
+------
+
 Finalmente, no passo de conclusão devemos destacar em **negrito as respostas escritas** e com caixas de destaque as respostas matemáticas. Este passo deve ser curto e direto ao ponto.
 
 

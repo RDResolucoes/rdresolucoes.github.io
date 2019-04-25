@@ -260,6 +260,10 @@ _em itálico_
 
 ![](https://i.ibb.co/wWmHNc2/Gravar-2019-03-10-22-13-50-620.gif)
 
+### Contagem Individual de Caracteres no TYPORA
+
+![](https://i.ibb.co/xj7MnCt/image.png)
+
 ### Configuração Obrigatória do Aplicativo Typora
 
 ![](https://i.ibb.co/LptgWcX/image.png)
