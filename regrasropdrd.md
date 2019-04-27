@@ -8,7 +8,7 @@ layout: default
 
 ### O que É
 
-​As regras dessa página são válidas para **Resoluções Online PDRD**, um tipo de lista teórica composta *pela resolução de uma pergunta de usuário de plataformas parceiras da RD*. Um membro RD que confeccione resoluções online deve respeitar e formatar seus materiais de acordo com tais regras!
+As regras dessa página são válidas para **Resoluções Online PDRD**, um tipo de lista teórica composta *pela resolução de uma pergunta de usuário de plataformas parceiras da RD*. Um membro RD que confeccione resoluções online deve respeitar e formatar seus materiais de acordo com tais regras!
 
 ### Exemplo de Resolução Online
 
@@ -18,7 +18,7 @@ layout: default
 
 #### Tipos de Resposta e Número de Caracteres
 
-1. Número de Caracteres Mínimo: **1000 caracteres ALÉM do número inicial de caracteres no documento recebido** *(incluindo o código de imagem e caracteres matemáticos)*
+1. Número de Caracteres Mínimo: **750 caracteres ALÉM do número inicial de caracteres no documento recebido** *(incluindo o código de imagem e caracteres matemáticos)*
 2. Essa RO contém **somente uma**  ***Resposta Enunciado Resolução***: ``==rer==``
 3. Quaisquer imagens utilizadas devem ser em boa qualidade e **NÃO PIXELIZADAS**. Use o teorema do bom senso em biológicas e humanas para uso de imagens.
 4. As imagens devem ter a descrição/nome como na imagem abaixo:
