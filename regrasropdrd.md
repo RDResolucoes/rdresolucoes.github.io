@@ -71,7 +71,8 @@ Finalmente, no passo de conclusão devemos destacar em **negrito as respostas es
 
 ### Bibliografia Oficial RD
 
-==link da bibliografia==
+[link da Bibliografia](https://drive.google.com/drive/folders/1qpmG2ENZ776OtpUQvtgoWiGNH-bCay_d?usp=sharing)
 
 ### Valor do material
+
 *Valor bruto por unidade de Lista Teórica aprovada pelo cliente:* **R$ 2,35**

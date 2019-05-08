@@ -8,7 +8,7 @@ layout: default
 
 ### O que É
 
-​As regras dessa página são válidas para **Listas Teóricas PDRD**. Um membro RD que confeccione listas desse tipo devem respeitar e formatar seus materiais de acordo com tais regras!
+As regras dessa página são válidas para **Listas Teóricas PDRD**. Um membro RD que confeccione listas desse tipo devem respeitar e formatar seus materiais de acordo com tais regras!
 
 ### Template a ser utilizada
 
@@ -50,7 +50,7 @@ ou
 
 ### Bibliografia Oficial RD
 
-==link da bibliografia==
+[link da Bibliografia](https://drive.google.com/drive/folders/1qpmG2ENZ776OtpUQvtgoWiGNH-bCay_d?usp=sharing)
 
 ### Valor do material
 *Valor bruto por unidade de Lista Teórica aprovada pelo cliente:* **R$ 7,50**
