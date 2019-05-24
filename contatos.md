@@ -52,7 +52,7 @@ Meu atual coordenador é **Nome Completo Coordenador Aqui**.
 | :---: | :---: |
 |Dúvida Financeira Aqui|Pagamentos<br>Cota de Produção<br>Atraso no Pagamento<br>Impostos<br>Não recebimento<br>Quando vou receber<br>Como vou receber|
 |Dúvida explicada em detalhes aqui|LIVRE|
-|Nome Completo Coordenador Aqui|Angélica Dumas<br>André Smaira<br>Francisco Bernardo<br>Aline Ferreira<br>Marcos Vinicius Reballo<br>Gustavo Martins|
+|Nome Completo Coordenador Aqui|Francisco Bernardo<br>Renato Nicoletti|
 
 #### Exemplo
 
