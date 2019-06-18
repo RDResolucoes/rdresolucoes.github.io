@@ -46,7 +46,7 @@ ou
 
 ### Lista de Assuntos Atualmente em produção
 
-[link dos Assuntos Trabalhados](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_-JQuXecU3LQp2qrUHy6OAhtj642KQsWnJG93embdPf9s8msZlRTlfvuxtIJ6V5oy1kEeIuqlSfpb/pubhtml?gid=331596712&single=true)
+[link dos Assuntos Trabalhados](https://docs.google.com/spreadsheets/d/e/2PACX-1vS_-JQuXecU3LQp2qrUHy6OAhtj642KQsWnJG93embdPf9s8msZlRTlfvuxtIJ6V5oy1kEeIuqlSfpb/pubhtml)
 
 ### Bibliografia Oficial RD
 
