@@ -46,7 +46,7 @@ description: Nesta seção, vamos abordar o regime de pagamentos de qualquer mat
 <h2 id="mês-da-rd">Mês da RD</h2>
 <p>Começa no primeiro dia útil do mês e termina em seu último dia útil.</p>
 <h2 id="dia-do-pagamento">Dia do Pagamento</h2>
-<p>Se o seu material for aprovado até <em>uma semana</em> antes do <strong>último dia útil do mês RD</strong>, o pagamento ocorrerá no <em>último dia útil do mês seguinte</em><sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup></p>
+<p>Se o seu material for aprovado até <em>uma semana</em> antes do <strong>último dia útil do mês RD</strong>, o pagamento ocorrerá no <em>último dia do mês seguinte</em><sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup></p>
 <h2 id="fatores-que-afetam-o-valor-pago">Fatores que afetam o Valor Pago</h2>
 <p>Diversos fatores afetam o preço pago por um material, além da própria data de pagamento. Para realizar o cálculo para o <strong>questionário</strong>, utilize a fórmula ao final da seção.</p>
 <h3 id="alguns-cenários">Alguns cenários<sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup></h3>
