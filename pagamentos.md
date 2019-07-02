@@ -10,9 +10,11 @@ description: Nesta seção, vamos abordar o regime de pagamentos de qualquer mat
   <div class="stackedit__html"><h1 id="pagamentos">Pagamentos</h1>
 <h2 id="valores-brutos"><strong>Valores Brutos</strong></h2>
 <ul>
-<li><strong>Resolução Online</strong> R$ 2,35</li>
-<li><strong>Questionário Base:</strong> R$ 30,00</li>
-<li><strong>Tópico de Aula:</strong> R$ 4,70</li>
+<li><strong>Resolução Online (RO)</strong> R$ 2,35</li>
+<li><strong>Listas Teóricas 1 (LTPDRD)</strong> R$ 7,50</li>
+<li><strong>Listas Teóricas 2 (MEQRD)</strong> R$ 15,00</li>
+<!--<li><strong>Questionário Base:</strong> R$ 30,00</li>-->
+<!--<li><strong>Tópico de Aula:</strong> R$ 4,70</li>-->
 </ul>
 <h2 id="forma-de-pagamento"><strong>Forma de Pagamento</strong></h2>
 <p>Atualmente pagamos exclusivamente via transferência bancária, com os custos da transferência pagos pelo produtor (R$1,70 para transferências para o banco do Brasil, R$11,00 para os demais bancos).</p><a name="conta de terceiros"></a>
