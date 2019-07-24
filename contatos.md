@@ -64,12 +64,18 @@ Meu atual coordenador é **Francisco Bernardo**.
 ## Modelo de E-mail para Troca de Dados Bancários
 
 ```
-Assunto: CargoRDAIDaqui - Documentos para recebimento em conta de terceiros
+Assunto: CargoRD-AIDaqui - Troca de Dados Bancários
 
-Conteúdo do E-mail: Olá, tenho uma dúvida sobre **Dúvida Financeira Aqui**. **Dúvida explicada em detalhes aqui**.
+Conteúdo do E-mail: Olá, gostaria que alterar meus dados bancários.
 Meu atual coordenador é **Nome Completo Coordenador Aqui**.
 
-```
+Banco: **Nome do banco**
+Agência: **Número da agência com dígito verificador, se for o caso**
+Conta Corrente: **Número da conta corrente com dígito verificador**
+CPF: **CPF do titular da conta**
 
+Anexar autorização conforme descrito em https://home.rdresolucoes.com/pagamentos.html se a conta for de terceiros.
+
+```
 
 [back](./)
