@@ -24,9 +24,9 @@ Uma **Lista Teórica** é um documento composto por tipos de conteúdo sobre det
 
 ### Regras Específicas Material/Cliente
 
-1. [Listas para **PDRD**](https://home.rdresolucoes.com/regrasltpdrd)
-2. [**Resoluções Online** PDRD](https://home.rdresolucoes.com/regrasropdrd)
-3. [Listas para **MEQRD**](https://home.rdresolucoes.com/regrasltmeqrd)
+1. [Listas para **PDRD**](https://rdresolucoes.com/regrasltpdrd)
+2. [**Resoluções Online** PDRD](https://rdresolucoes.com/regrasropdrd)
+3. [Listas para **MEQRD**](https://rdresolucoes.com/regrasltmeqrd)
 
 ### Partes de uma Lista Teórica
 
