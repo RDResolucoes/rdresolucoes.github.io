@@ -27,11 +27,13 @@ As regras dessa página são válidas para **Resoluções Online PDRD**, um tipo
 
 E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja coletada utilizando o aplicativo Lightshot.
 
-5. Para RO´s que necessitem do uso de caracteres **MATEMÁTICOS**, confira se os caracteres da RO estão na lista dos reconhecidos pelo compilador do cliente: 
+#### Caracteres Matemáticos
+
+Para RO´s que necessitem do uso de caracteres matemáticos, confira se os caracteres da RO estão na lista dos reconhecidos pelo compilador do cliente:
 
 [Caracteres Reconhecidos](https://katex.org/docs/supported.html)
 
-5.1 Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo(ou outro erro semelhante) para o compilador **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la à seu coordenador!(Regra válida a partir de 23/09/2019)
+Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo(ou outro erro semelhante) para o compilador do cliente **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la ao seu coordenador!(Regra válida a partir de 23/09/2019)
 
 #### Critérios de Plágio: Semelhanças com Respostas Já Existentes
 * A RO deve conter conteúdo *ORIGINAL*, ou seja, **o conteúdo não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
