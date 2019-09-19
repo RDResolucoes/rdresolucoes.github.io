@@ -33,6 +33,8 @@ Para RO´s que necessitem do uso de caracteres matemáticos, confira se os carac
 
 [Caracteres Reconhecidos](https://katex.org/docs/supported.html)
 
+[Copie e cole seus caracteres aqui, para verificar se irá aparecer corretamente](https://katex.org/#demo)
+
 Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo(ou outro erro semelhante) para o compilador do cliente **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la ao seu coordenador!(Regra válida a partir de 23/09/2019)
 
 #### Critérios de Plágio: Semelhanças com Respostas Já Existentes
