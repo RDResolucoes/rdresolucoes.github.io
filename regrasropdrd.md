@@ -35,7 +35,13 @@ Para RO´s que necessitem do uso de caracteres matemáticos, confira se os carac
 
 [Copie e cole seus caracteres aqui, para verificar se irá aparecer corretamente](https://katex.org/#demo)
 
-Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo(ou outro erro semelhante) para o compilador do cliente **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la ao seu coordenador!(Regra válida a partir de 23/09/2019)
+Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo ( _com exceção do erro mencionado logo abaixo_) para o compilador do cliente **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la ao seu coordenador!(Regra válida a partir de 23/09/2019)
+
+##### (Exceção)Erro Causado pelo uso do comando _eqalign_
+
+O único erro conhecido dentro do compilador do cliente que não será considerado como erro de formatação é o uso do comando _eqalign_, usado para alinhar linhas de equações. Caso você teste seu código matemático (que contenha o comando eqalign) e encontre um erro como o da imagem logo a seguir, esse erro não será considerado no caso acima.
+
+![](https://i.ibb.co/K6284Qd/image.png)
 
 #### Critérios de Plágio: Semelhanças com Respostas Já Existentes
 * A RO deve conter conteúdo *ORIGINAL*, ou seja, **o conteúdo não pode ser copiado de nenhum site da internet**. Isso também é válido para seus gráficos e diagramas.
