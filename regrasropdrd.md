@@ -18,14 +18,14 @@ As regras dessa página são válidas para **Resoluções Online PDRD**, um tipo
 
 #### Tipos de Resposta e Número de Caracteres
 
-1. Número de Caracteres Mínimo: **750 caracteres ALÉM do número inicial de caracteres no documento recebido** *(incluindo o código de imagem e caracteres matemáticos)*
+1. Número de Caracteres Mínimo: **600 caracteres ALÉM do número inicial de caracteres no documento recebido** *(incluindo o código de imagem e caracteres matemáticos)*
 2. Essa RO contém **somente uma**  ***Resposta Enunciado Resolução***: ``==rer==``
 3. Quaisquer imagens utilizadas devem ser em boa qualidade e **NÃO PIXELIZADAS**. Use o teorema do bom senso em biológicas e humanas para uso de imagens.
 4. As imagens devem ter a descrição/nome como na imagem abaixo:
 
 ![](https://i.ibb.co/rQkv8Bv/image.png)
 
-E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM**, mesmo que a imagem seja coletada utilizando o aplicativo Lightshot.
+E **DEVEM POSSUIR A FONTE ORIGINAL COMO NA IMAGEM** (sem o link), mesmo que a imagem seja coletada utilizando o aplicativo Lightshot.
 
 #### Caracteres Matemáticos
 
@@ -37,7 +37,7 @@ Para RO´s que necessitem do uso de caracteres matemáticos, confira se os carac
 
 Caracteres Matemáticos que *não estiverem na lista acima* resultarão em erro na plataforma do cliente. RO´s que gerarem erros deste tipo ( _com exceção do erro mencionado logo abaixo_) para o compilador do cliente **serão anuladas e não pagas, sem direito à retorno para correção.** Use o bom senso e verifique sua RO antes de submetê-la ao seu coordenador!(Regra válida a partir de 23/09/2019)
 
-##### (Exceção)Erro Causado pelo uso do comando _eqalign_
+##### (Exceção) Erro Causado pelo uso do comando _eqalign_
 
 O único erro conhecido dentro do compilador do cliente que não será considerado como erro de formatação é o uso do comando _eqalign_, usado para alinhar linhas de equações. Caso você teste seu código matemático (que contenha o comando eqalign) e encontre um erro como o da imagem logo a seguir, esse erro não será considerado no caso acima.
 
